@@ -48,10 +48,8 @@ html {
 }
 
 .VPHero .text {
-  background: linear-gradient(135deg, var(--vp-c-brand-1), #42a5f5);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: var(--vp-c-brand-1);
+  -webkit-text-fill-color: currentColor;
 }
 
 .VPDoc .content-container:has(.wide-table) {

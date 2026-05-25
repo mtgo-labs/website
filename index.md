@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: MTGo
-  text: Go Telegram MTProto Client
+  text: Telegram MTProto Client for Go
   tagline: Fast, idiomatic, and feature-complete Go library for the Telegram MTProto API
   image:
     src: /mtgo-web.png
