@@ -1,0 +1,15 @@
+{
+  "name": "mtgo-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "mtgo documentation website",
+  "scripts": {
+    "tlgen": "go run tools/tlgen_docs/main.go ../mtgo/compiler/source/api.tl .",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}

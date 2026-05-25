@@ -1,0 +1,69 @@
+# MTGo
+
+> A fast, idiomatic, and feature-complete Go library for the Telegram MTProto API. Full API access, type-safe, zero CGO dependencies, Go 1.22+.
+
+Full API reference is available on [pkg.go.dev](https://pkg.go.dev/github.com/mtgo-labs/mtgo), although you SHOULD prefer reading types from LSP instead.
+
+## Table of Contents
+
+### Getting Started
+
+- [Quick Start](https://mtgo.dev/guide/quick-start)
+- [Installation](https://mtgo.dev/guide/installation)
+- [Client](https://mtgo.dev/guide/client)
+- [Authentication](https://mtgo.dev/guide/authentication)
+
+### Handlers & Filters
+
+- [Handlers](https://mtgo.dev/guide/handlers)
+- [Filters](https://mtgo.dev/guide/filters)
+- [Context](https://mtgo.dev/guide/context)
+
+### API Reference
+
+- [Client](https://mtgo.dev/api/client)
+- [Config](https://mtgo.dev/api/config)
+- [Context Methods](https://mtgo.dev/api/context)
+- [Messages](https://mtgo.dev/api/messages)
+- [Bound Methods](https://mtgo.dev/api/bound)
+- [Bound Chat](https://mtgo.dev/api/bound-chat)
+- [Media](https://mtgo.dev/api/media)
+- [Users & Chats](https://mtgo.dev/api/users)
+- [Auth](https://mtgo.dev/api/auth)
+- [Storage](https://mtgo.dev/api/storage)
+- [Filters](https://mtgo.dev/api/filters)
+- [Types](https://mtgo.dev/api/types)
+- [Errors](https://mtgo.dev/api/tgerr)
+- [Raw TL Types](https://mtgo.dev/api/tg)
+
+### Advanced
+
+- [File Transfer](https://mtgo.dev/advanced/file-transfer)
+- [Peer Resolution](https://mtgo.dev/advanced/peer-resolution)
+- [Session Management](https://mtgo.dev/advanced/session-management)
+- [Transport](https://mtgo.dev/advanced/transport)
+- [WebSocket Transport](https://mtgo.dev/advanced/websocket)
+- [Custom Storage](https://mtgo.dev/advanced/custom-storage)
+
+### Plugins
+
+- [Plugin Interface](https://mtgo.dev/plugins/plugin-interface)
+- [Conversations](https://mtgo.dev/plugins/conversations)
+- [i18n](https://mtgo.dev/plugins/i18n)
+- [Middlewares](https://mtgo.dev/plugins/middlewares)
+- [Plugin Template](https://mtgo.dev/plugins/template)
+- [Middleware Template](https://mtgo.dev/plugins/middleware-template)
+
+### Examples
+
+- [Command Handler](https://mtgo.dev/examples/command-handler)
+- [File Upload](https://mtgo.dev/examples/file-upload)
+- [Inline Mode](https://mtgo.dev/examples/inline-mode)
+- [Userbot](https://mtgo.dev/examples/userbot)
+
+### Other
+
+- [GitHub](https://github.com/mtgo-labs/mtgo)
+- [Storage Package](https://github.com/mtgo-labs/storage)
+- [Plugins](https://github.com/mtgo-labs/plugins)
+- [Middlewares](https://github.com/mtgo-labs/middlewares)

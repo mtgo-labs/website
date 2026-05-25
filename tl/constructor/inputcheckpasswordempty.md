@@ -1,0 +1,13 @@
+---
+title: InputCheckPasswordEmpty
+description: TL constructor inputCheckPasswordEmpty
+---
+
+# InputCheckPasswordEmpty
+
+<span class="layer-badge">Layer 225</span>
+
+TL name: `inputCheckPasswordEmpty`  
+Constructor ID: `0x9880f658`  
+Returns: [InputCheckPasswordSRP](/tl/types#inputcheckpasswordsrp)
+

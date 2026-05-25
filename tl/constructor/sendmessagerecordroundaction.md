@@ -1,0 +1,13 @@
+---
+title: SendMessageRecordRoundAction
+description: TL constructor sendMessageRecordRoundAction
+---
+
+# SendMessageRecordRoundAction
+
+<span class="layer-badge">Layer 225</span>
+
+TL name: `sendMessageRecordRoundAction`  
+Constructor ID: `0x88f27fbc`  
+Returns: [SendMessageAction](/tl/types#sendmessageaction)
+
