@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# MTGo Website
+<h1 align="center">MTGo Website</h1>
 
 Documentation website for [MTGo](https://github.com/mtgo-labs/mtgo), a fast and idiomatic Go client library for the Telegram MTProto API.
 
