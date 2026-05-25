@@ -1,6 +1,6 @@
 ---
 title: MTGo Transport Layer
-description: Understand MTGo's transport options including TCP modes, the NetPoll fallback, proxy support, and the connection handshake.
+description: Understand MTGo's transport options including TCP modes, WebSocket fallback, proxy support, and the connection handshake.
 ---
 
 # MTGo Transport Layer
@@ -41,28 +41,6 @@ client, err := tg.NewClient(apiID, apiHash, &tg.Config{
     Transport:   transport.NewAbridged(),
 })
 ```
-
-## NetPoll Fallback Transport
-
-Some environments restrict raw TCP connections. MTGo provides a **NetPoll** transport as a fallback that uses HTTP long-polling:
-
-```go
-client, err := tg.NewClient(apiID, apiHash, &tg.Config{
-    NetPoll: true,
-})
-```
-
-NetPoll works by:
-
-1. Sending MTProto payloads via HTTP POST requests
-2. Receiving responses via long-polling GET requests
-3. Wrapping MTProto frames in HTTP envelopes
-
-This is useful in environments where:
-
-- Outbound TCP to non-standard ports is blocked
-- HTTP proxy is the only available outbound path
-- Running in constrained cloud environments
 
 ## Transport Interface
 
