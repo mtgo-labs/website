@@ -31,62 +31,10 @@ Multiple middleware are composed in registration order: the first registered wra
 
 ## Official Middlewares
 
-### Flood Wait
-
-Automatically handles `FLOOD_WAIT` errors by sleeping and retrying:
-
-```bash
-go get github.com/mtgo-labs/middlewares/floodwait
-```
-
-```go
-import "github.com/mtgo-labs/middlewares/floodwait"
-
-waiter := floodwait.New()
-waiter.OnWait(func(d time.Duration) {
-    log.Printf("flood wait: sleeping %v", d)
-})
-waiter.WithMaxWait(60 * time.Second)
-waiter.WithMaxRetries(3)
-
-client.UseInvokerMiddleware(waiter.Middleware())
-```
-
-| Method              | Description                                                                           |
-| ------------------- | ------------------------------------------------------------------------------------- |
-| `New()`             | Create with defaults (5 retries, unlimited wait)                                      |
-| `OnWait(cb)`        | Set callback fired on each FLOOD_WAIT (chainable)                                     |
-| `WithMaxWait(d)`    | Maximum acceptable wait duration. Returns error if Telegram asks for more (chainable) |
-| `WithMaxRetries(n)` | Maximum retry attempts per RPC call (chainable)                                       |
-| `Middleware()`      | Returns `tg.InvokerMiddleware` for `UseInvokerMiddleware`                             |
-
-All RPC calls through the client are automatically protected — no handler changes required.
-
-### Rate Limit
-
-Token-bucket rate limiter for outgoing RPC calls:
-
-```bash
-go get github.com/mtgo-labs/middlewares/ratelimit
-```
-
-```go
-import "github.com/mtgo-labs/middlewares/ratelimit"
-
-// Allow 30 calls/sec with burst of 10
-limiter := ratelimit.New(30, 10)
-client.UseInvokerMiddleware(limiter.Middleware())
-
-// Or: 1 call per 100ms (10/sec), burst of 1
-limiter := ratelimit.New(rate.Every(100*time.Millisecond), 1)
-client.UseInvokerMiddleware(limiter.Middleware())
-```
-
-| Method                     | Description                                               |
-| -------------------------- | --------------------------------------------------------- |
-| `New(r rate.Limit, b int)` | Create with rate and burst size                           |
-| `Limiter()`                | Access underlying `rate.Limiter` for runtime adjustment   |
-| `Middleware()`             | Returns `tg.InvokerMiddleware` for `UseInvokerMiddleware` |
+| Middleware | Description |
+|------------|-------------|
+| [Flood Wait](/plugins/floodwait) | Auto-handles `FLOOD_WAIT` errors with sleep and retry |
+| [Rate Limit](/plugins/ratelimit) | Token-bucket rate limiter for outgoing RPC calls |
 
 ## Composing Middleware
 
