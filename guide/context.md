@@ -35,7 +35,9 @@ Only the relevant field is populated for each update. All others are `nil`.
 
 ```go
 client.OnMessage(func(client *tg.Client, msg *types.Message) {
-    msg.Reply("Hello!")
+    if _, err := msg.Reply("Hello!"); err != nil {
+        log.Printf("reply error: %v", err)
+    }
 })
 ```
 
@@ -104,14 +106,14 @@ client.OnInlineQuery(func(client *tg.Client, iq *types.InlineQuery) {
 
 ## Go Context
 
-Each handler receives a `context.Context` with a timeout set by `Config.HandlerTimeout`:
+Each handler has access to a `context.Context` via the `Ctx` field on the `Context` struct. The context carries a timeout set by `Config.HandlerTimeout`:
 
 ```go
-client.OnMessage(func(client *tg.Client, msg *types.Message) {
+client.OnMessage(func(ctx *telegram.Context) {
     select {
     case <-time.After(5 * time.Second):
         // do something
-    case <-ctx.Done():
+    case <-ctx.Ctx.Done():
         log.Print("handler timed out")
     }
 })
