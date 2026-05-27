@@ -10,7 +10,9 @@ The most common pattern — register a function that fires on incoming messages:
 
 ```go
 client.OnMessage(func(client *tg.Client, msg *types.Message) {
-    msg.Reply("Hello!")
+    if _, err := msg.Reply("Hello!"); err != nil {
+        log.Printf("reply error: %v", err)
+    }
 }, tg.Private)
 ```
 
@@ -118,7 +120,9 @@ Inside a handler, call `StopPropagation()` to prevent lower-priority handlers fr
 
 ```go
 client.OnMessage(func(client *tg.Client, msg *types.Message) {
-    msg.Reply("Handled!")
+    if _, err := msg.Reply("Handled!"); err != nil {
+        log.Printf("reply error: %v", err)
+    }
     // Lower priority handlers won't run for this update
 }, tg.Command("start"))
 ```
