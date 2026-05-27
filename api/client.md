@@ -531,7 +531,7 @@ fmt.Printf("Resolved peer: %T\n", peer)
 ### ResolvePeerCache
 
 ```go
-func (c *Client) CachePeer(id int64) (tg.InputPeerClass, error)
+func (c *Client) ResolvePeerCache(id int64) (tg.InputPeerClass, error)
 ```
 
 Looks up a previously cached peer by its numeric ID. Does not perform network requests. Returns `ErrPeerNotFound` if the peer is not in the cache.
