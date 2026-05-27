@@ -14,6 +14,7 @@ import (
     "os"
 
     tg "github.com/mtgo-labs/mtgo/telegram"
+    "github.com/mtgo-labs/mtgo/telegram/types"
 )
 
 func main() {
