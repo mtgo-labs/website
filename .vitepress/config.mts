@@ -28,6 +28,7 @@ export default defineConfig({
       { text: "API", link: "/api/client" },
       { text: "Storage", link: "/storage/" },
       { text: "CLI", link: "/cli/" },
+      { text: "Bot API", link: "/bot-api/" },
       { text: "Plugins", link: "/plugins/" },
       { text: "TL Reference", link: "/tl/types" },
       { text: "Examples", link: "/examples/" },
@@ -213,6 +214,20 @@ export default defineConfig({
             { text: "Group Management", link: "/cli/groups" },
             { text: "Media", link: "/cli/media" },
             { text: "Peer Resolution", link: "/cli/peers" },
+          ],
+        },
+      ],
+      "/bot-api/": [
+        {
+          text: "mtgo-bot-api",
+          items: [
+            { text: "Overview", link: "/bot-api/" },
+            { text: "Configuration", link: "/bot-api/configuration" },
+            { text: "Updates", link: "/bot-api/updates" },
+            { text: "Webhooks", link: "/bot-api/webhooks" },
+            { text: "Methods & Coverage", link: "/bot-api/methods" },
+            { text: "File Handling", link: "/bot-api/files" },
+            { text: "Architecture", link: "/bot-api/architecture" },
           ],
         },
       ],
