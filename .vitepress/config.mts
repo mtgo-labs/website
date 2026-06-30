@@ -29,6 +29,7 @@ export default defineConfig({
       { text: "Storage", link: "/storage/" },
       { text: "CLI", link: "/cli/" },
       { text: "Bot API", link: "/bot-api/" },
+      { text: "IPC", link: "/ipc/" },
       { text: "Plugins", link: "/plugins/" },
       { text: "TL Reference", link: "/tl/types" },
       { text: "Examples", link: "/examples/" },
@@ -228,6 +229,17 @@ export default defineConfig({
             { text: "Methods & Coverage", link: "/bot-api/methods" },
             { text: "File Handling", link: "/bot-api/files" },
             { text: "Architecture", link: "/bot-api/architecture" },
+          ],
+        },
+      ],
+      "/ipc/": [
+        {
+          text: "mtgo-ipc",
+          items: [
+            { text: "Overview", link: "/ipc/" },
+            { text: "Protocol Reference", link: "/ipc/protocol" },
+            { text: "Update Events", link: "/ipc/updates" },
+            { text: "Client Examples", link: "/ipc/examples" },
           ],
         },
       ],
