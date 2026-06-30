@@ -173,6 +173,11 @@ export default defineConfig({
           items: [
             { text: "i18n", link: "/plugins/i18n" },
             { text: "Conversations", link: "/plugins/conversations" },
+            { text: "FSM", link: "/plugins/fsm" },
+            { text: "Scheduler", link: "/plugins/scheduler" },
+            { text: "Throttle", link: "/plugins/throttle" },
+            { text: "Updates Recovery", link: "/plugins/updatesrecovery" },
+            { text: "Raw Debug", link: "/plugins/rawdebug" },
           ],
         },
         {
@@ -180,6 +185,8 @@ export default defineConfig({
           items: [
             { text: "Flood Wait", link: "/plugins/floodwait" },
             { text: "Rate Limit", link: "/plugins/ratelimit" },
+            { text: "Metrics", link: "/plugins/metrics" },
+            { text: "Timeout", link: "/plugins/timeout" },
           ],
         },
         {
