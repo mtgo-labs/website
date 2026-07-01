@@ -101,6 +101,14 @@ client.OnInlineQuery(func(client *tg.Client, iq *types.InlineQuery) {
     fmt.Printf("Query:   %s\n", iq.Query)
     fmt.Printf("UserID:  %d\n", iq.UserID)
     fmt.Printf("Offset:  %s\n", iq.Offset)
+    // Geo is populated if the user shared their location with the query
+    if iq.Geo != nil {
+        fmt.Printf("Geo:     %+v\n", iq.Geo)
+    }
+    // PeerType indicates the chat type the query originated from
+    if iq.PeerType != nil {
+        fmt.Printf("PeerType: %T\n", iq.PeerType)
+    }
 })
 ```
 

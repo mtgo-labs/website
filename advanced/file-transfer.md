@@ -11,6 +11,18 @@ MTGo provides a complete file transfer system that handles chunked uploads, resu
 
 File uploads in MTProto work by splitting a file into chunks and sending them sequentially via the `upload.SaveFile` RPC. MTGo abstracts this into high-level functions.
 
+::: tip Parallel by Default
+File uploads and downloads are **parallelized by default**. Large files are split into chunks and transferred concurrently for maximum throughput. Uploads run on a **dedicated session** to avoid blocking update delivery and RPC calls.
+
+Control parallelism with `Config.MaxConcurrentTrans` (default `0` = unlimited):
+```go
+client, _ := tg.NewClient(apiID, apiHash, &tg.Config{
+    MaxConcurrentTrans: 4, // limit to 4 concurrent chunk transfers
+})
+```
+:::
+
+
 ### Upload Flow
 
 ```

@@ -102,17 +102,54 @@ Handlers in lower-numbered groups run first. Within the same group, handlers run
 |--------|------------|
 | `OnMessage` | New messages |
 | `OnEditedMessage` | Edited messages |
+| `OnBusinessMessage` | Business connection messages |
+| `OnEditedBusinessMessage` | Edited business messages |
+| `OnDeletedMessages` | Deleted messages |
+| `OnDeletedBusinessMessages` | Deleted business messages |
+| `OnGuestMessage` | Guest users in business chats |
 | `OnCallbackQuery` | Inline button callbacks |
 | `OnInlineQuery` | Inline mode queries |
 | `OnChosenInlineResult` | Selected inline result |
-| `OnDeletedMessages` | Deleted messages |
 | `OnChatMember` | Chat member updates |
-| `OnUserStatus` | User online/offline status |
+| `OnChatJoinRequest` | Chat join requests |
+| `OnChatBoost` | Boost added/removed |
 | `OnMessageReaction` | Reaction changes |
+| `OnMessageReactionCount` | Anonymous reaction counts |
+| `OnPoll` | Poll state updates |
+| `OnUserStatus` | User online/offline status |
 | `OnStory` | Story updates |
-| `OnBusinessMessage` | Business connection messages |
+| `OnPurchasedPaidMedia` | Paid media purchases |
+| `OnPreCheckoutQuery` | Pre-checkout payment queries |
+| `OnShippingQuery` | Shipping queries |
+| `OnBusinessConnection` | Business connection updates |
+| `OnManagedBot` | Managed bot updates |
+| `OnRawUpdate` | Raw MTProto updates (typed or catch-all) |
 | `OnError` | Error events |
-| `OnRawUpdate` | Raw MTProto updates |
+| `OnConnect` | Client connected |
+| `OnDisconnect` | Client disconnected |
+| `OnStart` | Client startup |
+| `OnStop` | Client shutdown |
+
+## Typed Raw Update Handlers
+
+`OnRawUpdate` supports type-safe callbacks. Pass a function with a concrete `*tg.UpdateXxx` parameter — the handler fires only for that update type, no manual type-switching needed:
+
+```go
+// Typed — fires only for UpdateUserTyping
+client.OnRawUpdate(func(upd *tg.UpdateUserTyping) {
+    log.Printf("user %d is typing", upd.UserID)
+})
+
+// Typed with context
+client.OnRawUpdate(func(ctx *tg.Context, upd *tg.UpdatePhoneCall) {
+    log.Printf("phone call: %+v", upd)
+})
+
+// Catch-all (backwards compatible)
+client.OnRawUpdate(func(ctx *tg.Context) {
+    log.Printf("raw update: %T", ctx.Update.Raw)
+})
+```
 
 ## Stopping Propagation
 
@@ -120,9 +157,6 @@ Inside a handler, call `StopPropagation()` to prevent lower-priority handlers fr
 
 ```go
 client.OnMessage(func(client *tg.Client, msg *types.Message) {
-    if _, err := msg.Reply("Handled!"); err != nil {
-        log.Printf("reply error: %v", err)
-    }
-    // Lower priority handlers won't run for this update
+    msg.Reply("Handled!")
 }, tg.Command("start"))
 ```

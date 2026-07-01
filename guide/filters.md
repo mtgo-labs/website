@@ -37,6 +37,7 @@ client.OnMessage(handler, tg.Private.And(tg.Text("hello")))
 | Filter | Matches |
 |--------|---------|
 | `Media` | Any media attachment |
+| `HasMedia` | Alias for `Media` |
 | `Photo` | Photo attachments |
 | `Video` | Video attachments |
 | `Audio` | Audio attachments |
@@ -55,8 +56,16 @@ client.OnMessage(handler, tg.Private.And(tg.Text("hello")))
 | `Game` | HTML5 game attachments |
 | `Story` | Forwarded stories |
 | `PaidMedia` | Paid media (Stars) |
+| `PaidMessage` | Paid messages (Stars) |
 | `Invoice` | Payment invoices |
+| `SuccessfulPayment` | Completed payment confirmations |
+| `Giveaway` | Giveaway announcements |
+| `GiveawayWinners` | Giveaway winner announcements |
 | `MediaGroup` | Album messages |
+| `MediaSpoiler` | Spoiler-hidden media |
+| `SelfDestruction` | Self-destructing media (TTL) |
+| `ReplyKeyboard` | Messages with reply keyboard markup |
+| `InlineKeyboard` | Messages with inline keyboard markup |
 | `Caption` | Media with caption only |
 
 ### Text Matching
@@ -87,7 +96,8 @@ client.OnMessage(handler, tg.Private.And(tg.Text("hello")))
 | `Mentioned` | Messages where you're @mentioned |
 | `ViaBot` | Messages sent via inline bot |
 | `Pinned` | Pinned messages |
-| `MediaSpoiler` | Spoiler-hidden media |
+| `LinkedChannel` | Forwarded from linked channel |
+| `GuestMessage` | Guest users in business chats |
 | `Service` | Service/system messages |
 
 ### Service Message Filters
@@ -100,7 +110,15 @@ client.OnMessage(handler, tg.Private.And(tg.Text("hello")))
 | `NewChatPhoto` | Photo change events |
 | `DeleteChatPhoto` | Photo deletion events |
 | `GroupChatCreated` | Group creation events |
+| `SupergroupChatCreated` | Supergroup creation events |
+| `ChannelChatCreated` | Channel creation events |
+| `MigrateToChatID` | Group-to-supergroup migration |
+| `MigrateFromChatID` | Channel-from-group migration |
 | `PinnedMessage` | Pin notification events |
+| `VideoChatStarted` | Video chat started |
+| `VideoChatEnded` | Video chat ended |
+| `VideoChatMembersInvited` | Video chat invitations |
+| `GameHighScore` | Game score updates |
 
 ### Callback & Inline
 
@@ -109,6 +127,12 @@ client.OnMessage(handler, tg.Private.And(tg.Text("hello")))
 | `CallbackData("approve")` | Exact callback data match |
 | `CallbackRegex("^page_\\d+$")` | Regex on callback data |
 | `InlineQueryText("search")` | Exact inline query text |
+
+### Raw Update Type Filter
+
+| Filter | Matches |
+|--------|---------|
+| `UpdateType[*tg.UpdateUserTyping]()` | Specific raw update type (use with `OnRawUpdate`) |
 
 ## Composition
 
