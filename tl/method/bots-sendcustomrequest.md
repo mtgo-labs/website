@@ -5,7 +5,7 @@ description: TL method bots.sendCustomRequest
 
 # bots.sendCustomRequest
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xaa2769ed`  
 Returns: [DataJSON](/tl/types#datajson)

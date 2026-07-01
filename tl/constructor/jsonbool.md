@@ -5,7 +5,7 @@ description: TL constructor jsonBool
 
 # JSONBool
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `jsonBool`  
 Constructor ID: `0xc7345e6a`  

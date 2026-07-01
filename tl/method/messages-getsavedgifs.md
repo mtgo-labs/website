@@ -5,7 +5,7 @@ description: TL method messages.getSavedGifs
 
 # messages.getSavedGifs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5cf09635`  
 Returns: [SavedGifs](/tl/types#savedgifs)

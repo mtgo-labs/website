@@ -5,7 +5,7 @@ description: TL method phone.setCallRating
 
 # phone.setCallRating
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x59ead627`  
 Returns: [Updates](/tl/types#updates)

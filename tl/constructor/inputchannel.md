@@ -5,7 +5,7 @@ description: TL constructor inputChannel
 
 # InputChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputChannel`  
 Constructor ID: `0xf35aec28`  

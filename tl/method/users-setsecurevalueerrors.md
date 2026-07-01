@@ -5,7 +5,7 @@ description: TL method users.setSecureValueErrors
 
 # users.setSecureValueErrors
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x90c894b5`  
 Returns: [Bool](/tl/types#bool)

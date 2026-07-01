@@ -5,7 +5,7 @@ description: TL constructor privacyValueAllowPremium
 
 # PrivacyValueAllowPremium
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyValueAllowPremium`  
 Constructor ID: `0xece9814b`  

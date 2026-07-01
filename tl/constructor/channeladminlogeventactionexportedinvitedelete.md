@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionExportedInviteDelete
 
 # ChannelAdminLogEventActionExportedInviteDelete
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionExportedInviteDelete`  
 Constructor ID: `0x5a50fca4`  

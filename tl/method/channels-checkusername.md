@@ -5,7 +5,7 @@ description: TL method channels.checkUsername
 
 # channels.checkUsername
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x10e6bd2c`  
 Returns: [Bool](/tl/types#bool)

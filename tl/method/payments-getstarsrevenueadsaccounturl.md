@@ -5,7 +5,7 @@ description: TL method payments.getStarsRevenueAdsAccountUrl
 
 # payments.getStarsRevenueAdsAccountUrl
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd1d7efc5`  
 Returns: [StarsRevenueAdsAccountURL](/tl/types#starsrevenueadsaccounturl)

@@ -5,7 +5,7 @@ description: TL method messages.getChatInviteImporters
 
 # messages.getChatInviteImporters
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xdf04dd4e`  
 Returns: [ChatInviteImporters](/tl/types#chatinviteimporters)

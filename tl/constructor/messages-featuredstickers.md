@@ -5,7 +5,7 @@ description: TL constructor messages.featuredStickers
 
 # FeaturedStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.featuredStickers`  
 Constructor ID: `0xbe382906`  

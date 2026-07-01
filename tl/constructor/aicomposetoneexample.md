@@ -5,7 +5,7 @@ description: TL constructor aiComposeToneExample
 
 # AiComposeToneExample
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `aiComposeToneExample`  
 Constructor ID: `0xf1d628ec`  

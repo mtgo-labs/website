@@ -5,7 +5,7 @@ description: TL constructor inputSecureValue
 
 # InputSecureValue
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputSecureValue`  
 Constructor ID: `0xdb21d0a7`  

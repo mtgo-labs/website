@@ -5,7 +5,7 @@ description: TL method phone.sendSignalingData
 
 # phone.sendSignalingData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xff7a9383`  
 Returns: [Bool](/tl/types#bool)

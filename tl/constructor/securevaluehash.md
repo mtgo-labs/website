@@ -5,7 +5,7 @@ description: TL constructor secureValueHash
 
 # SecureValueHash
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueHash`  
 Constructor ID: `0xed1ecdb0`  

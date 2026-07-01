@@ -5,7 +5,7 @@ description: TL constructor updateBotCallbackQuery
 
 # UpdateBotCallbackQuery
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotCallbackQuery`  
 Constructor ID: `0xb9cfc48d`  

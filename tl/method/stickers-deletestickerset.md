@@ -5,7 +5,7 @@ description: TL method stickers.deleteStickerSet
 
 # stickers.deleteStickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x87704394`  
 Returns: [Bool](/tl/types#bool)

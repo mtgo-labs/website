@@ -5,7 +5,7 @@ description: TL constructor sponsoredPeer
 
 # SponsoredPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `sponsoredPeer`  
 Constructor ID: `0xc69708d3`  

@@ -5,7 +5,7 @@ description: TL constructor updateStickerSets
 
 # UpdateStickerSets
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateStickerSets`  
 Constructor ID: `0x31c24808`  

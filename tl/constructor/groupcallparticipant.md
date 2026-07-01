@@ -5,7 +5,7 @@ description: TL constructor groupCallParticipant
 
 # GroupCallParticipant
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `groupCallParticipant`  
 Constructor ID: `0x2a3dc7ac`  

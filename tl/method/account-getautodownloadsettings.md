@@ -5,7 +5,7 @@ description: TL method account.getAutoDownloadSettings
 
 # account.getAutoDownloadSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x56da0b3f`  
 Returns: [AutoDownloadSettings](/tl/types#autodownloadsettings)

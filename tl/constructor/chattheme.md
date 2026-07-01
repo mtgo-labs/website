@@ -5,7 +5,7 @@ description: TL constructor chatTheme
 
 # ChatTheme
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatTheme`  
 Constructor ID: `0xc3dffc04`  

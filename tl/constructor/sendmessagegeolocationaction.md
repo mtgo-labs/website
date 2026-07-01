@@ -5,7 +5,7 @@ description: TL constructor sendMessageGeoLocationAction
 
 # SendMessageGeoLocationAction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `sendMessageGeoLocationAction`  
 Constructor ID: `0x176f8ba1`  

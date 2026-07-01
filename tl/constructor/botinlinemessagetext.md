@@ -5,7 +5,7 @@ description: TL constructor botInlineMessageText
 
 # BotInlineMessageText
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInlineMessageText`  
 Constructor ID: `0x8c7f65e2`  

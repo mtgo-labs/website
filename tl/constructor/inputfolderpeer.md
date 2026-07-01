@@ -5,7 +5,7 @@ description: TL constructor inputFolderPeer
 
 # InputFolderPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputFolderPeer`  
 Constructor ID: `0xfbd2c296`  

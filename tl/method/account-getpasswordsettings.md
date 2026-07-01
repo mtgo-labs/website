@@ -5,7 +5,7 @@ description: TL method account.getPasswordSettings
 
 # account.getPasswordSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9cd4eaf9`  
 Returns: [PasswordSettings](/tl/types#passwordsettings)

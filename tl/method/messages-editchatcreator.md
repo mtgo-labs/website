@@ -5,7 +5,7 @@ description: TL method messages.editChatCreator
 
 # messages.editChatCreator
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf743b857`  
 Returns: [Updates](/tl/types#updates)

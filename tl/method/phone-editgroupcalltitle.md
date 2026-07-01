@@ -5,7 +5,7 @@ description: TL method phone.editGroupCallTitle
 
 # phone.editGroupCallTitle
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x1ca6ac0a`  
 Returns: [Updates](/tl/types#updates)

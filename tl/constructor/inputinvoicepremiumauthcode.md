@@ -5,7 +5,7 @@ description: TL constructor inputInvoicePremiumAuthCode
 
 # InputInvoicePremiumAuthCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputInvoicePremiumAuthCode`  
 Constructor ID: `0x3e77f614`  

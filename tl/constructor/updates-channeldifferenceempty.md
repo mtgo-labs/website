@@ -5,7 +5,7 @@ description: TL constructor updates.channelDifferenceEmpty
 
 # ChannelDifferenceEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updates.channelDifferenceEmpty`  
 Constructor ID: `0x3e11affb`  

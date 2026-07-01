@@ -5,7 +5,7 @@ description: TL constructor updatePeerSettings
 
 # UpdatePeerSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatePeerSettings`  
 Constructor ID: `0x6a7e7366`  

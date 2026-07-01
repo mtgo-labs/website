@@ -5,7 +5,7 @@ description: TL constructor monoForumDialog
 
 # MonoForumDialog
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `monoForumDialog`  
 Constructor ID: `0x64407ea7`  

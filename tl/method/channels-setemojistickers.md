@@ -5,7 +5,7 @@ description: TL method channels.setEmojiStickers
 
 # channels.setEmojiStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3cd930b7`  
 Returns: [Bool](/tl/types#bool)

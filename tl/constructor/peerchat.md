@@ -5,7 +5,7 @@ description: TL constructor peerChat
 
 # PeerChat
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `peerChat`  
 Constructor ID: `0x36c6019a`  

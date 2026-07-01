@@ -5,7 +5,7 @@ description: TL method payments.launchPrepaidGiveaway
 
 # payments.launchPrepaidGiveaway
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5ff58f20`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL constructor secureValueErrorSelfie
 
 # SecureValueErrorSelfie
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueErrorSelfie`  
 Constructor ID: `0xe537ced6`  

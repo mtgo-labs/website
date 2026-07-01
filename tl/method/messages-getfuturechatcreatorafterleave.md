@@ -5,7 +5,7 @@ description: TL method messages.getFutureChatCreatorAfterLeave
 
 # messages.getFutureChatCreatorAfterLeave
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3b7d0ea6`  
 Returns: [User](/tl/types#user)

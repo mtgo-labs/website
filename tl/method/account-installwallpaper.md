@@ -5,7 +5,7 @@ description: TL method account.installWallPaper
 
 # account.installWallPaper
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xfeed5769`  
 Returns: [Bool](/tl/types#bool)

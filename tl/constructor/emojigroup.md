@@ -5,7 +5,7 @@ description: TL constructor emojiGroup
 
 # EmojiGroup
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `emojiGroup`  
 Constructor ID: `0x7a9abda9`  

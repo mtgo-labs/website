@@ -5,7 +5,7 @@ description: TL method smsjobs.isEligibleToJoin
 
 # smsjobs.isEligibleToJoin
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0edc39d0`  
 Returns: [EligibilityToJoin](/tl/types#eligibilitytojoin)

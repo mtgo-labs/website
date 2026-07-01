@@ -5,7 +5,7 @@ description: TL constructor storyViewPublicRepost
 
 # StoryViewPublicRepost
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `storyViewPublicRepost`  
 Constructor ID: `0xbd74cf49`  

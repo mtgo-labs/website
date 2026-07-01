@@ -5,7 +5,7 @@ description: TL constructor messages.peerDialogs
 
 # PeerDialogs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.peerDialogs`  
 Constructor ID: `0x3371c354`  

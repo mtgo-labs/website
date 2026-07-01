@@ -5,7 +5,7 @@ description: TL method account.deleteSecureValue
 
 # account.deleteSecureValue
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb880bc4b`  
 Returns: [Bool](/tl/types#bool)

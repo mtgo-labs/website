@@ -5,7 +5,7 @@ description: TL method bots.toggleUserEmojiStatusPermission
 
 # bots.toggleUserEmojiStatusPermission
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x06de6392`  
 Returns: [Bool](/tl/types#bool)

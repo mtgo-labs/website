@@ -5,7 +5,7 @@ description: TL constructor botInlineMessageMediaWebPage
 
 # BotInlineMessageMediaWebPage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInlineMessageMediaWebPage`  
 Constructor ID: `0x809ad9a6`  

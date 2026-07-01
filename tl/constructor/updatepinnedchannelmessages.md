@@ -5,7 +5,7 @@ description: TL constructor updatePinnedChannelMessages
 
 # UpdatePinnedChannelMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatePinnedChannelMessages`  
 Constructor ID: `0x5bb98608`  

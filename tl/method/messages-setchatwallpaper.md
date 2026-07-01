@@ -5,7 +5,7 @@ description: TL method messages.setChatWallPaper
 
 # messages.setChatWallPaper
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8ffacae1`  
 Returns: [Updates](/tl/types#updates)

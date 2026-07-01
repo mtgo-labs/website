@@ -5,7 +5,7 @@ description: TL constructor payments.paymentForm
 
 # PaymentForm
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.paymentForm`  
 Constructor ID: `0xa0058751`  

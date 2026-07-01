@@ -5,7 +5,7 @@ description: TL method messages.getArchivedStickers
 
 # messages.getArchivedStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x57f17692`  
 Returns: [ArchivedStickers](/tl/types#archivedstickers)

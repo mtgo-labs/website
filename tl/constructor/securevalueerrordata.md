@@ -5,7 +5,7 @@ description: TL constructor secureValueErrorData
 
 # SecureValueErrorData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueErrorData`  
 Constructor ID: `0xe8a40bd9`  

@@ -5,7 +5,7 @@ description: TL method bots.getRequestedWebViewButton
 
 # bots.getRequestedWebViewButton
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbf25b7f3`  
 Returns: [KeyboardButton](/tl/types#keyboardbutton)

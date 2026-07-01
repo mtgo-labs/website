@@ -5,7 +5,7 @@ description: TL constructor starGiftAttributeOriginalDetails
 
 # StarGiftAttributeOriginalDetails
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftAttributeOriginalDetails`  
 Constructor ID: `0xe0bff26c`  

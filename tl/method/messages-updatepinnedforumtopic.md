@@ -5,7 +5,7 @@ description: TL method messages.updatePinnedForumTopic
 
 # messages.updatePinnedForumTopic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x175df251`  
 Returns: [Updates](/tl/types#updates)

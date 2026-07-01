@@ -5,7 +5,7 @@ description: TL method stickers.createStickerSet
 
 # stickers.createStickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9021ab67`  
 Returns: [StickerSet](/tl/types#stickerset)

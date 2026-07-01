@@ -5,7 +5,7 @@ description: TL constructor inputStickerSetEmojiDefaultStatuses
 
 # InputStickerSetEmojiDefaultStatuses
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStickerSetEmojiDefaultStatuses`  
 Constructor ID: `0x29d0f5ee`  

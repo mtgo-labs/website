@@ -5,7 +5,7 @@ description: TL constructor searchResultPosition
 
 # SearchResultPosition
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `searchResultPosition`  
 Constructor ID: `0x7f648b67`  

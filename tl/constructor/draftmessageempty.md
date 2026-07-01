@@ -5,7 +5,7 @@ description: TL constructor draftMessageEmpty
 
 # DraftMessageEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `draftMessageEmpty`  
 Constructor ID: `0x1b0c841a`  

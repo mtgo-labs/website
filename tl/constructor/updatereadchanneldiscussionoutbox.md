@@ -5,7 +5,7 @@ description: TL constructor updateReadChannelDiscussionOutbox
 
 # UpdateReadChannelDiscussionOutbox
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateReadChannelDiscussionOutbox`  
 Constructor ID: `0x695c9e7c`  

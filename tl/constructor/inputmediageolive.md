@@ -5,7 +5,7 @@ description: TL constructor inputMediaGeoLive
 
 # InputMediaGeoLive
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaGeoLive`  
 Constructor ID: `0x971fa843`  

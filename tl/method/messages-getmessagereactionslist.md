@@ -5,7 +5,7 @@ description: TL method messages.getMessageReactionsList
 
 # messages.getMessageReactionsList
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x461b3f48`  
 Returns: [MessageReactionsList](/tl/types#messagereactionslist)

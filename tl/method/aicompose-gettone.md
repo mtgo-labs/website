@@ -5,7 +5,7 @@ description: TL method aicompose.getTone
 
 # aicompose.getTone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb2e8ba03`  
 Returns: [Tones](/tl/types#tones)

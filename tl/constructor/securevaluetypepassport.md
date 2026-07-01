@@ -5,7 +5,7 @@ description: TL constructor secureValueTypePassport
 
 # SecureValueTypePassport
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueTypePassport`  
 Constructor ID: `0x3dac6a00`  

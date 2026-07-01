@@ -5,7 +5,7 @@ description: TL constructor secureValueTypeAddress
 
 # SecureValueTypeAddress
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueTypeAddress`  
 Constructor ID: `0xcbe31e26`  

@@ -5,7 +5,7 @@ description: TL method langpack.getLangPack
 
 # langpack.getLangPack
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf2f2330a`  
 Returns: [LangPackDifference](/tl/types#langpackdifference)

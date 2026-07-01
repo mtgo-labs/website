@@ -5,7 +5,7 @@ description: TL constructor messageActionPinMessage
 
 # MessageActionPinMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionPinMessage`  
 Constructor ID: `0x94bd38ed`  

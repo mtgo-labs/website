@@ -5,7 +5,7 @@ description: TL constructor updateMessagePoll
 
 # UpdateMessagePoll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateMessagePoll`  
 Constructor ID: `0xd64c522b`  

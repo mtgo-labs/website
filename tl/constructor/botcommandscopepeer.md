@@ -5,7 +5,7 @@ description: TL constructor botCommandScopePeer
 
 # BotCommandScopePeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botCommandScopePeer`  
 Constructor ID: `0xdb9d897d`  

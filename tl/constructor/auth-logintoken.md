@@ -5,7 +5,7 @@ description: TL constructor auth.loginToken
 
 # LoginToken
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.loginToken`  
 Constructor ID: `0x629f1980`  

@@ -5,7 +5,7 @@ description: TL method smsjobs.getSmsJob
 
 # smsjobs.getSmsJob
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x778d902f`  
 Returns: [SmsJob](/tl/types#smsjob)

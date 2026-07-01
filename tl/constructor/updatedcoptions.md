@@ -5,7 +5,7 @@ description: TL constructor updateDcOptions
 
 # UpdateDCOptions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateDcOptions`  
 Constructor ID: `0x8e5e9873`  

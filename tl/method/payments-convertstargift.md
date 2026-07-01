@@ -5,7 +5,7 @@ description: TL method payments.convertStarGift
 
 # payments.convertStarGift
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x74bf076b`  
 Returns: [Bool](/tl/types#bool)

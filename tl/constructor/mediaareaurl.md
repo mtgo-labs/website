@@ -5,7 +5,7 @@ description: TL constructor mediaAreaUrl
 
 # MediaAreaURL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `mediaAreaUrl`  
 Constructor ID: `0x37381085`  

@@ -5,7 +5,7 @@ description: TL constructor auth.sentCodeTypeSmsWord
 
 # SentCodeTypeSmsWord
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.sentCodeTypeSmsWord`  
 Constructor ID: `0xa416ac81`  

@@ -5,7 +5,7 @@ description: TL constructor langPackString
 
 # LangPackString
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `langPackString`  
 Constructor ID: `0xcad181f6`  

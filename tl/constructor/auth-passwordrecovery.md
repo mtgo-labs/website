@@ -5,7 +5,7 @@ description: TL constructor auth.passwordRecovery
 
 # PasswordRecovery
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.passwordRecovery`  
 Constructor ID: `0x137948a5`  

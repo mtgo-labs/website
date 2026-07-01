@@ -5,7 +5,7 @@ description: TL constructor inputMediaEmpty
 
 # InputMediaEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaEmpty`  
 Constructor ID: `0x9664f57f`  

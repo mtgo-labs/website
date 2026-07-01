@@ -5,7 +5,7 @@ description: TL constructor payments.savedStarGifts
 
 # SavedStarGifts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.savedStarGifts`  
 Constructor ID: `0x95f389b1`  

@@ -5,7 +5,7 @@ description: TL constructor messages.chatInviteImporters
 
 # ChatInviteImporters
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.chatInviteImporters`  
 Constructor ID: `0x81b6b00a`  

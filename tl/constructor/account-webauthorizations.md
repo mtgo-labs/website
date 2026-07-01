@@ -5,7 +5,7 @@ description: TL constructor account.webAuthorizations
 
 # WebAuthorizations
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.webAuthorizations`  
 Constructor ID: `0xed56c9fc`  

@@ -5,7 +5,7 @@ description: TL constructor dialogFilterChatlist
 
 # DialogFilterChatlist
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `dialogFilterChatlist`  
 Constructor ID: `0x96537bd7`  

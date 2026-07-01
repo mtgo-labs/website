@@ -5,7 +5,7 @@ description: TL constructor messages.exportedChatInvites
 
 # ExportedChatInvites
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.exportedChatInvites`  
 Constructor ID: `0xbdc62dcc`  

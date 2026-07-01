@@ -5,7 +5,7 @@ description: TL method payments.getStarsRevenueWithdrawalUrl
 
 # payments.getStarsRevenueWithdrawalUrl
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2433dc92`  
 Returns: [StarsRevenueWithdrawalURL](/tl/types#starsrevenuewithdrawalurl)

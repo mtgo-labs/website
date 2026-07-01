@@ -5,7 +5,7 @@ description: TL method phone.getCallConfig
 
 # phone.getCallConfig
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x55451fa9`  
 Returns: [DataJSON](/tl/types#datajson)

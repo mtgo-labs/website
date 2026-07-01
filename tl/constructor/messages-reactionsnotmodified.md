@@ -5,7 +5,7 @@ description: TL constructor messages.reactionsNotModified
 
 # ReactionsNotModified
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.reactionsNotModified`  
 Constructor ID: `0xb06fdbdf`  

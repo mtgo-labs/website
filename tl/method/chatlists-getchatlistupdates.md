@@ -5,7 +5,7 @@ description: TL method chatlists.getChatlistUpdates
 
 # chatlists.getChatlistUpdates
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x89419521`  
 Returns: [ChatlistUpdates](/tl/types#chatlistupdates)

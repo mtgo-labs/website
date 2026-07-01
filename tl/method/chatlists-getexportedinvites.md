@@ -5,7 +5,7 @@ description: TL method chatlists.getExportedInvites
 
 # chatlists.getExportedInvites
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xce03da83`  
 Returns: [ExportedInvites](/tl/types#exportedinvites)

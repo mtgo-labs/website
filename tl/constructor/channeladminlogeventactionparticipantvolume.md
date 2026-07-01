@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionParticipantVolume
 
 # ChannelAdminLogEventActionParticipantVolume
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionParticipantVolume`  
 Constructor ID: `0x3e7f6847`  

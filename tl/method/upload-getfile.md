@@ -5,7 +5,7 @@ description: TL method upload.getFile
 
 # upload.getFile
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbe5335be`  
 Returns: [File](/tl/types#file)

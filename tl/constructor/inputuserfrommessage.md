@@ -5,7 +5,7 @@ description: TL constructor inputUserFromMessage
 
 # InputUserFromMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputUserFromMessage`  
 Constructor ID: `0x1da448e2`  

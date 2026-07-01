@@ -5,7 +5,7 @@ description: TL method premium.getBoostsStatus
 
 # premium.getBoostsStatus
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x042f1f61`  
 Returns: [BoostsStatus](/tl/types#boostsstatus)

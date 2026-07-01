@@ -5,7 +5,7 @@ description: TL constructor updateChannelUserTyping
 
 # UpdateChannelUserTyping
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChannelUserTyping`  
 Constructor ID: `0x8c88c923`  

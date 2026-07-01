@@ -5,7 +5,7 @@ description: TL method auth.signUp
 
 # auth.signUp
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xaac7b717`  
 Returns: [Authorization](/tl/types#authorization)

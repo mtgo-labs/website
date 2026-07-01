@@ -5,7 +5,7 @@ description: TL constructor pageRelatedArticle
 
 # PageRelatedArticle
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageRelatedArticle`  
 Constructor ID: `0xb390dc08`  

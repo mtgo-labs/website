@@ -5,7 +5,7 @@ description: TL constructor channels.adminLogResults
 
 # AdminLogResults
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channels.adminLogResults`  
 Constructor ID: `0xed8af74d`  

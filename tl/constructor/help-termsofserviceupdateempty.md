@@ -5,7 +5,7 @@ description: TL constructor help.termsOfServiceUpdateEmpty
 
 # TermsOfServiceUpdateEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.termsOfServiceUpdateEmpty`  
 Constructor ID: `0xe3309f7f`  

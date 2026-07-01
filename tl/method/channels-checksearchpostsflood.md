@@ -5,7 +5,7 @@ description: TL method channels.checkSearchPostsFlood
 
 # channels.checkSearchPostsFlood
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x22567115`  
 Returns: [SearchPostsFlood](/tl/types#searchpostsflood)

@@ -5,7 +5,7 @@ description: TL method auth.checkRecoveryPassword
 
 # auth.checkRecoveryPassword
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0d36bf79`  
 Returns: [Bool](/tl/types#bool)

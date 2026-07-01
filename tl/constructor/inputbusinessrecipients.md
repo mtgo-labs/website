@@ -5,7 +5,7 @@ description: TL constructor inputBusinessRecipients
 
 # InputBusinessRecipients
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputBusinessRecipients`  
 Constructor ID: `0x6f8b32aa`  

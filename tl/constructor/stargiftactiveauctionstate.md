@@ -5,7 +5,7 @@ description: TL constructor starGiftActiveAuctionState
 
 # StarGiftActiveAuctionState
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftActiveAuctionState`  
 Constructor ID: `0xd31bc45d`  

@@ -5,7 +5,7 @@ description: TL constructor statsURL
 
 # StatsURL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `statsURL`  
 Constructor ID: `0x47a971e0`  

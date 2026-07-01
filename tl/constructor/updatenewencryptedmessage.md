@@ -5,7 +5,7 @@ description: TL constructor updateNewEncryptedMessage
 
 # UpdateNewEncryptedMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateNewEncryptedMessage`  
 Constructor ID: `0x12bcbd9a`  

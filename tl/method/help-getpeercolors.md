@@ -5,7 +5,7 @@ description: TL method help.getPeerColors
 
 # help.getPeerColors
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xda80f42f`  
 Returns: [PeerColors](/tl/types#peercolors)

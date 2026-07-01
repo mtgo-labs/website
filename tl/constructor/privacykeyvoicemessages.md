@@ -5,7 +5,7 @@ description: TL constructor privacyKeyVoiceMessages
 
 # PrivacyKeyVoiceMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyKeyVoiceMessages`  
 Constructor ID: `0x0697f414`  

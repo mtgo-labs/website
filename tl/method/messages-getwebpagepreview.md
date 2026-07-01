@@ -5,7 +5,7 @@ description: TL method messages.getWebPagePreview
 
 # messages.getWebPagePreview
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x570d6f6f`  
 Returns: [WebPagePreview](/tl/types#webpagepreview)

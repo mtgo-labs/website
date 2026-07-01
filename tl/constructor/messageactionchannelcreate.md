@@ -5,7 +5,7 @@ description: TL constructor messageActionChannelCreate
 
 # MessageActionChannelCreate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionChannelCreate`  
 Constructor ID: `0x95d2ac92`  

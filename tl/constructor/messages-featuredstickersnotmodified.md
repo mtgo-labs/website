@@ -5,7 +5,7 @@ description: TL constructor messages.featuredStickersNotModified
 
 # FeaturedStickersNotModified
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.featuredStickersNotModified`  
 Constructor ID: `0xc6dc0c66`  

@@ -5,7 +5,7 @@ description: TL method payments.reorderStarGiftCollections
 
 # payments.reorderStarGiftCollections
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc32af4cc`  
 Returns: [Bool](/tl/types#bool)

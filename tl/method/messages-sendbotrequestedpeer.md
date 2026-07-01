@@ -5,7 +5,7 @@ description: TL method messages.sendBotRequestedPeer
 
 # messages.sendBotRequestedPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x6c5cf2a7`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL constructor inputReplyToMessage
 
 # InputReplyToMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputReplyToMessage`  
 Constructor ID: `0x3bd4b7c2`  

@@ -5,7 +5,7 @@ description: TL method help.getRecentMeUrls
 
 # help.getRecentMeUrls
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3dc0f114`  
 Returns: [RecentMeUrls](/tl/types#recentmeurls)

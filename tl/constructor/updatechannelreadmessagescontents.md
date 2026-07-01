@@ -5,7 +5,7 @@ description: TL constructor updateChannelReadMessagesContents
 
 # UpdateChannelReadMessagesContents
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChannelReadMessagesContents`  
 Constructor ID: `0x25f324f7`  

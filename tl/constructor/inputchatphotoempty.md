@@ -5,7 +5,7 @@ description: TL constructor inputChatPhotoEmpty
 
 # InputChatPhotoEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputChatPhotoEmpty`  
 Constructor ID: `0x1ca48f57`  

@@ -5,7 +5,7 @@ description: TL method account.disablePeerConnectedBot
 
 # account.disablePeerConnectedBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5e437ed9`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL method payments.getStarGiftAuctionState
 
 # payments.getStarGiftAuctionState
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5c9ff4d6`  
 Returns: [StarGiftAuctionState](/tl/types#stargiftauctionstate)

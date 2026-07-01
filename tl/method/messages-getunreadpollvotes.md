@@ -5,7 +5,7 @@ description: TL method messages.getUnreadPollVotes
 
 # messages.getUnreadPollVotes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x43286cf2`  
 Returns: [Messages](/tl/types#messages)

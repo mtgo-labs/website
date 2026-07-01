@@ -5,7 +5,7 @@ description: TL method channels.editBanned
 
 # channels.editBanned
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x96e6cd81`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL method channels.deleteMessages
 
 # channels.deleteMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x84c1fd4e`  
 Returns: [AffectedMessages](/tl/types#affectedmessages)

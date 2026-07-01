@@ -5,7 +5,7 @@ description: TL constructor langPackDifference
 
 # LangPackDifference
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `langPackDifference`  
 Constructor ID: `0xf385c1f6`  

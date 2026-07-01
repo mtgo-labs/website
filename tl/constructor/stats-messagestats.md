@@ -5,7 +5,7 @@ description: TL constructor stats.messageStats
 
 # MessageStats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stats.messageStats`  
 Constructor ID: `0x7fe91c14`  

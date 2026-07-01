@@ -5,7 +5,7 @@ description: TL constructor account.passwordInputSettings
 
 # PasswordInputSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.passwordInputSettings`  
 Constructor ID: `0xc23727c9`  

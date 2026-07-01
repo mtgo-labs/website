@@ -5,7 +5,7 @@ description: TL constructor updatePendingJoinRequests
 
 # UpdatePendingJoinRequests
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatePendingJoinRequests`  
 Constructor ID: `0x7063c3db`  

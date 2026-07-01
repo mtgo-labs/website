@@ -5,7 +5,7 @@ description: TL constructor inlineBotWebView
 
 # InlineBotWebView
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inlineBotWebView`  
 Constructor ID: `0xb57295d5`  

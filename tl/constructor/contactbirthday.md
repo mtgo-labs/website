@@ -5,7 +5,7 @@ description: TL constructor contactBirthday
 
 # ContactBirthday
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `contactBirthday`  
 Constructor ID: `0x1d998733`  

@@ -5,7 +5,7 @@ description: TL constructor inputPeerPhotoFileLocation
 
 # InputPeerPhotoFileLocation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPeerPhotoFileLocation`  
 Constructor ID: `0x37257e99`  

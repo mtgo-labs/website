@@ -5,7 +5,7 @@ description: TL constructor users.userFull
 
 # UserFull
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `users.userFull`  
 Constructor ID: `0x3b6d152e`  

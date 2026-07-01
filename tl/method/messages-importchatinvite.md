@@ -5,10 +5,10 @@ description: TL method messages.importChatInvite
 
 # messages.importChatInvite
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
-Constructor ID: `0x6c50051c`  
-Returns: [Updates](/tl/types#updates)
+Constructor ID: `0xde91436e`  
+Returns: [ChatInviteJoinResult](/tl/types#chatinvitejoinresult)
 
 ## Parameters
 

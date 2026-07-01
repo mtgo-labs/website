@@ -5,7 +5,7 @@ description: TL constructor starsGiftOption
 
 # StarsGiftOption
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starsGiftOption`  
 Constructor ID: `0x5e0589f1`  

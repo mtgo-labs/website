@@ -5,7 +5,7 @@ description: TL constructor dialogPeer
 
 # DialogPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `dialogPeer`  
 Constructor ID: `0xe56dbf05`  

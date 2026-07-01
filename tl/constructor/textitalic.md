@@ -5,7 +5,7 @@ description: TL constructor textItalic
 
 # TextItalic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `textItalic`  
 Constructor ID: `0xd912a59c`  

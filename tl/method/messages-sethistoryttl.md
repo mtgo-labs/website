@@ -5,7 +5,7 @@ description: TL method messages.setHistoryTTL
 
 # messages.setHistoryTTL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb80e5fe4`  
 Returns: [Updates](/tl/types#updates)

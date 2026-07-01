@@ -5,7 +5,7 @@ description: TL method account.confirmPhone
 
 # account.confirmPhone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5f2178c3`  
 Returns: [Bool](/tl/types#bool)

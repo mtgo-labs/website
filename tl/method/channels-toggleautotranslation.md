@@ -5,7 +5,7 @@ description: TL method channels.toggleAutotranslation
 
 # channels.toggleAutotranslation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x167fc0a1`  
 Returns: [Updates](/tl/types#updates)

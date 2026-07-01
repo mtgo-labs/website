@@ -5,7 +5,7 @@ description: TL constructor baseThemeArctic
 
 # BaseThemeArctic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `baseThemeArctic`  
 Constructor ID: `0x5b11125a`  

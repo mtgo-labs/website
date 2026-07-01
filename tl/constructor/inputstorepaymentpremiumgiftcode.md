@@ -5,7 +5,7 @@ description: TL constructor inputStorePaymentPremiumGiftCode
 
 # InputStorePaymentPremiumGiftCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStorePaymentPremiumGiftCode`  
 Constructor ID: `0xfb790393`  

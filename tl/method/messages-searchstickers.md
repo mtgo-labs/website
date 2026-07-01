@@ -5,7 +5,7 @@ description: TL method messages.searchStickers
 
 # messages.searchStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x29b1c66a`  
 Returns: [FoundStickers](/tl/types#foundstickers)

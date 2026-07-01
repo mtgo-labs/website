@@ -5,7 +5,7 @@ description: TL constructor messageActionEmpty
 
 # MessageActionEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionEmpty`  
 Constructor ID: `0xb6aef7b0`  

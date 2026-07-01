@@ -5,7 +5,7 @@ description: TL method stickers.changeStickerPosition
 
 # stickers.changeStickerPosition
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xffb6d4ca`  
 Returns: [StickerSet](/tl/types#stickerset)

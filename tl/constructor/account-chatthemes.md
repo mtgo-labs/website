@@ -5,7 +5,7 @@ description: TL constructor account.chatThemes
 
 # ChatThemes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.chatThemes`  
 Constructor ID: `0xbe098173`  

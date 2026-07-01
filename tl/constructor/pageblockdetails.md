@@ -5,7 +5,7 @@ description: TL constructor pageBlockDetails
 
 # PageBlockDetails
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockDetails`  
 Constructor ID: `0x76768bed`  

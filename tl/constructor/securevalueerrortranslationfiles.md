@@ -5,7 +5,7 @@ description: TL constructor secureValueErrorTranslationFiles
 
 # SecureValueErrorTranslationFiles
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueErrorTranslationFiles`  
 Constructor ID: `0x34636dd8`  

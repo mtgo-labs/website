@@ -5,7 +5,7 @@ description: TL constructor userProfilePhotoEmpty
 
 # UserProfilePhotoEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `userProfilePhotoEmpty`  
 Constructor ID: `0x4f11bae1`  

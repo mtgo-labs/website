@@ -5,7 +5,7 @@ description: TL method payments.getPaymentForm
 
 # payments.getPaymentForm
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x37148dbb`  
 Returns: [PaymentForm](/tl/types#paymentform)

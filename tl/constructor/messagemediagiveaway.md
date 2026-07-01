@@ -5,7 +5,7 @@ description: TL constructor messageMediaGiveaway
 
 # MessageMediaGiveaway
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageMediaGiveaway`  
 Constructor ID: `0xaa073beb`  

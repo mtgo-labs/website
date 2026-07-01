@@ -5,7 +5,7 @@ description: TL method account.getReactionsNotifySettings
 
 # account.getReactionsNotifySettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x06dd654c`  
 Returns: [ReactionsNotifySettings](/tl/types#reactionsnotifysettings)

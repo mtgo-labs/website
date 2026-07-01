@@ -5,7 +5,7 @@ description: TL method messages.getPinnedSavedDialogs
 
 # messages.getPinnedSavedDialogs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd63d94e0`  
 Returns: [SavedDialogs](/tl/types#saveddialogs)

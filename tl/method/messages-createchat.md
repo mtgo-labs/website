@@ -5,7 +5,7 @@ description: TL method messages.createChat
 
 # messages.createChat
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x92ceddd4`  
 Returns: [InvitedUsers](/tl/types#invitedusers)

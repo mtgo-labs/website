@@ -5,7 +5,7 @@ description: TL method account.resetNotifySettings
 
 # account.resetNotifySettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xdb7e1747`  
 Returns: [Bool](/tl/types#bool)

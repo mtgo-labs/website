@@ -5,7 +5,7 @@ description: TL constructor inputStickerSetPremiumGifts
 
 # InputStickerSetPremiumGifts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStickerSetPremiumGifts`  
 Constructor ID: `0xc88b3b02`  

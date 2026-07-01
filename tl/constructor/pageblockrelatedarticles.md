@@ -5,7 +5,7 @@ description: TL constructor pageBlockRelatedArticles
 
 # PageBlockRelatedArticles
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockRelatedArticles`  
 Constructor ID: `0x16115a96`  

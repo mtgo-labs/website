@@ -5,7 +5,7 @@ description: TL method messages.getEmojiStatusGroups
 
 # messages.getEmojiStatusGroups
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2ecd56cd`  
 Returns: [EmojiGroups](/tl/types#emojigroups)

@@ -5,7 +5,7 @@ description: TL method messages.clearAllDrafts
 
 # messages.clearAllDrafts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7e58ee9c`  
 Returns: [Bool](/tl/types#bool)

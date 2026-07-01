@@ -5,7 +5,7 @@ description: TL constructor auth.sentCodePaymentRequired
 
 # SentCodePaymentRequired
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.sentCodePaymentRequired`  
 Constructor ID: `0xf8827ebf`  

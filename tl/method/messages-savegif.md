@@ -5,7 +5,7 @@ description: TL method messages.saveGif
 
 # messages.saveGif
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x327a30cb`  
 Returns: [Bool](/tl/types#bool)

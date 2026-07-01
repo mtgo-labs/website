@@ -5,7 +5,7 @@ description: TL method phone.sendConferenceCallBroadcast
 
 # phone.sendConferenceCallBroadcast
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc6701900`  
 Returns: [Updates](/tl/types#updates)

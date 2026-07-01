@@ -5,7 +5,7 @@ description: TL method messages.hidePeerSettingsBar
 
 # messages.hidePeerSettingsBar
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x4facb138`  
 Returns: [Bool](/tl/types#bool)

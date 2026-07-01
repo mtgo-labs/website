@@ -5,7 +5,7 @@ description: TL method stories.activateStealthMode
 
 # stories.activateStealthMode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x57bbd166`  
 Returns: [Updates](/tl/types#updates)

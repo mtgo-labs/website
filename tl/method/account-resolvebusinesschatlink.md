@@ -5,7 +5,7 @@ description: TL method account.resolveBusinessChatLink
 
 # account.resolveBusinessChatLink
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5492e5ee`  
 Returns: [ResolvedBusinessChatLinks](/tl/types#resolvedbusinesschatlinks)

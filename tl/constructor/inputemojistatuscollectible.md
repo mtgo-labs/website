@@ -5,7 +5,7 @@ description: TL constructor inputEmojiStatusCollectible
 
 # InputEmojiStatusCollectible
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputEmojiStatusCollectible`  
 Constructor ID: `0x07141dbf`  

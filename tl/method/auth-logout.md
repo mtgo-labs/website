@@ -5,7 +5,7 @@ description: TL method auth.logOut
 
 # auth.logOut
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3e72ba19`  
 Returns: [LoggedOut](/tl/types#loggedout)

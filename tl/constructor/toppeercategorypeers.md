@@ -5,7 +5,7 @@ description: TL constructor topPeerCategoryPeers
 
 # TopPeerCategoryPeers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `topPeerCategoryPeers`  
 Constructor ID: `0xfb834291`  

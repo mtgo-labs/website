@@ -5,7 +5,7 @@ description: TL constructor inputBusinessGreetingMessage
 
 # InputBusinessGreetingMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputBusinessGreetingMessage`  
 Constructor ID: `0x0194cb3b`  

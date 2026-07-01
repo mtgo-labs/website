@@ -5,7 +5,7 @@ description: TL constructor updateChannelParticipant
 
 # UpdateChannelParticipant
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChannelParticipant`  
 Constructor ID: `0x985d3abb`  

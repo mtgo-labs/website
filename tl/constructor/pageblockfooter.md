@@ -5,7 +5,7 @@ description: TL constructor pageBlockFooter
 
 # PageBlockFooter
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockFooter`  
 Constructor ID: `0x48870999`  

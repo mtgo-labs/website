@@ -5,7 +5,7 @@ description: TL method payments.validateRequestedInfo
 
 # payments.validateRequestedInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb6c8f12b`  
 Returns: [ValidatedRequestedInfo](/tl/types#validatedrequestedinfo)

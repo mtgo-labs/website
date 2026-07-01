@@ -5,7 +5,7 @@ description: TL constructor messageEntityUnderline
 
 # MessageEntityUnderline
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityUnderline`  
 Constructor ID: `0x9c4e7e8b`  

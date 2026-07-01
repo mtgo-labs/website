@@ -5,7 +5,7 @@ description: TL constructor pendingSuggestion
 
 # PendingSuggestion
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pendingSuggestion`  
 Constructor ID: `0xe7e82e12`  

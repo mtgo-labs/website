@@ -5,7 +5,7 @@ description: TL constructor auth.loginTokenMigrateTo
 
 # LoginTokenMigrateTo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.loginTokenMigrateTo`  
 Constructor ID: `0x068e9916`  

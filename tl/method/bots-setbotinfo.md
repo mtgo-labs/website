@@ -5,7 +5,7 @@ description: TL method bots.setBotInfo
 
 # bots.setBotInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x10cf3123`  
 Returns: [Bool](/tl/types#bool)

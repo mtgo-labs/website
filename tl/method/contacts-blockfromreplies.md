@@ -5,7 +5,7 @@ description: TL method contacts.blockFromReplies
 
 # contacts.blockFromReplies
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x29a8962c`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL method messages.installStickerSet
 
 # messages.installStickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc78fe460`  
 Returns: [StickerSetInstallResult](/tl/types#stickersetinstallresult)

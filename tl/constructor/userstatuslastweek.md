@@ -5,7 +5,7 @@ description: TL constructor userStatusLastWeek
 
 # UserStatusLastWeek
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `userStatusLastWeek`  
 Constructor ID: `0x541a1d1a`  

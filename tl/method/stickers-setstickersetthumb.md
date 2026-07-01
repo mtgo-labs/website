@@ -5,7 +5,7 @@ description: TL method stickers.setStickerSetThumb
 
 # stickers.setStickerSetThumb
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa76a5392`  
 Returns: [StickerSet](/tl/types#stickerset)

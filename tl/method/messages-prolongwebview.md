@@ -5,7 +5,7 @@ description: TL method messages.prolongWebView
 
 # messages.prolongWebView
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb0d81a83`  
 Returns: [Bool](/tl/types#bool)

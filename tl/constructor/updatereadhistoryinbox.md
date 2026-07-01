@@ -5,7 +5,7 @@ description: TL constructor updateReadHistoryInbox
 
 # UpdateReadHistoryInbox
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateReadHistoryInbox`  
 Constructor ID: `0x9e84bc99`  

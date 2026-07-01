@@ -5,7 +5,7 @@ description: TL constructor payments.starsStatus
 
 # StarsStatus
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.starsStatus`  
 Constructor ID: `0x6c9ce8ed`  

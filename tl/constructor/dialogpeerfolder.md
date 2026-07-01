@@ -5,7 +5,7 @@ description: TL constructor dialogPeerFolder
 
 # DialogPeerFolder
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `dialogPeerFolder`  
 Constructor ID: `0x514519e2`  

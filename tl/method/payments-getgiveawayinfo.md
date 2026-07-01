@@ -5,7 +5,7 @@ description: TL method payments.getGiveawayInfo
 
 # payments.getGiveawayInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf4239425`  
 Returns: [GiveawayInfo](/tl/types#giveawayinfo)

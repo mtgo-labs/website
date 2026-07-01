@@ -5,7 +5,7 @@ description: TL constructor messageEntityDiffReplace
 
 # MessageEntityDiffReplace
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityDiffReplace`  
 Constructor ID: `0xc6c1e5a7`  

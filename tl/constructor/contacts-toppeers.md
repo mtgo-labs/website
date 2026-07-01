@@ -5,7 +5,7 @@ description: TL constructor contacts.topPeers
 
 # TopPeers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `contacts.topPeers`  
 Constructor ID: `0x70b772a8`  

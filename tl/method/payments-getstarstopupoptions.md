@@ -5,7 +5,7 @@ description: TL method payments.getStarsTopupOptions
 
 # payments.getStarsTopupOptions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc00ec7d3`  
 Returns: [StarsTopupOption](/tl/types#starstopupoption)

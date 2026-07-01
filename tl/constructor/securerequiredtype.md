@@ -5,7 +5,7 @@ description: TL constructor secureRequiredType
 
 # SecureRequiredType
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureRequiredType`  
 Constructor ID: `0x829d99da`  

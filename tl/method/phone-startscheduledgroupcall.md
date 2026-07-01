@@ -5,7 +5,7 @@ description: TL method phone.startScheduledGroupCall
 
 # phone.startScheduledGroupCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5680e342`  
 Returns: [Updates](/tl/types#updates)

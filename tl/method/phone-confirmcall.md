@@ -5,7 +5,7 @@ description: TL method phone.confirmCall
 
 # phone.confirmCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2efe1722`  
 Returns: [PhoneCall](/tl/types#phonecall)

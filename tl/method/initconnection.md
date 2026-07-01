@@ -5,7 +5,7 @@ description: TL method initConnection
 
 # initConnection
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc1cd5ea9`  
 Returns: [X](/tl/types#x)

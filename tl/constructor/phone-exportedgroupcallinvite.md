@@ -5,7 +5,7 @@ description: TL constructor phone.exportedGroupCallInvite
 
 # ExportedGroupCallInvite
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `phone.exportedGroupCallInvite`  
 Constructor ID: `0x204bd158`  

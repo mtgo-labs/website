@@ -5,7 +5,7 @@ description: TL constructor exportedContactToken
 
 # ExportedContactToken
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `exportedContactToken`  
 Constructor ID: `0x41bf109b`  

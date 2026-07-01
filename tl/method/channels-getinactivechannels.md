@@ -5,7 +5,7 @@ description: TL method channels.getInactiveChannels
 
 # channels.getInactiveChannels
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x11e831ee`  
 Returns: [InactiveChats](/tl/types#inactivechats)

@@ -5,7 +5,7 @@ description: TL method messages.getSavedReactionTags
 
 # messages.getSavedReactionTags
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3637e05b`  
 Returns: [SavedReactionTags](/tl/types#savedreactiontags)

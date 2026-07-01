@@ -5,7 +5,7 @@ description: TL method account.reportPeer
 
 # account.reportPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc5ba3d86`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL constructor botInlineResult
 
 # BotInlineResult
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInlineResult`  
 Constructor ID: `0x11965f3a`  

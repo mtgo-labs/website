@@ -5,7 +5,7 @@ description: TL constructor botAppSettings
 
 # BotAppSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botAppSettings`  
 Constructor ID: `0xc99b1950`  

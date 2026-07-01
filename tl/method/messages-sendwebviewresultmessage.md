@@ -5,7 +5,7 @@ description: TL method messages.sendWebViewResultMessage
 
 # messages.sendWebViewResultMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0a4314f5`  
 Returns: [WebViewMessageSent](/tl/types#webviewmessagesent)

@@ -5,7 +5,7 @@ description: TL constructor updateChannelViewForumAsMessages
 
 # UpdateChannelViewForumAsMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChannelViewForumAsMessages`  
 Constructor ID: `0x07b68920`  

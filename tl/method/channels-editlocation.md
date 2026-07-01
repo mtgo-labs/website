@@ -5,7 +5,7 @@ description: TL method channels.editLocation
 
 # channels.editLocation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x58e63f6d`  
 Returns: [Bool](/tl/types#bool)

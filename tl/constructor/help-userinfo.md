@@ -5,7 +5,7 @@ description: TL constructor help.userInfo
 
 # UserInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.userInfo`  
 Constructor ID: `0x01eb3758`  

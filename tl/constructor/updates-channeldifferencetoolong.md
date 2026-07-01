@@ -5,7 +5,7 @@ description: TL constructor updates.channelDifferenceTooLong
 
 # ChannelDifferenceTooLong
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updates.channelDifferenceTooLong`  
 Constructor ID: `0xa4bcc6fe`  

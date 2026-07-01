@@ -5,7 +5,7 @@ description: TL constructor inputInvoiceMessage
 
 # InputInvoiceMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputInvoiceMessage`  
 Constructor ID: `0xc5b56859`  

@@ -5,7 +5,7 @@ description: TL constructor jsonString
 
 # JSONString
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `jsonString`  
 Constructor ID: `0xb71e767a`  

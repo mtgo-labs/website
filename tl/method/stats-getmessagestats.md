@@ -5,7 +5,7 @@ description: TL method stats.getMessageStats
 
 # stats.getMessageStats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb6e0a3f5`  
 Returns: [MessageStats](/tl/types#messagestats)

@@ -5,7 +5,7 @@ description: TL method account.sendChangePhoneCode
 
 # account.sendChangePhoneCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x82574ae5`  
 Returns: [SentCode](/tl/types#sentcode)

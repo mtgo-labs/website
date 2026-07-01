@@ -5,7 +5,7 @@ description: TL method channels.editPhoto
 
 # channels.editPhoto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf12e57c9`  
 Returns: [Updates](/tl/types#updates)

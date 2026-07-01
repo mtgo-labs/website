@@ -5,7 +5,7 @@ description: TL method account.getSavedRingtones
 
 # account.getSavedRingtones
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe1902288`  
 Returns: [SavedRingtones](/tl/types#savedringtones)

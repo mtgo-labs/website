@@ -5,7 +5,7 @@ description: TL constructor inputCheckPasswordSRP
 
 # InputCheckPasswordSRP
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputCheckPasswordSRP`  
 Constructor ID: `0xd27ff082`  

@@ -5,7 +5,7 @@ description: TL constructor messages.emojiGameDiceInfo
 
 # EmojiGameDiceInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.emojiGameDiceInfo`  
 Constructor ID: `0x44e56023`  

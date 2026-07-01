@@ -5,7 +5,7 @@ description: TL constructor inputMediaDocument
 
 # InputMediaDocument
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaDocument`  
 Constructor ID: `0xa8763ab5`  

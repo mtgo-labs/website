@@ -5,7 +5,7 @@ description: TL constructor inputMessagesFilterPhotoVideo
 
 # InputMessagesFilterPhotoVideo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMessagesFilterPhotoVideo`  
 Constructor ID: `0x56e9f0e4`  

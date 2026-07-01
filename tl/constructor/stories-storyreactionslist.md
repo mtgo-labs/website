@@ -5,7 +5,7 @@ description: TL constructor stories.storyReactionsList
 
 # StoryReactionsList
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stories.storyReactionsList`  
 Constructor ID: `0xaa5f789c`  

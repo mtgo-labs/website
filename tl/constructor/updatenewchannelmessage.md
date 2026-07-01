@@ -5,7 +5,7 @@ description: TL constructor updateNewChannelMessage
 
 # UpdateNewChannelMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateNewChannelMessage`  
 Constructor ID: `0x62ba04d9`  

@@ -5,7 +5,7 @@ description: TL constructor updateStickerSetsOrder
 
 # UpdateStickerSetsOrder
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateStickerSetsOrder`  
 Constructor ID: `0x0bb2d201`  

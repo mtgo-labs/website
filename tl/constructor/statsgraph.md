@@ -5,7 +5,7 @@ description: TL constructor statsGraph
 
 # StatsGraph
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `statsGraph`  
 Constructor ID: `0x8ea464b6`  

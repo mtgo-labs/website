@@ -5,7 +5,7 @@ description: TL constructor textPlain
 
 # TextPlain
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `textPlain`  
 Constructor ID: `0x744694e0`  

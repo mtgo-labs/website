@@ -5,7 +5,7 @@ description: TL constructor updateDeleteMessages
 
 # UpdateDeleteMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateDeleteMessages`  
 Constructor ID: `0xa20db0e5`  

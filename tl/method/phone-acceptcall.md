@@ -5,7 +5,7 @@ description: TL method phone.acceptCall
 
 # phone.acceptCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3bd2b4a0`  
 Returns: [PhoneCall](/tl/types#phonecall)

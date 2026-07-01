@@ -5,7 +5,7 @@ description: TL method messages.getPeerDialogs
 
 # messages.getPeerDialogs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe470bcfd`  
 Returns: [PeerDialogs](/tl/types#peerdialogs)

@@ -5,7 +5,7 @@ description: TL method messages.reportSponsoredMessage
 
 # messages.reportSponsoredMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x12cbf0c4`  
 Returns: [SponsoredMessageReportResult](/tl/types#sponsoredmessagereportresult)

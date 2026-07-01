@@ -5,7 +5,7 @@ description: TL method channels.toggleJoinToSend
 
 # channels.toggleJoinToSend
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe4cb9580`  
 Returns: [Updates](/tl/types#updates)

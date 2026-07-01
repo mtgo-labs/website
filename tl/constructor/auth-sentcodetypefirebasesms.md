@@ -5,7 +5,7 @@ description: TL constructor auth.sentCodeTypeFirebaseSms
 
 # SentCodeTypeFirebaseSms
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.sentCodeTypeFirebaseSms`  
 Constructor ID: `0x009fd736`  

@@ -5,7 +5,7 @@ description: TL method messages.forwardMessages
 
 # messages.forwardMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x13704a7c`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL method account.resetWallPapers
 
 # account.resetWallPapers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbb3b9804`  
 Returns: [Bool](/tl/types#bool)

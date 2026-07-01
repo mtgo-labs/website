@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionStopPoll
 
 # ChannelAdminLogEventActionStopPoll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionStopPoll`  
 Constructor ID: `0x8f079643`  

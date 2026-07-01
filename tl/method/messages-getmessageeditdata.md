@@ -5,7 +5,7 @@ description: TL method messages.getMessageEditData
 
 # messages.getMessageEditData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xfda68d36`  
 Returns: [MessageEditData](/tl/types#messageeditdata)

@@ -5,7 +5,7 @@ description: TL constructor webPagePending
 
 # WebPagePending
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `webPagePending`  
 Constructor ID: `0xb0d13e47`  

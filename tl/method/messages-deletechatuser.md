@@ -5,7 +5,7 @@ description: TL method messages.deleteChatUser
 
 # messages.deleteChatUser
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa2185cab`  
 Returns: [Updates](/tl/types#updates)

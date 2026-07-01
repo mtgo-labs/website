@@ -5,7 +5,7 @@ description: TL method messages.addPollAnswer
 
 # messages.addPollAnswer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x19bc4b6d`  
 Returns: [Updates](/tl/types#updates)

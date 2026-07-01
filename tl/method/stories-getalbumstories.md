@@ -5,7 +5,7 @@ description: TL method stories.getAlbumStories
 
 # stories.getAlbumStories
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xac806d61`  
 Returns: [Stories](/tl/types#stories)

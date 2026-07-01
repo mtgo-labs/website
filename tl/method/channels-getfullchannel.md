@@ -5,7 +5,7 @@ description: TL method channels.getFullChannel
 
 # channels.getFullChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x08736a09`  
 Returns: [ChatFull](/tl/types#chatfull)

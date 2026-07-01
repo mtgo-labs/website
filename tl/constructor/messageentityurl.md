@@ -5,7 +5,7 @@ description: TL constructor messageEntityUrl
 
 # MessageEntityURL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityUrl`  
 Constructor ID: `0x6ed02538`  

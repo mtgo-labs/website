@@ -5,7 +5,7 @@ description: TL method auth.checkPassword
 
 # auth.checkPassword
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd18b4d16`  
 Returns: [Authorization](/tl/types#authorization)

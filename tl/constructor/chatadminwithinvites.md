@@ -5,7 +5,7 @@ description: TL constructor chatAdminWithInvites
 
 # ChatAdminWithInvites
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatAdminWithInvites`  
 Constructor ID: `0xf2ecef23`  

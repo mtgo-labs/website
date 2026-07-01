@@ -5,7 +5,7 @@ description: TL constructor messageReplyHeader
 
 # MessageReplyHeader
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageReplyHeader`  
 Constructor ID: `0x1b97dd66`  
@@ -19,6 +19,7 @@ Returns: [MessageReplyHeader](/tl/types#messagereplyheader)
 | `reply_to_scheduled` | `bool` *(flags.2)* | | 
 | `forum_topic` | `bool` *(flags.3)* | | 
 | `quote` | `bool` *(flags.9)* | | 
+| `reply_to_ephemeral` | `bool` *(flags.13)* | | 
 | `reply_to_msg_id` | `int32` *(flags.4)* | | 
 | `reply_to_peer_id` | `Peer` *(flags.0)* | | 
 | `reply_from` | `MessageFwdHeader` *(flags.5)* | | 

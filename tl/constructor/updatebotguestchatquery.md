@@ -5,7 +5,7 @@ description: TL constructor updateBotGuestChatQuery
 
 # UpdateBotGuestChatQuery
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotGuestChatQuery`  
 Constructor ID: `0xcdd4093d`  

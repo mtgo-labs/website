@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionTogglePreHistoryHidden
 
 # ChannelAdminLogEventActionTogglePreHistoryHidden
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionTogglePreHistoryHidden`  
 Constructor ID: `0x5f5c95f1`  

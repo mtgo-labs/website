@@ -5,7 +5,7 @@ description: TL constructor messages.historyImportParsed
 
 # HistoryImportParsed
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.historyImportParsed`  
 Constructor ID: `0x5e0fb7b9`  

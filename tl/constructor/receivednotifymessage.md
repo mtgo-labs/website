@@ -5,7 +5,7 @@ description: TL constructor receivedNotifyMessage
 
 # ReceivedNotifyMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `receivedNotifyMessage`  
 Constructor ID: `0xa384b779`  

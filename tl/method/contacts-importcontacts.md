@@ -5,7 +5,7 @@ description: TL method contacts.importContacts
 
 # contacts.importContacts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2c800be5`  
 Returns: [ImportedContacts](/tl/types#importedcontacts)

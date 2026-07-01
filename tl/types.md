@@ -5,7 +5,7 @@ description: All abstract TL types and their implementing constructors.
 
 # TL Types
 
-Layer **225** | 595 types
+Layer **227** | 602 types
 
 Abstract types from the Telegram TL schema. Each type is an interface implemented by one or more constructors.
 
@@ -273,7 +273,7 @@ Constructors: 1
 ## BotInlineMessage
 
 TL name: `BotInlineMessage`  
-Constructors: 7
+Constructors: 8
 
 | Constructor | ID |
 |---|---|
@@ -284,6 +284,7 @@ Constructors: 7
 | [BotInlineMessageMediaContact](/tl/constructor/botinlinemessagemediacontact) | `0x18d1cdc2` |
 | [BotInlineMessageMediaInvoice](/tl/constructor/botinlinemessagemediainvoice) | `0x354a9b09` |
 | [BotInlineMessageMediaWebPage](/tl/constructor/botinlinemessagemediawebpage) | `0x809ad9a6` |
+| [BotInlineMessageRichMessage](/tl/constructor/botinlinemessagerichmessage) | `0x0a617e7b` |
 
 ## BotInlineResult
 
@@ -628,7 +629,7 @@ Constructors: 2
 | Constructor | ID |
 |---|---|
 | [ChatFull](/tl/constructor/chatfull) | `0x2633421b` |
-| [ChannelFull](/tl/constructor/channelfull) | `0xe4e0b29d` |
+| [ChannelFull](/tl/constructor/channelfull) | `0xa04e8d3a` |
 
 ## ChatInvite
 
@@ -736,7 +737,7 @@ Constructors: 1
 
 | Constructor | ID |
 |---|---|
-| [ConnectedBot](/tl/constructor/connectedbot) | `0xcd64636c` |
+| [ConnectedBot](/tl/constructor/connectedbot) | `0x033ed001` |
 
 ## ConnectedBotStarRef
 
@@ -884,7 +885,7 @@ Constructors: 2
 | Constructor | ID |
 |---|---|
 | [DraftMessageEmpty](/tl/constructor/draftmessageempty) | `0x1b0c841a` |
-| [DraftMessage](/tl/constructor/draftmessage) | `0x96eaa5eb` |
+| [DraftMessage](/tl/constructor/draftmessage) | `0x60fe3294` |
 
 ## EmailVerification
 
@@ -1305,7 +1306,7 @@ Constructors: 2
 ## InputBotInlineMessage
 
 TL name: `InputBotInlineMessage`  
-Constructors: 8
+Constructors: 9
 
 | Constructor | ID |
 |---|---|
@@ -1317,6 +1318,7 @@ Constructors: 8
 | [InputBotInlineMessageGame](/tl/constructor/inputbotinlinemessagegame) | `0x4b425864` |
 | [InputBotInlineMessageMediaInvoice](/tl/constructor/inputbotinlinemessagemediainvoice) | `0xd7e78225` |
 | [InputBotInlineMessageMediaWebPage](/tl/constructor/inputbotinlinemessagemediawebpage) | `0xbddcc510` |
+| [InputBotInlineMessageRichMessage](/tl/constructor/inputbotinlinemessagerichmessage) | `0xb43df56c` |
 
 ## InputBotInlineMessageID
 
@@ -1807,6 +1809,27 @@ Constructors: 3
 | [InputReplyToStory](/tl/constructor/inputreplytostory) | `0x5881323a` |
 | [InputReplyToMonoForum](/tl/constructor/inputreplytomonoforum) | `0x69d66c45` |
 
+## InputRichFile
+
+TL name: `InputRichFile`  
+Constructors: 2
+
+| Constructor | ID |
+|---|---|
+| [InputRichFilePhoto](/tl/constructor/inputrichfilephoto) | `0x9b00622b` |
+| [InputRichFileDocument](/tl/constructor/inputrichfiledocument) | `0x83281dbd` |
+
+## InputRichMessage
+
+TL name: `InputRichMessage`  
+Constructors: 3
+
+| Constructor | ID |
+|---|---|
+| [InputRichMessage](/tl/constructor/inputrichmessage) | `0xe4c449fc` |
+| [InputRichMessageHTML](/tl/constructor/inputrichmessagehtml) | `0xdacb836a` |
+| [InputRichMessageMarkdown](/tl/constructor/inputrichmessagemarkdown) | `0x004b572c` |
+
 ## InputSavedStarGift
 
 TL name: `InputSavedStarGift`  
@@ -2014,6 +2037,18 @@ Constructors: 6
 | [JSONArray](/tl/constructor/jsonarray) | `0xf7444763` |
 | [JSONObject](/tl/constructor/jsonobject) | `0x99c1d49d` |
 
+## JoinChatBotResult
+
+TL name: `JoinChatBotResult`  
+Constructors: 4
+
+| Constructor | ID |
+|---|---|
+| [JoinChatBotResultApproved](/tl/constructor/joinchatbotresultapproved) | `0xae152a69` |
+| [JoinChatBotResultDeclined](/tl/constructor/joinchatbotresultdeclined) | `0x0efa0194` |
+| [JoinChatBotResultQueued](/tl/constructor/joinchatbotresultqueued) | `0x98a3a840` |
+| [JoinChatBotResultWebView](/tl/constructor/joinchatbotresultwebview) | `0xd6e3b813` |
+
 ## KeyboardButton
 
 TL name: `KeyboardButton`  
@@ -2036,8 +2071,8 @@ Constructors: 18
 | [KeyboardButtonUserProfile](/tl/constructor/keyboardbuttonuserprofile) | `0xc0fd5d09` |
 | [KeyboardButtonWebView](/tl/constructor/keyboardbuttonwebview) | `0xe846b1a0` |
 | [KeyboardButtonSimpleWebView](/tl/constructor/keyboardbuttonsimplewebview) | `0xe15c4370` |
-| [KeyboardButtonRequestPeer](/tl/constructor/keyboardbuttonrequestpeer) | `0x53d7bfd8` |
-| [InputKeyboardButtonRequestPeer](/tl/constructor/inputkeyboardbuttonrequestpeer) | `0xc9662d05` |
+| [KeyboardButtonRequestPeer](/tl/constructor/keyboardbuttonrequestpeer) | `0x5b0f15f5` |
+| [InputKeyboardButtonRequestPeer](/tl/constructor/inputkeyboardbuttonrequestpeer) | `0x02b78156` |
 | [KeyboardButtonCopy](/tl/constructor/keyboardbuttoncopy) | `0xbcc4af10` |
 
 ## KeyboardButtonRow
@@ -2139,7 +2174,7 @@ Constructors: 3
 | Constructor | ID |
 |---|---|
 | [MessageEmpty](/tl/constructor/messageempty) | `0x90a6ca84` |
-| [Message](/tl/constructor/message) | `0x95ef6f2b` |
+| [Message](/tl/constructor/message) | `0x7600b9d3` |
 | [MessageService](/tl/constructor/messageservice) | `0x7a800e0a` |
 
 ## MessageAction
@@ -2488,7 +2523,7 @@ Constructors: 1
 ## PageBlock
 
 TL name: `PageBlock`  
-Constructors: 29
+Constructors: 39
 
 | Constructor | ID |
 |---|---|
@@ -2517,10 +2552,20 @@ Constructors: 29
 | [PageBlockAudio](/tl/constructor/pageblockaudio) | `0x804361ea` |
 | [PageBlockKicker](/tl/constructor/pageblockkicker) | `0x1e148390` |
 | [PageBlockTable](/tl/constructor/pageblocktable) | `0xbf4dea82` |
-| [PageBlockOrderedList](/tl/constructor/pageblockorderedlist) | `0x9a8ae1e1` |
+| [PageBlockOrderedList](/tl/constructor/pageblockorderedlist) | `0x1fd6f6c1` |
 | [PageBlockDetails](/tl/constructor/pageblockdetails) | `0x76768bed` |
 | [PageBlockRelatedArticles](/tl/constructor/pageblockrelatedarticles) | `0x16115a96` |
 | [PageBlockMap](/tl/constructor/pageblockmap) | `0xa44f3ef6` |
+| [PageBlockHeading1](/tl/constructor/pageblockheading1) | `0xbaff072f` |
+| [PageBlockHeading2](/tl/constructor/pageblockheading2) | `0x096b2aec` |
+| [PageBlockHeading3](/tl/constructor/pageblockheading3) | `0x67e731ad` |
+| [PageBlockHeading4](/tl/constructor/pageblockheading4) | `0xb532772b` |
+| [PageBlockHeading5](/tl/constructor/pageblockheading5) | `0xdbbe6c6a` |
+| [PageBlockHeading6](/tl/constructor/pageblockheading6) | `0x682a41a9` |
+| [PageBlockMath](/tl/constructor/pageblockmath) | `0x59080c20` |
+| [PageBlockThinking](/tl/constructor/pageblockthinking) | `0x3c29a3e2` |
+| [InputPageBlockMap](/tl/constructor/inputpageblockmap) | `0x574b617f` |
+| [PageBlockBlockquoteBlocks](/tl/constructor/pageblockblockquoteblocks) | `0x0e6e47c4` |
 
 ## PageCaption
 
@@ -2538,8 +2583,8 @@ Constructors: 2
 
 | Constructor | ID |
 |---|---|
-| [PageListItemText](/tl/constructor/pagelistitemtext) | `0xb92fb6cd` |
-| [PageListItemBlocks](/tl/constructor/pagelistitemblocks) | `0x25e073fc` |
+| [PageListItemText](/tl/constructor/pagelistitemtext) | `0x2f58683c` |
+| [PageListItemBlocks](/tl/constructor/pagelistitemblocks) | `0x63ca67aa` |
 
 ## PageListOrderedItem
 
@@ -2548,8 +2593,8 @@ Constructors: 2
 
 | Constructor | ID |
 |---|---|
-| [PageListOrderedItemText](/tl/constructor/pagelistordereditemtext) | `0x5e068047` |
-| [PageListOrderedItemBlocks](/tl/constructor/pagelistordereditemblocks) | `0x98dd8936` |
+| [PageListOrderedItemText](/tl/constructor/pagelistordereditemtext) | `0x15031189` |
+| [PageListOrderedItemBlocks](/tl/constructor/pagelistordereditemblocks) | `0x8ff2d5f0` |
 
 ## PageRelatedArticle
 
@@ -3125,10 +3170,19 @@ Constructors: 1
 |---|---|
 | [RestrictionReason](/tl/constructor/restrictionreason) | `0xd072acb4` |
 
+## RichMessage
+
+TL name: `RichMessage`  
+Constructors: 1
+
+| Constructor | ID |
+|---|---|
+| [RichMessage](/tl/constructor/richmessage) | `0xbaf39d8b` |
+
 ## RichText
 
 TL name: `RichText`  
-Constructors: 16
+Constructors: 29
 
 | Constructor | ID |
 |---|---|
@@ -3148,6 +3202,19 @@ Constructors: 16
 | [TextPhone](/tl/constructor/textphone) | `0x1ccb966a` |
 | [TextImage](/tl/constructor/textimage) | `0x081ccf4f` |
 | [TextAnchor](/tl/constructor/textanchor) | `0x35553762` |
+| [TextMath](/tl/constructor/textmath) | `0x9d2eac97` |
+| [TextCustomEmoji](/tl/constructor/textcustomemoji) | `0xa26156c0` |
+| [TextSpoiler](/tl/constructor/textspoiler) | `0x4c2a5d62` |
+| [TextMention](/tl/constructor/textmention) | `0xcd24cf44` |
+| [TextHashtag](/tl/constructor/texthashtag) | `0x519524ea` |
+| [TextBotCommand](/tl/constructor/textbotcommand) | `0x02ff29d3` |
+| [TextCashtag](/tl/constructor/textcashtag) | `0x7b9e1801` |
+| [TextAutoURL](/tl/constructor/textautourl) | `0xac6a83aa` |
+| [TextAutoEmail](/tl/constructor/textautoemail) | `0xc556a45d` |
+| [TextAutoPhone](/tl/constructor/textautophone) | `0x24c26789` |
+| [TextBankCard](/tl/constructor/textbankcard) | `0xb956812d` |
+| [TextMentionName](/tl/constructor/textmentionname) | `0x01a9fbfc` |
+| [TextDate](/tl/constructor/textdate) | `0xa5b45e2b` |
 
 ## SavedContact
 
@@ -3349,7 +3416,7 @@ Constructors: 1
 ## SendMessageAction
 
 TL name: `SendMessageAction`  
-Constructors: 19
+Constructors: 21
 
 | Constructor | ID |
 |---|---|
@@ -3372,6 +3439,8 @@ Constructors: 19
 | [SendMessageEmojiInteraction](/tl/constructor/sendmessageemojiinteraction) | `0x25972bcb` |
 | [SendMessageEmojiInteractionSeen](/tl/constructor/sendmessageemojiinteractionseen) | `0xb665902e` |
 | [SendMessageTextDraftAction](/tl/constructor/sendmessagetextdraftaction) | `0x376d975c` |
+| [InputSendMessageRichMessageDraftAction](/tl/constructor/inputsendmessagerichmessagedraftaction) | `0xe2b23b51` |
+| [SendMessageRichMessageDraftAction](/tl/constructor/sendmessagerichmessagedraftaction) | `0xa2cb24f9` |
 
 ## ShippingOption
 
@@ -3966,7 +4035,7 @@ Constructors: 1
 ## Update
 
 TL name: `Update`  
-Constructors: 156
+Constructors: 160
 
 | Constructor | ID |
 |---|---|
@@ -4064,7 +4133,7 @@ Constructors: 156
 | [UpdateGroupCallConnection](/tl/constructor/updategroupcallconnection) | `0x0b783982` |
 | [UpdateBotCommands](/tl/constructor/updatebotcommands) | `0x4d712f2e` |
 | [UpdatePendingJoinRequests](/tl/constructor/updatependingjoinrequests) | `0x7063c3db` |
-| [UpdateBotChatInviteRequester](/tl/constructor/updatebotchatinviterequester) | `0x11dfa986` |
+| [UpdateBotChatInviteRequester](/tl/constructor/updatebotchatinviterequester) | `0x7cb34d79` |
 | [UpdateMessageReactions](/tl/constructor/updatemessagereactions) | `0x1e297bfa` |
 | [UpdateAttachMenuBots](/tl/constructor/updateattachmenubots) | `0x17b7a20b` |
 | [UpdateWebViewResultSent](/tl/constructor/updatewebviewresultsent) | `0x1592b79d` |
@@ -4126,6 +4195,10 @@ Constructors: 156
 | [UpdateManagedBot](/tl/constructor/updatemanagedbot) | `0x4880ed9a` |
 | [UpdateBotGuestChatQuery](/tl/constructor/updatebotguestchatquery) | `0xcdd4093d` |
 | [UpdateAiComposeTones](/tl/constructor/updateaicomposetones) | `0x8c0f91fb` |
+| [UpdateJoinChatWebViewDecision](/tl/constructor/updatejoinchatwebviewdecision) | `0xbdac7e70` |
+| [UpdateNewBotConnection](/tl/constructor/updatenewbotconnection) | `0xb22083a6` |
+| [UpdateWebBrowserSettings](/tl/constructor/updatewebbrowsersettings) | `0xc39a2ade` |
+| [UpdateWebBrowserException](/tl/constructor/updatewebbrowserexception) | `0x140502d1` |
 
 ## Updates
 
@@ -4262,6 +4335,15 @@ Constructors: 2
 |---|---|
 | [WebDocument](/tl/constructor/webdocument) | `0x1c570ed1` |
 | [WebDocumentNoProxy](/tl/constructor/webdocumentnoproxy) | `0xf9c8bcc6` |
+
+## WebDomainException
+
+TL name: `WebDomainException`  
+Constructors: 1
+
+| Constructor | ID |
+|---|---|
+| [WebDomainException](/tl/constructor/webdomainexception) | `0x933ca597` |
 
 ## WebPage
 
@@ -4569,6 +4651,16 @@ Constructors: 1
 | Constructor | ID |
 |---|---|
 | [WebAuthorizations](/tl/constructor/account-webauthorizations) | `0xed56c9fc` |
+
+## Account.webBrowserSettings
+
+TL name: `account.WebBrowserSettings`  
+Constructors: 2
+
+| Constructor | ID |
+|---|---|
+| [WebBrowserSettingsNotModified](/tl/constructor/account-webbrowsersettingsnotmodified) | `0xc31c8f4e` |
+| [WebBrowserSettings](/tl/constructor/account-webbrowsersettings) | `0x79eb8cb3` |
 
 ## Aicompose.tones
 
@@ -5224,6 +5316,16 @@ Constructors: 1
 | Constructor | ID |
 |---|---|
 | [ChatInviteImporters](/tl/constructor/messages-chatinviteimporters) | `0x81b6b00a` |
+
+## Messages.chatInviteJoinResult
+
+TL name: `messages.ChatInviteJoinResult`  
+Constructors: 2
+
+| Constructor | ID |
+|---|---|
+| [ChatInviteJoinResultOk](/tl/constructor/messages-chatinvitejoinresultok) | `0x445663a7` |
+| [ChatInviteJoinResultWebView](/tl/constructor/messages-chatinvitejoinresultwebview) | `0x2f51c337` |
 
 ## Messages.chats
 

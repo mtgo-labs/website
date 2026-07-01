@@ -5,7 +5,7 @@ description: TL constructor messageActionGameScore
 
 # MessageActionGameScore
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionGameScore`  
 Constructor ID: `0x92a72876`  

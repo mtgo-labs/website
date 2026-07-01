@@ -5,7 +5,7 @@ description: TL constructor inputPeerChannelFromMessage
 
 # InputPeerChannelFromMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPeerChannelFromMessage`  
 Constructor ID: `0xbd2a0840`  

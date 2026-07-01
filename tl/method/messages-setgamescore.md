@@ -5,7 +5,7 @@ description: TL method messages.setGameScore
 
 # messages.setGameScore
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8ef8ecc0`  
 Returns: [Updates](/tl/types#updates)

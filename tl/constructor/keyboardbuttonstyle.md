@@ -5,7 +5,7 @@ description: TL constructor keyboardButtonStyle
 
 # KeyboardButtonStyle
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `keyboardButtonStyle`  
 Constructor ID: `0x4fdd3430`  

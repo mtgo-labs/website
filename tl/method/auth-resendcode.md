@@ -5,7 +5,7 @@ description: TL method auth.resendCode
 
 # auth.resendCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xcae47523`  
 Returns: [SentCode](/tl/types#sentcode)

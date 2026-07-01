@@ -5,7 +5,7 @@ description: TL constructor account.resetPasswordRequestedWait
 
 # ResetPasswordRequestedWait
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.resetPasswordRequestedWait`  
 Constructor ID: `0xe9effc7d`  

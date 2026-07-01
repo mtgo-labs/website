@@ -5,7 +5,7 @@ description: TL constructor inputStarGiftAuction
 
 # InputStarGiftAuction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStarGiftAuction`  
 Constructor ID: `0x02e16c98`  

@@ -5,7 +5,7 @@ description: TL constructor statsDateRangeDays
 
 # StatsDateRangeDays
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `statsDateRangeDays`  
 Constructor ID: `0xb637edaf`  

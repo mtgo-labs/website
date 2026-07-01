@@ -5,7 +5,7 @@ description: TL constructor updateBotShippingQuery
 
 # UpdateBotShippingQuery
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotShippingQuery`  
 Constructor ID: `0xb5aefd7d`  

@@ -5,7 +5,7 @@ description: TL method channels.toggleSignatures
 
 # channels.toggleSignatures
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x418d549c`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL constructor starGiftBackground
 
 # StarGiftBackground
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftBackground`  
 Constructor ID: `0xaff56398`  

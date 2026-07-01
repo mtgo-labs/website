@@ -5,9 +5,9 @@ description: TL method messages.sendMessage
 
 # messages.sendMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
-Constructor ID: `0x545cd15a`  
+Constructor ID: `0xfef48f62`  
 Returns: [Updates](/tl/types#updates)
 
 ## Parameters
@@ -35,6 +35,7 @@ Returns: [Updates](/tl/types#updates)
 | `effect` | `int64` *(flags.18, optional)* | | 
 | `allow_paid_stars` | `int64` *(flags.21, optional)* | | 
 | `suggested_post` | `SuggestedPost` *(flags.22, optional)* | | 
+| `rich_message` | `InputRichMessage` *(flags.23, optional)* | | 
 
 ## Example
 
@@ -61,6 +62,7 @@ result, err := client.Raw(&tg.SendMessageRequest{
     effect: 0,
     allow_paid_stars: 0,
     suggested_post: nil, // SuggestedPost
+    rich_message: nil, // InputRichMessage
 })
 if err != nil {
     panic(err)

@@ -5,7 +5,7 @@ description: TL constructor mediaAreaCoordinates
 
 # MediaAreaCoordinates
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `mediaAreaCoordinates`  
 Constructor ID: `0xcfc9e002`  

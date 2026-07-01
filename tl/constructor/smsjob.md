@@ -5,7 +5,7 @@ description: TL constructor smsJob
 
 # SmsJob
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `smsJob`  
 Constructor ID: `0xe6a1eeb8`  

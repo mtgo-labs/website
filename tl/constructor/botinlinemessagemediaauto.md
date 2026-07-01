@@ -5,7 +5,7 @@ description: TL constructor botInlineMessageMediaAuto
 
 # BotInlineMessageMediaAuto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInlineMessageMediaAuto`  
 Constructor ID: `0x764cf810`  

@@ -5,7 +5,7 @@ description: TL method messages.toggleDialogPin
 
 # messages.toggleDialogPin
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa731e257`  
 Returns: [Bool](/tl/types#bool)

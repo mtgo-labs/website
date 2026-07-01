@@ -5,7 +5,7 @@ description: TL method messages.getHistory
 
 # messages.getHistory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x4423e6c5`  
 Returns: [Messages](/tl/types#messages)

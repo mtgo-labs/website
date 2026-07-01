@@ -5,7 +5,7 @@ description: TL constructor updateDialogFilter
 
 # UpdateDialogFilter
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateDialogFilter`  
 Constructor ID: `0x26ffde7d`  

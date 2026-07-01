@@ -5,7 +5,7 @@ description: TL method channels.getMessages
 
 # channels.getMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xad8c9a23`  
 Returns: [Messages](/tl/types#messages)

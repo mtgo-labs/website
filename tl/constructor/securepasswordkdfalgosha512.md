@@ -5,7 +5,7 @@ description: TL constructor securePasswordKdfAlgoSHA512
 
 # SecurePasswordKdfAlgoSha512
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `securePasswordKdfAlgoSHA512`  
 Constructor ID: `0x86471d92`  

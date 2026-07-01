@@ -5,7 +5,7 @@ description: TL method messages.getEmojiProfilePhotoGroups
 
 # messages.getEmojiProfilePhotoGroups
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x21a548f3`  
 Returns: [EmojiGroups](/tl/types#emojigroups)

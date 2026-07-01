@@ -5,7 +5,7 @@ description: TL method account.toggleConnectedBotPaused
 
 # account.toggleConnectedBotPaused
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x646e1097`  
 Returns: [Bool](/tl/types#bool)

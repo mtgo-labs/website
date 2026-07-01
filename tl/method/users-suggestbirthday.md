@@ -5,7 +5,7 @@ description: TL method users.suggestBirthday
 
 # users.suggestBirthday
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xfc533372`  
 Returns: [Updates](/tl/types#updates)

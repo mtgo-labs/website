@@ -5,7 +5,7 @@ description: TL constructor inputMessagesFilterVoice
 
 # InputMessagesFilterVoice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMessagesFilterVoice`  
 Constructor ID: `0x50f5c392`  

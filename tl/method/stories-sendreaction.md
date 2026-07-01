@@ -5,7 +5,7 @@ description: TL method stories.sendReaction
 
 # stories.sendReaction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7fd736b2`  
 Returns: [Updates](/tl/types#updates)

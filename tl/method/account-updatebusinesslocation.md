@@ -5,7 +5,7 @@ description: TL method account.updateBusinessLocation
 
 # account.updateBusinessLocation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9e6b131a`  
 Returns: [Bool](/tl/types#bool)

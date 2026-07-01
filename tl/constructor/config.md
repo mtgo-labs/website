@@ -5,7 +5,7 @@ description: TL constructor config
 
 # Config
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `config`  
 Constructor ID: `0xcc1a241e`  

@@ -5,7 +5,7 @@ description: TL constructor updateBotBusinessConnect
 
 # UpdateBotBusinessConnect
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotBusinessConnect`  
 Constructor ID: `0x8ae5c97a`  

@@ -5,7 +5,7 @@ description: TL constructor payments.validatedRequestedInfo
 
 # ValidatedRequestedInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.validatedRequestedInfo`  
 Constructor ID: `0xd1451883`  

@@ -5,7 +5,7 @@ description: TL constructor payments.bankCardData
 
 # BankCardData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.bankCardData`  
 Constructor ID: `0x3e24e573`  

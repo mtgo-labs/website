@@ -5,7 +5,7 @@ description: TL method channels.getAdminLog
 
 # channels.getAdminLog
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x33ddf480`  
 Returns: [AdminLogResults](/tl/types#adminlogresults)

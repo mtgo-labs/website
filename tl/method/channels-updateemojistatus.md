@@ -5,7 +5,7 @@ description: TL method channels.updateEmojiStatus
 
 # channels.updateEmojiStatus
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf0d3e6a8`  
 Returns: [Updates](/tl/types#updates)

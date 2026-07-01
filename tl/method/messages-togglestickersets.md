@@ -5,7 +5,7 @@ description: TL method messages.toggleStickerSets
 
 # messages.toggleStickerSets
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb5052fea`  
 Returns: [Bool](/tl/types#bool)

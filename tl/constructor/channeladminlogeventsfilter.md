@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventsFilter
 
 # ChannelAdminLogEventsFilter
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventsFilter`  
 Constructor ID: `0xea107ae4`  

@@ -5,7 +5,7 @@ description: TL method account.getContactSignUpNotification
 
 # account.getContactSignUpNotification
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9f07c728`  
 Returns: [Bool](/tl/types#bool)

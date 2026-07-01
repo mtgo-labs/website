@@ -5,7 +5,7 @@ description: TL method upload.getWebFile
 
 # upload.getWebFile
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x24e6818d`  
 Returns: [WebFile](/tl/types#webfile)

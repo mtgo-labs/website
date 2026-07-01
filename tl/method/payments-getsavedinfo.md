@@ -5,7 +5,7 @@ description: TL method payments.getSavedInfo
 
 # payments.getSavedInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x227d824b`  
 Returns: [SavedInfo](/tl/types#savedinfo)

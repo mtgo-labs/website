@@ -5,7 +5,7 @@ description: TL constructor dcOption
 
 # DCOption
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `dcOption`  
 Constructor ID: `0x18b7a10d`  

@@ -5,7 +5,7 @@ description: TL method account.getAllSecureValues
 
 # account.getAllSecureValues
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb288bc7d`  
 Returns: [SecureValue](/tl/types#securevalue)

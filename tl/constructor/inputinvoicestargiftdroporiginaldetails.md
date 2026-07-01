@@ -5,7 +5,7 @@ description: TL constructor inputInvoiceStarGiftDropOriginalDetails
 
 # InputInvoiceStarGiftDropOriginalDetails
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputInvoiceStarGiftDropOriginalDetails`  
 Constructor ID: `0x0923d8d1`  

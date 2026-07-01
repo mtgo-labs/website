@@ -5,7 +5,7 @@ description: TL method bots.requestWebViewButton
 
 # bots.requestWebViewButton
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x31a2a35e`  
 Returns: [RequestedButton](/tl/types#requestedbutton)

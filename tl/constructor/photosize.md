@@ -5,7 +5,7 @@ description: TL constructor photoSize
 
 # PhotoSize
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `photoSize`  
 Constructor ID: `0x75c78e60`  

@@ -5,7 +5,7 @@ description: TL constructor searchPostsFlood
 
 # SearchPostsFlood
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `searchPostsFlood`  
 Constructor ID: `0x3e0b5b6a`  

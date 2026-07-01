@@ -5,7 +5,7 @@ description: TL constructor inputCheckPasswordEmpty
 
 # InputCheckPasswordEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputCheckPasswordEmpty`  
 Constructor ID: `0x9880f658`  

@@ -5,7 +5,7 @@ description: TL constructor messages.forumTopics
 
 # ForumTopics
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.forumTopics`  
 Constructor ID: `0x367617d3`  

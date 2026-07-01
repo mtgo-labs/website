@@ -5,7 +5,7 @@ description: TL constructor updateAttachMenuBots
 
 # UpdateAttachMenuBots
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateAttachMenuBots`  
 Constructor ID: `0x17b7a20b`  

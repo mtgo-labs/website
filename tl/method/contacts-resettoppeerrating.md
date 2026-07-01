@@ -5,7 +5,7 @@ description: TL method contacts.resetTopPeerRating
 
 # contacts.resetTopPeerRating
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x1ae373ac`  
 Returns: [Bool](/tl/types#bool)

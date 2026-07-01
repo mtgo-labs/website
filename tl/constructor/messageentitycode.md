@@ -5,7 +5,7 @@ description: TL constructor messageEntityCode
 
 # MessageEntityCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityCode`  
 Constructor ID: `0x28a20571`  

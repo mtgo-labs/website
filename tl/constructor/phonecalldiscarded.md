@@ -5,7 +5,7 @@ description: TL constructor phoneCallDiscarded
 
 # PhoneCallDiscarded
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `phoneCallDiscarded`  
 Constructor ID: `0x50ca4de1`  

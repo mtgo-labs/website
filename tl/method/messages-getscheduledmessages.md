@@ -5,7 +5,7 @@ description: TL method messages.getScheduledMessages
 
 # messages.getScheduledMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbdbb0464`  
 Returns: [Messages](/tl/types#messages)

@@ -5,7 +5,7 @@ description: TL constructor messages.checkedHistoryImportPeer
 
 # CheckedHistoryImportPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.checkedHistoryImportPeer`  
 Constructor ID: `0xa24de717`  

@@ -5,7 +5,7 @@ description: TL method messages.savePreparedInlineMessage
 
 # messages.savePreparedInlineMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf21f7f2f`  
 Returns: [BotPreparedInlineMessage](/tl/types#botpreparedinlinemessage)

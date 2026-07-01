@@ -5,7 +5,7 @@ description: TL method account.getChatThemes
 
 # account.getChatThemes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd638de89`  
 Returns: [Themes](/tl/types#themes)

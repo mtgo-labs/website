@@ -5,7 +5,7 @@ description: TL constructor updateStarGiftCraftFail
 
 # UpdateStarGiftCraftFail
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateStarGiftCraftFail`  
 Constructor ID: `0xac072444`  

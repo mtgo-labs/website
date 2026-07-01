@@ -5,7 +5,7 @@ description: TL method messages.toggleBotInAttachMenu
 
 # messages.toggleBotInAttachMenu
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x69f59d69`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL method account.resetWebAuthorization
 
 # account.resetWebAuthorization
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2d01b9ef`  
 Returns: [Bool](/tl/types#bool)

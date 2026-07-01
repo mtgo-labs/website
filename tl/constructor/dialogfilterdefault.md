@@ -5,7 +5,7 @@ description: TL constructor dialogFilterDefault
 
 # DialogFilterDefault
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `dialogFilterDefault`  
 Constructor ID: `0x363293ae`  

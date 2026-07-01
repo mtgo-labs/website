@@ -5,7 +5,7 @@ description: TL constructor notifyForumTopic
 
 # NotifyForumTopic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `notifyForumTopic`  
 Constructor ID: `0x226e6308`  

@@ -5,7 +5,7 @@ description: TL method premium.getMyBoosts
 
 # premium.getMyBoosts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0be77b4a`  
 Returns: [MyBoosts](/tl/types#myboosts)

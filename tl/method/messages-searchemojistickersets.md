@@ -5,7 +5,7 @@ description: TL method messages.searchEmojiStickerSets
 
 # messages.searchEmojiStickerSets
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x92b4494c`  
 Returns: [FoundStickerSets](/tl/types#foundstickersets)

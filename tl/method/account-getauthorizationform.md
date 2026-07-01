@@ -5,7 +5,7 @@ description: TL method account.getAuthorizationForm
 
 # account.getAuthorizationForm
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa929597a`  
 Returns: [AuthorizationForm](/tl/types#authorizationform)

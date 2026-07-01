@@ -5,7 +5,7 @@ description: TL constructor starGiftAttributeRarityUncommon
 
 # StarGiftAttributeRarityUncommon
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftAttributeRarityUncommon`  
 Constructor ID: `0xdbce6389`  

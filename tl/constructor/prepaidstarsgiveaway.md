@@ -5,7 +5,7 @@ description: TL constructor prepaidStarsGiveaway
 
 # PrepaidStarsGiveaway
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `prepaidStarsGiveaway`  
 Constructor ID: `0x9a9d77e0`  

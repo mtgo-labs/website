@@ -5,7 +5,7 @@ description: TL constructor inputWebFileGeoPointLocation
 
 # InputWebFileGeoPointLocation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputWebFileGeoPointLocation`  
 Constructor ID: `0x9f2221c9`  

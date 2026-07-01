@@ -5,7 +5,7 @@ description: TL constructor paymentSavedCredentialsCard
 
 # PaymentSavedCredentialsCard
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `paymentSavedCredentialsCard`  
 Constructor ID: `0xcdc27a1f`  

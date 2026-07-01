@@ -5,7 +5,7 @@ description: TL method aicompose.deleteTone
 
 # aicompose.deleteTone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xdd39316a`  
 Returns: [Bool](/tl/types#bool)

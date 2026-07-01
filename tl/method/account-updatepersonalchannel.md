@@ -5,7 +5,7 @@ description: TL method account.updatePersonalChannel
 
 # account.updatePersonalChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd94305e0`  
 Returns: [Bool](/tl/types#bool)

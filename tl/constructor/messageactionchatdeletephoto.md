@@ -5,7 +5,7 @@ description: TL constructor messageActionChatDeletePhoto
 
 # MessageActionChatDeletePhoto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionChatDeletePhoto`  
 Constructor ID: `0x95e3fbef`  

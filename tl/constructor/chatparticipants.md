@@ -5,7 +5,7 @@ description: TL constructor chatParticipants
 
 # ChatParticipants
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatParticipants`  
 Constructor ID: `0x3cbc93f8`  

@@ -5,7 +5,7 @@ description: TL constructor videoSizeStickerMarkup
 
 # VideoSizeStickerMarkup
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `videoSizeStickerMarkup`  
 Constructor ID: `0x0da082fe`  

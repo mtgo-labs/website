@@ -5,7 +5,7 @@ description: TL method payments.getStarGiftWithdrawalUrl
 
 # payments.getStarGiftWithdrawalUrl
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd06e93a8`  
 Returns: [StarGiftWithdrawalURL](/tl/types#stargiftwithdrawalurl)

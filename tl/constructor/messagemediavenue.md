@@ -5,7 +5,7 @@ description: TL constructor messageMediaVenue
 
 # MessageMediaVenue
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageMediaVenue`  
 Constructor ID: `0x2ec0533f`  

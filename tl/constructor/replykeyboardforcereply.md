@@ -5,7 +5,7 @@ description: TL constructor replyKeyboardForceReply
 
 # ReplyKeyboardForceReply
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `replyKeyboardForceReply`  
 Constructor ID: `0x86b40b08`  

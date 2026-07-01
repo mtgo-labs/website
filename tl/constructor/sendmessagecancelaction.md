@@ -5,7 +5,7 @@ description: TL constructor sendMessageCancelAction
 
 # SendMessageCancelAction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `sendMessageCancelAction`  
 Constructor ID: `0xfd5ec8f5`  

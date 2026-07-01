@@ -5,7 +5,7 @@ description: TL constructor aicompose.tones
 
 # Tones
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `aicompose.tones`  
 Constructor ID: `0x6c9d0efe`  

@@ -5,7 +5,7 @@ description: TL constructor textWithEntities
 
 # TextWithEntities
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `textWithEntities`  
 Constructor ID: `0x751f3146`  

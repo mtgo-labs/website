@@ -5,7 +5,7 @@ description: TL constructor messageActionGeoProximityReached
 
 # MessageActionGeoProximityReached
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionGeoProximityReached`  
 Constructor ID: `0x98e0d697`  

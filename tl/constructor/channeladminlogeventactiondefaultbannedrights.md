@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionDefaultBannedRights
 
 # ChannelAdminLogEventActionDefaultBannedRights
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionDefaultBannedRights`  
 Constructor ID: `0x2df5fc0a`  

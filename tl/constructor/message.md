@@ -5,10 +5,10 @@ description: TL constructor message
 
 # Message
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `message`  
-Constructor ID: `0x95ef6f2b`  
+Constructor ID: `0x7600b9d3`  
 Returns: [Message](/tl/types#message)
 
 ## Fields
@@ -65,3 +65,4 @@ Returns: [Message](/tl/types#message)
 | `suggested_post` | `SuggestedPost` *(flags.7)* | | 
 | `schedule_repeat_period` | `int32` *(flags.10)* | | 
 | `summary_from_language` | `string` *(flags.11)* | | 
+| `rich_message` | `RichMessage` *(flags.13)* | | 

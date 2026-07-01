@@ -5,7 +5,7 @@ description: TL method messages.updateDialogFilter
 
 # messages.updateDialogFilter
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x1ad4a04a`  
 Returns: [Bool](/tl/types#bool)

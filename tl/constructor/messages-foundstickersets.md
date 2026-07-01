@@ -5,7 +5,7 @@ description: TL constructor messages.foundStickerSets
 
 # FoundStickerSets
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.foundStickerSets`  
 Constructor ID: `0x8af09dd2`  

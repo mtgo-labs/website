@@ -5,7 +5,7 @@ description: TL constructor secureRequiredTypeOneOf
 
 # SecureRequiredTypeOneOf
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureRequiredTypeOneOf`  
 Constructor ID: `0x027477b4`  

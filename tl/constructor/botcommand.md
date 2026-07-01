@@ -5,7 +5,7 @@ description: TL constructor botCommand
 
 # BotCommand
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botCommand`  
 Constructor ID: `0xc27ac8c7`  

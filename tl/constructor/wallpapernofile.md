@@ -5,7 +5,7 @@ description: TL constructor wallPaperNoFile
 
 # WallPaperNoFile
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `wallPaperNoFile`  
 Constructor ID: `0xe0804116`  

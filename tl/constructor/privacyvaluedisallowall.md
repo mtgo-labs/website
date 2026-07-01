@@ -5,7 +5,7 @@ description: TL constructor privacyValueDisallowAll
 
 # PrivacyValueDisallowAll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyValueDisallowAll`  
 Constructor ID: `0x8b73e763`  

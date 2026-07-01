@@ -5,7 +5,7 @@ description: TL constructor account.emojiStatuses
 
 # EmojiStatuses
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.emojiStatuses`  
 Constructor ID: `0x90c467d1`  

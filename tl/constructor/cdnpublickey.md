@@ -5,7 +5,7 @@ description: TL constructor cdnPublicKey
 
 # CDNPublicKey
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `cdnPublicKey`  
 Constructor ID: `0xc982eaba`  

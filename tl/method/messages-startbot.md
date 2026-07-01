@@ -5,7 +5,7 @@ description: TL method messages.startBot
 
 # messages.startBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe6df7378`  
 Returns: [Updates](/tl/types#updates)

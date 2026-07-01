@@ -5,7 +5,7 @@ description: TL constructor webPageAttributeTheme
 
 # WebPageAttributeTheme
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `webPageAttributeTheme`  
 Constructor ID: `0x54b56617`  

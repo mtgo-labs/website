@@ -5,7 +5,7 @@ description: TL constructor messages.emojiGameUnavailable
 
 # EmojiGameUnavailable
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.emojiGameUnavailable`  
 Constructor ID: `0x59e65335`  

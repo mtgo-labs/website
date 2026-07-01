@@ -5,7 +5,7 @@ description: TL constructor payments.resaleStarGifts
 
 # ResaleStarGifts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.resaleStarGifts`  
 Constructor ID: `0x947a12df`  

@@ -5,7 +5,7 @@ description: TL constructor inputEncryptedChat
 
 # InputEncryptedChat
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputEncryptedChat`  
 Constructor ID: `0xf141b5e1`  

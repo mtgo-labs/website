@@ -5,7 +5,7 @@ description: TL constructor updateStarsBalance
 
 # UpdateStarsBalance
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateStarsBalance`  
 Constructor ID: `0x4e80a379`  

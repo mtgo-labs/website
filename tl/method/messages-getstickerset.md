@@ -5,7 +5,7 @@ description: TL method messages.getStickerSet
 
 # messages.getStickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc8a0ec74`  
 Returns: [StickerSet](/tl/types#stickerset)

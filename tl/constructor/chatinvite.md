@@ -5,7 +5,7 @@ description: TL constructor chatInvite
 
 # ChatInvite
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatInvite`  
 Constructor ID: `0x5c9d3702`  

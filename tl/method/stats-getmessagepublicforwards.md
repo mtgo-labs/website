@@ -5,7 +5,7 @@ description: TL method stats.getMessagePublicForwards
 
 # stats.getMessagePublicForwards
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5f150144`  
 Returns: [PublicForwards](/tl/types#publicforwards)

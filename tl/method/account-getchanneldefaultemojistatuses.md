@@ -5,7 +5,7 @@ description: TL method account.getChannelDefaultEmojiStatuses
 
 # account.getChannelDefaultEmojiStatuses
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7727a7d5`  
 Returns: [EmojiStatuses](/tl/types#emojistatuses)

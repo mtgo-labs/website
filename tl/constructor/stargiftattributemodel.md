@@ -5,7 +5,7 @@ description: TL constructor starGiftAttributeModel
 
 # StarGiftAttributeModel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftAttributeModel`  
 Constructor ID: `0x565251e2`  

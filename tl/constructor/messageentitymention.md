@@ -5,7 +5,7 @@ description: TL constructor messageEntityMention
 
 # MessageEntityMention
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityMention`  
 Constructor ID: `0xfa04579d`  

@@ -5,7 +5,7 @@ description: TL method help.getPromoData
 
 # help.getPromoData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc0977421`  
 Returns: [PromoData](/tl/types#promodata)

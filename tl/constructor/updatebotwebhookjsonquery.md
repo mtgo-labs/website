@@ -5,7 +5,7 @@ description: TL constructor updateBotWebhookJSONQuery
 
 # UpdateBotWebhookJSONQuery
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotWebhookJSONQuery`  
 Constructor ID: `0x9b9240a6`  

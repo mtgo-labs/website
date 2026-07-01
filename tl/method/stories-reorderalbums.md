@@ -5,7 +5,7 @@ description: TL method stories.reorderAlbums
 
 # stories.reorderAlbums
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8535fbd9`  
 Returns: [Bool](/tl/types#bool)

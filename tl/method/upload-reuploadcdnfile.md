@@ -5,7 +5,7 @@ description: TL method upload.reuploadCdnFile
 
 # upload.reuploadCdnFile
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9b2754a8`  
 Returns: [FileHash](/tl/types#filehash)

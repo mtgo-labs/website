@@ -5,7 +5,7 @@ description: TL constructor updateEncryptedMessagesRead
 
 # UpdateEncryptedMessagesRead
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateEncryptedMessagesRead`  
 Constructor ID: `0x38fe25b7`  

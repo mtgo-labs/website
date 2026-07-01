@@ -5,7 +5,7 @@ description: TL method bots.answerWebhookJSONQuery
 
 # bots.answerWebhookJSONQuery
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe6213f4d`  
 Returns: [Bool](/tl/types#bool)

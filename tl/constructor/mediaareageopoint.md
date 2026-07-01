@@ -5,7 +5,7 @@ description: TL constructor mediaAreaGeoPoint
 
 # MediaAreaGeoPoint
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `mediaAreaGeoPoint`  
 Constructor ID: `0xcad5452d`  

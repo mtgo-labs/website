@@ -5,7 +5,7 @@ description: TL constructor updateStarGiftAuctionState
 
 # UpdateStarGiftAuctionState
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateStarGiftAuctionState`  
 Constructor ID: `0x48e246c2`  

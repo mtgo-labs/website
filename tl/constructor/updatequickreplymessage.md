@@ -5,7 +5,7 @@ description: TL constructor updateQuickReplyMessage
 
 # UpdateQuickReplyMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateQuickReplyMessage`  
 Constructor ID: `0x3e050d0f`  

@@ -5,7 +5,7 @@ description: TL method channels.readHistory
 
 # channels.readHistory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xcc104937`  
 Returns: [Bool](/tl/types#bool)

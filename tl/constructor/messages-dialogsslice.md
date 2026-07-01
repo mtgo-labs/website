@@ -5,7 +5,7 @@ description: TL constructor messages.dialogsSlice
 
 # DialogsSlice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.dialogsSlice`  
 Constructor ID: `0x71e094f3`  

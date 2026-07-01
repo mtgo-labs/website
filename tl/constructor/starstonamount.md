@@ -5,7 +5,7 @@ description: TL constructor starsTonAmount
 
 # StarsTonAmount
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starsTonAmount`  
 Constructor ID: `0x74aee3e0`  

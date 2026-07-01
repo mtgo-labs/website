@@ -5,7 +5,7 @@ description: TL constructor starGiftAttributeIdPattern
 
 # StarGiftAttributeIDPattern
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftAttributeIdPattern`  
 Constructor ID: `0x4a162433`  

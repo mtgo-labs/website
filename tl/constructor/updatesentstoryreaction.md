@@ -5,7 +5,7 @@ description: TL constructor updateSentStoryReaction
 
 # UpdateSentStoryReaction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateSentStoryReaction`  
 Constructor ID: `0x7d627683`  

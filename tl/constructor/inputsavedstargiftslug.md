@@ -5,7 +5,7 @@ description: TL constructor inputSavedStarGiftSlug
 
 # InputSavedStarGiftSlug
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputSavedStarGiftSlug`  
 Constructor ID: `0x2085c238`  

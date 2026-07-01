@@ -5,7 +5,7 @@ description: TL constructor messageActionGiftPremium
 
 # MessageActionGiftPremium
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionGiftPremium`  
 Constructor ID: `0x48e91302`  

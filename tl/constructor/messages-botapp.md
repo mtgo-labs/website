@@ -5,7 +5,7 @@ description: TL constructor messages.botApp
 
 # BotApp
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.botApp`  
 Constructor ID: `0xeb50adf5`  

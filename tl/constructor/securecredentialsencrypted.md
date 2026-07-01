@@ -5,7 +5,7 @@ description: TL constructor secureCredentialsEncrypted
 
 # SecureCredentialsEncrypted
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureCredentialsEncrypted`  
 Constructor ID: `0x33f0ea47`  

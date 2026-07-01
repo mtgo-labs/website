@@ -5,7 +5,7 @@ description: TL constructor reactionCount
 
 # ReactionCount
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `reactionCount`  
 Constructor ID: `0xa3d1cb80`  

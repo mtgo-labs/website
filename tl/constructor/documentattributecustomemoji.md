@@ -5,7 +5,7 @@ description: TL constructor documentAttributeCustomEmoji
 
 # DocumentAttributeCustomEmoji
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `documentAttributeCustomEmoji`  
 Constructor ID: `0xfd149899`  

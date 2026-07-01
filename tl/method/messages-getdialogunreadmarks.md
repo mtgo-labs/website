@@ -5,7 +5,7 @@ description: TL method messages.getDialogUnreadMarks
 
 # messages.getDialogUnreadMarks
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x21202222`  
 Returns: [DialogPeer](/tl/types#dialogpeer)

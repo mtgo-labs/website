@@ -5,7 +5,7 @@ description: TL constructor inputPrivacyKeyForwards
 
 # InputPrivacyKeyForwards
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPrivacyKeyForwards`  
 Constructor ID: `0xa4dd4c08`  

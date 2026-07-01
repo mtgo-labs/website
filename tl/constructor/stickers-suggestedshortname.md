@@ -5,7 +5,7 @@ description: TL constructor stickers.suggestedShortName
 
 # SuggestedShortName
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stickers.suggestedShortName`  
 Constructor ID: `0x85fea03f`  

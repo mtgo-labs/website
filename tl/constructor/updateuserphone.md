@@ -5,7 +5,7 @@ description: TL constructor updateUserPhone
 
 # UpdateUserPhone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateUserPhone`  
 Constructor ID: `0x05492a13`  

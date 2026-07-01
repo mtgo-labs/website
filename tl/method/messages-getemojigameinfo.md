@@ -5,7 +5,7 @@ description: TL method messages.getEmojiGameInfo
 
 # messages.getEmojiGameInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xfb7e8ca7`  
 Returns: [EmojiGameInfo](/tl/types#emojigameinfo)

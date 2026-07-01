@@ -5,7 +5,7 @@ description: TL constructor payments.paymentReceiptStars
 
 # PaymentReceiptStars
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.paymentReceiptStars`  
 Constructor ID: `0xdabbf83a`  

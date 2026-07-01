@@ -5,7 +5,7 @@ description: TL method account.getDefaultBackgroundEmojis
 
 # account.getDefaultBackgroundEmojis
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa60ab9ce`  
 Returns: [EmojiList](/tl/types#emojilist)

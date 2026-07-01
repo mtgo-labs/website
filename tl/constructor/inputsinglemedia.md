@@ -5,7 +5,7 @@ description: TL constructor inputSingleMedia
 
 # InputSingleMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputSingleMedia`  
 Constructor ID: `0x1cc6e91f`  

@@ -5,7 +5,7 @@ description: TL constructor groupCallDiscarded
 
 # GroupCallDiscarded
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `groupCallDiscarded`  
 Constructor ID: `0x7780bcb4`  

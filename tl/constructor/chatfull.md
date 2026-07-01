@@ -5,7 +5,7 @@ description: TL constructor chatFull
 
 # ChatFull
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatFull`  
 Constructor ID: `0x2633421b`  

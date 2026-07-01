@@ -5,7 +5,7 @@ description: TL method channels.getChannels
 
 # channels.getChannels
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0a7f6bbb`  
 Returns: [Chats](/tl/types#chats)

@@ -5,7 +5,7 @@ description: TL method account.registerDevice
 
 # account.registerDevice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xec86017a`  
 Returns: [Bool](/tl/types#bool)

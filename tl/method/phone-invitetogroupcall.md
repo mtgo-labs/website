@@ -5,7 +5,7 @@ description: TL method phone.inviteToGroupCall
 
 # phone.inviteToGroupCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7b393160`  
 Returns: [Updates](/tl/types#updates)

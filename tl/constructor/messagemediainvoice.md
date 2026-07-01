@@ -5,7 +5,7 @@ description: TL constructor messageMediaInvoice
 
 # MessageMediaInvoice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageMediaInvoice`  
 Constructor ID: `0xf6a548d3`  

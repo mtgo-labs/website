@@ -5,7 +5,7 @@ description: TL constructor bankCardOpenUrl
 
 # BankCardOpenURL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `bankCardOpenUrl`  
 Constructor ID: `0xf568028a`  

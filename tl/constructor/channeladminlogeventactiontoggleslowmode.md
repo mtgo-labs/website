@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionToggleSlowMode
 
 # ChannelAdminLogEventActionToggleSlowMode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionToggleSlowMode`  
 Constructor ID: `0x53909779`  

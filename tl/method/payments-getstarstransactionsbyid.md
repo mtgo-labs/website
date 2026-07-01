@@ -5,7 +5,7 @@ description: TL method payments.getStarsTransactionsByID
 
 # payments.getStarsTransactionsByID
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2dca16b8`  
 Returns: [StarsStatus](/tl/types#starsstatus)

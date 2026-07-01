@@ -5,7 +5,7 @@ description: TL constructor messageActionGroupCallScheduled
 
 # MessageActionGroupCallScheduled
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionGroupCallScheduled`  
 Constructor ID: `0xb3a07661`  

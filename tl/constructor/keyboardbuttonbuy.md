@@ -5,7 +5,7 @@ description: TL constructor keyboardButtonBuy
 
 # KeyboardButtonBuy
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `keyboardButtonBuy`  
 Constructor ID: `0x3fa53905`  

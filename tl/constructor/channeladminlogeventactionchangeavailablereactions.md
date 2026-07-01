@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionChangeAvailableReactions
 
 # ChannelAdminLogEventActionChangeAvailableReactions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionChangeAvailableReactions`  
 Constructor ID: `0xbe4e0ef8`  

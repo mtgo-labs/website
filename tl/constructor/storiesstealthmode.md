@@ -5,7 +5,7 @@ description: TL constructor storiesStealthMode
 
 # StoriesStealthMode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `storiesStealthMode`  
 Constructor ID: `0x712e27fd`  

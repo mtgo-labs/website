@@ -5,7 +5,7 @@ description: TL constructor inputStorePaymentStarsGiveaway
 
 # InputStorePaymentStarsGiveaway
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStorePaymentStarsGiveaway`  
 Constructor ID: `0x751f08fa`  

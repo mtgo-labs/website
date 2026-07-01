@@ -5,7 +5,7 @@ description: TL constructor botPreviewMedia
 
 # BotPreviewMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botPreviewMedia`  
 Constructor ID: `0x23e91ba3`  

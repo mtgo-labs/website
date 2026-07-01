@@ -5,7 +5,7 @@ description: TL constructor fragment.collectibleInfo
 
 # CollectibleInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `fragment.collectibleInfo`  
 Constructor ID: `0x6ebdff91`  

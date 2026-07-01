@@ -5,7 +5,7 @@ description: TL constructor help.deepLinkInfo
 
 # DeepLinkInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.deepLinkInfo`  
 Constructor ID: `0x6a4ee832`  

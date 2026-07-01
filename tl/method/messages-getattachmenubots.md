@@ -5,7 +5,7 @@ description: TL method messages.getAttachMenuBots
 
 # messages.getAttachMenuBots
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x16fcc2cb`  
 Returns: [AttachMenuBots](/tl/types#attachmenubots)

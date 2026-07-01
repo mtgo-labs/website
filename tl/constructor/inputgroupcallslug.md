@@ -5,7 +5,7 @@ description: TL constructor inputGroupCallSlug
 
 # InputGroupCallSlug
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputGroupCallSlug`  
 Constructor ID: `0xfe06823f`  

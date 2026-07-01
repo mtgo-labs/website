@@ -5,7 +5,7 @@ description: TL method phone.leaveGroupCall
 
 # phone.leaveGroupCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x500377f9`  
 Returns: [Updates](/tl/types#updates)

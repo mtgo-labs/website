@@ -5,7 +5,7 @@ description: TL method langpack.getStrings
 
 # langpack.getStrings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xefea3803`  
 Returns: [LangPackString](/tl/types#langpackstring)

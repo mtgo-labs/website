@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionChangeTitle
 
 # ChannelAdminLogEventActionChangeTitle
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionChangeTitle`  
 Constructor ID: `0xe6dfb825`  

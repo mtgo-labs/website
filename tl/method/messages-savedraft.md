@@ -5,9 +5,9 @@ description: TL method messages.saveDraft
 
 # messages.saveDraft
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
-Constructor ID: `0x54ae308e`  
+Constructor ID: `0xad0fa15c`  
 Returns: [Bool](/tl/types#bool)
 
 ## Parameters
@@ -23,6 +23,7 @@ Returns: [Bool](/tl/types#bool)
 | `media` | `InputMedia` *(flags.5, optional)* | | 
 | `effect` | `int64` *(flags.7, optional)* | | 
 | `suggested_post` | `SuggestedPost` *(flags.8, optional)* | | 
+| `rich_message` | `InputRichMessage` *(flags.9, optional)* | | 
 
 ## Example
 
@@ -37,6 +38,7 @@ result, err := client.Raw(&tg.SaveDraftRequest{
     media: nil, // InputMedia
     effect: 0,
     suggested_post: nil, // SuggestedPost
+    rich_message: nil, // InputRichMessage
 })
 if err != nil {
     panic(err)

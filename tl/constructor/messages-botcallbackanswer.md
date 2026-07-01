@@ -5,7 +5,7 @@ description: TL constructor messages.botCallbackAnswer
 
 # BotCallbackAnswer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.botCallbackAnswer`  
 Constructor ID: `0x36585ea4`  

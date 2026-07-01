@@ -5,7 +5,7 @@ description: TL method channels.createChannel
 
 # channels.createChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x91006707`  
 Returns: [Updates](/tl/types#updates)

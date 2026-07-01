@@ -5,7 +5,7 @@ description: TL constructor stickerSetMultiCovered
 
 # StickerSetMultiCovered
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stickerSetMultiCovered`  
 Constructor ID: `0x3407e51b`  

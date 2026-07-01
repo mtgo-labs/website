@@ -5,7 +5,7 @@ description: TL method account.deleteAccount
 
 # account.deleteAccount
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa2c0cf74`  
 Returns: [Bool](/tl/types#bool)

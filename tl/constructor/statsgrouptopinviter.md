@@ -5,7 +5,7 @@ description: TL constructor statsGroupTopInviter
 
 # StatsGroupTopInviter
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `statsGroupTopInviter`  
 Constructor ID: `0x535f779d`  

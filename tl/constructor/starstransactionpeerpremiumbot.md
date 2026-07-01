@@ -5,7 +5,7 @@ description: TL constructor starsTransactionPeerPremiumBot
 
 # StarsTransactionPeerPremiumBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starsTransactionPeerPremiumBot`  
 Constructor ID: `0x250dbaf8`  

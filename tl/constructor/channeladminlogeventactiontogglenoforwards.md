@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionToggleNoForwards
 
 # ChannelAdminLogEventActionToggleNoForwards
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionToggleNoForwards`  
 Constructor ID: `0xcb2ac766`  

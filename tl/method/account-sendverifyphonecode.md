@@ -5,7 +5,7 @@ description: TL method account.sendVerifyPhoneCode
 
 # account.sendVerifyPhoneCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa5a356f9`  
 Returns: [SentCode](/tl/types#sentcode)

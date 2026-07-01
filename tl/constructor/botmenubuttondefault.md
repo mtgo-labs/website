@@ -5,7 +5,7 @@ description: TL constructor botMenuButtonDefault
 
 # BotMenuButtonDefault
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botMenuButtonDefault`  
 Constructor ID: `0x7533a588`  

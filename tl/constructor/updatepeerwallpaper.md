@@ -5,7 +5,7 @@ description: TL constructor updatePeerWallpaper
 
 # UpdatePeerWallpaper
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatePeerWallpaper`  
 Constructor ID: `0xae3f101d`  

@@ -5,7 +5,7 @@ description: TL constructor postInteractionCountersMessage
 
 # PostInteractionCountersMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `postInteractionCountersMessage`  
 Constructor ID: `0xe7058e7f`  

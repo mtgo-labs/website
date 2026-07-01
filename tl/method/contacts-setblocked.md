@@ -5,7 +5,7 @@ description: TL method contacts.setBlocked
 
 # contacts.setBlocked
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x94c65c76`  
 Returns: [Bool](/tl/types#bool)

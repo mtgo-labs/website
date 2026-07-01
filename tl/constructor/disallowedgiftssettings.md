@@ -5,7 +5,7 @@ description: TL constructor disallowedGiftsSettings
 
 # DisallowedGiftsSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `disallowedGiftsSettings`  
 Constructor ID: `0x71f276c4`  

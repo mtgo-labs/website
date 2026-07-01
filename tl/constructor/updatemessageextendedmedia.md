@@ -5,7 +5,7 @@ description: TL constructor updateMessageExtendedMedia
 
 # UpdateMessageExtendedMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateMessageExtendedMedia`  
 Constructor ID: `0xd5a41724`  

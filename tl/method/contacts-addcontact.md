@@ -5,7 +5,7 @@ description: TL method contacts.addContact
 
 # contacts.addContact
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd9ba2e54`  
 Returns: [Updates](/tl/types#updates)

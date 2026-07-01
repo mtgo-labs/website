@@ -5,7 +5,7 @@ description: TL method phone.getGroupParticipants
 
 # phone.getGroupParticipants
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc558d8ab`  
 Returns: [GroupParticipants](/tl/types#groupparticipants)

@@ -5,7 +5,7 @@ description: TL method stats.getStoryStats
 
 # stats.getStoryStats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x374fef40`  
 Returns: [StoryStats](/tl/types#storystats)

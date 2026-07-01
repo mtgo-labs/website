@@ -5,7 +5,7 @@ description: TL constructor inputChatThemeEmpty
 
 # InputChatThemeEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputChatThemeEmpty`  
 Constructor ID: `0x83268483`  

@@ -5,7 +5,7 @@ description: TL constructor bots.exportedBotToken
 
 # ExportedBotToken
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `bots.exportedBotToken`  
 Constructor ID: `0x3c60b621`  

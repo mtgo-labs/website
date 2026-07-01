@@ -5,7 +5,7 @@ description: TL constructor restrictionReason
 
 # RestrictionReason
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `restrictionReason`  
 Constructor ID: `0xd072acb4`  

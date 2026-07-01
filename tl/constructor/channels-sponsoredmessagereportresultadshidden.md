@@ -5,7 +5,7 @@ description: TL constructor channels.sponsoredMessageReportResultAdsHidden
 
 # SponsoredMessageReportResultAdsHidden
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channels.sponsoredMessageReportResultAdsHidden`  
 Constructor ID: `0x3e3bcf2f`  

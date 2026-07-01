@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionToggleForum
 
 # ChannelAdminLogEventActionToggleForum
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionToggleForum`  
 Constructor ID: `0x02cc6383`  

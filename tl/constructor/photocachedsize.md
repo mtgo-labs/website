@@ -5,7 +5,7 @@ description: TL constructor photoCachedSize
 
 # PhotoCachedSize
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `photoCachedSize`  
 Constructor ID: `0x021e1ad6`  

@@ -5,7 +5,7 @@ description: TL method account.updateEmojiStatus
 
 # account.updateEmojiStatus
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xfbd3de6b`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL method help.getAppConfig
 
 # help.getAppConfig
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x61e3f854`  
 Returns: [AppConfig](/tl/types#appconfig)

@@ -5,7 +5,7 @@ description: TL constructor updateDeleteGroupCallMessages
 
 # UpdateDeleteGroupCallMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateDeleteGroupCallMessages`  
 Constructor ID: `0x3e85e92c`  

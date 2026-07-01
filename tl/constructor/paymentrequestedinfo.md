@@ -5,7 +5,7 @@ description: TL constructor paymentRequestedInfo
 
 # PaymentRequestedInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `paymentRequestedInfo`  
 Constructor ID: `0x909c3f94`  

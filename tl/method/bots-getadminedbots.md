@@ -5,7 +5,7 @@ description: TL method bots.getAdminedBots
 
 # bots.getAdminedBots
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb0711d83`  
 Returns: [User](/tl/types#user)

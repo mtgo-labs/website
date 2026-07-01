@@ -5,7 +5,7 @@ description: TL constructor updateChatDefaultBannedRights
 
 # UpdateChatDefaultBannedRights
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChatDefaultBannedRights`  
 Constructor ID: `0x54c01850`  

@@ -5,7 +5,7 @@ description: TL method messages.sendEncryptedFile
 
 # messages.sendEncryptedFile
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5559481d`  
 Returns: [SentEncryptedMessage](/tl/types#sentencryptedmessage)

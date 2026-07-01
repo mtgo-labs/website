@@ -5,7 +5,7 @@ description: TL method chatlists.joinChatlistUpdates
 
 # chatlists.joinChatlistUpdates
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe089f8f5`  
 Returns: [Updates](/tl/types#updates)

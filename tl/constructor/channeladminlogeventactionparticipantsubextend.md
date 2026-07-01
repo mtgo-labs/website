@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionParticipantSubExtend
 
 # ChannelAdminLogEventActionParticipantSubExtend
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionParticipantSubExtend`  
 Constructor ID: `0x64642db3`  

@@ -5,7 +5,7 @@ description: TL constructor messages.stickerSetInstallResultSuccess
 
 # StickerSetInstallResultSuccess
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.stickerSetInstallResultSuccess`  
 Constructor ID: `0x38641628`  

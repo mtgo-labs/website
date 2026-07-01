@@ -5,7 +5,7 @@ description: TL method contacts.resolvePhone
 
 # contacts.resolvePhone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8af94344`  
 Returns: [ResolvedPeer](/tl/types#resolvedpeer)

@@ -5,7 +5,7 @@ description: TL constructor inputStickerSetAnimatedEmoji
 
 # InputStickerSetAnimatedEmoji
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStickerSetAnimatedEmoji`  
 Constructor ID: `0x028703c8`  

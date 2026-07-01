@@ -5,7 +5,7 @@ description: TL method auth.checkPaidAuth
 
 # auth.checkPaidAuth
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x56e59f9c`  
 Returns: [SentCode](/tl/types#sentcode)

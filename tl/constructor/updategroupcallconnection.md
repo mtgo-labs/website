@@ -5,7 +5,7 @@ description: TL constructor updateGroupCallConnection
 
 # UpdateGroupCallConnection
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateGroupCallConnection`  
 Constructor ID: `0x0b783982`  

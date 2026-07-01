@@ -5,7 +5,7 @@ description: TL constructor inputGameShortName
 
 # InputGameShortName
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputGameShortName`  
 Constructor ID: `0xc331e80a`  

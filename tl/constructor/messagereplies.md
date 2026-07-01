@@ -5,7 +5,7 @@ description: TL constructor messageReplies
 
 # MessageReplies
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageReplies`  
 Constructor ID: `0x83d60fc2`  

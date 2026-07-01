@@ -5,7 +5,7 @@ description: TL constructor updateTranscribedAudio
 
 # UpdateTranscribedAudio
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateTranscribedAudio`  
 Constructor ID: `0x0084cd5a`  

@@ -5,7 +5,7 @@ description: TL method bots.getPreviewInfo
 
 # bots.getPreviewInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x423ab3ad`  
 Returns: [PreviewInfo](/tl/types#previewinfo)

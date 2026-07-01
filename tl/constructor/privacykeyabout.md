@@ -5,7 +5,7 @@ description: TL constructor privacyKeyAbout
 
 # PrivacyKeyAbout
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyKeyAbout`  
 Constructor ID: `0xa486b761`  

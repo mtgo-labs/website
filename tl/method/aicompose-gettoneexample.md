@@ -5,7 +5,7 @@ description: TL method aicompose.getToneExample
 
 # aicompose.getToneExample
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd1b4ab14`  
 Returns: [AiComposeToneExample](/tl/types#aicomposetoneexample)

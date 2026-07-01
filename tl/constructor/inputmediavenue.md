@@ -5,7 +5,7 @@ description: TL constructor inputMediaVenue
 
 # InputMediaVenue
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaVenue`  
 Constructor ID: `0xc13d1c11`  

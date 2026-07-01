@@ -5,7 +5,7 @@ description: TL constructor topPeerCategoryForwardUsers
 
 # TopPeerCategoryForwardUsers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `topPeerCategoryForwardUsers`  
 Constructor ID: `0xa8406ca9`  

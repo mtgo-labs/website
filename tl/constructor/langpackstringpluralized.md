@@ -5,7 +5,7 @@ description: TL constructor langPackStringPluralized
 
 # LangPackStringPluralized
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `langPackStringPluralized`  
 Constructor ID: `0x6c47ac9f`  

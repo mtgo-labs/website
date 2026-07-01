@@ -5,7 +5,7 @@ description: TL constructor privacyValueAllowChatParticipants
 
 # PrivacyValueAllowChatParticipants
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyValueAllowChatParticipants`  
 Constructor ID: `0x6b134e8e`  

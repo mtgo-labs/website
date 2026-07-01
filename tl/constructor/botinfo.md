@@ -5,7 +5,7 @@ description: TL constructor botInfo
 
 # BotInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInfo`  
 Constructor ID: `0x4d8a0299`  

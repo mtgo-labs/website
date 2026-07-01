@@ -5,7 +5,7 @@ description: TL constructor updateBotNewBusinessMessage
 
 # UpdateBotNewBusinessMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotNewBusinessMessage`  
 Constructor ID: `0x9ddb347c`  

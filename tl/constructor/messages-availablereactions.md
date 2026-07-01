@@ -5,7 +5,7 @@ description: TL constructor messages.availableReactions
 
 # AvailableReactions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.availableReactions`  
 Constructor ID: `0x768e3aad`  

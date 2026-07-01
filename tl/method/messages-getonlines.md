@@ -5,7 +5,7 @@ description: TL method messages.getOnlines
 
 # messages.getOnlines
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x6e2be050`  
 Returns: [ChatOnlines](/tl/types#chatonlines)

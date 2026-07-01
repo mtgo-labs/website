@@ -5,7 +5,7 @@ description: TL method messages.acceptEncryption
 
 # messages.acceptEncryption
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3dbc0415`  
 Returns: [EncryptedChat](/tl/types#encryptedchat)

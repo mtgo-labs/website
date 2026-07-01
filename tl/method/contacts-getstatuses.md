@@ -5,7 +5,7 @@ description: TL method contacts.getStatuses
 
 # contacts.getStatuses
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc4a353ee`  
 Returns: [ContactStatus](/tl/types#contactstatus)

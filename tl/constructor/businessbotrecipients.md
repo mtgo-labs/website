@@ -5,7 +5,7 @@ description: TL constructor businessBotRecipients
 
 # BusinessBotRecipients
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `businessBotRecipients`  
 Constructor ID: `0xb88cf373`  

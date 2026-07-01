@@ -5,7 +5,7 @@ description: TL method account.updateBusinessGreetingMessage
 
 # account.updateBusinessGreetingMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x66cdafc4`  
 Returns: [Bool](/tl/types#bool)

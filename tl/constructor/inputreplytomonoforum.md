@@ -5,7 +5,7 @@ description: TL constructor inputReplyToMonoForum
 
 # InputReplyToMonoForum
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputReplyToMonoForum`  
 Constructor ID: `0x69d66c45`  

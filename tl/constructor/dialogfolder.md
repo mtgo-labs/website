@@ -5,7 +5,7 @@ description: TL constructor dialogFolder
 
 # DialogFolder
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `dialogFolder`  
 Constructor ID: `0x71bd134c`  

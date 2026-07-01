@@ -5,7 +5,7 @@ description: TL constructor messages.sponsoredMessages
 
 # SponsoredMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.sponsoredMessages`  
 Constructor ID: `0xffda656d`  

@@ -5,7 +5,7 @@ description: TL constructor replyInlineMarkup
 
 # ReplyInlineMarkup
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `replyInlineMarkup`  
 Constructor ID: `0x48a30254`  

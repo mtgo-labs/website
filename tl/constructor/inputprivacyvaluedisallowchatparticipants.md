@@ -5,7 +5,7 @@ description: TL constructor inputPrivacyValueDisallowChatParticipants
 
 # InputPrivacyValueDisallowChatParticipants
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPrivacyValueDisallowChatParticipants`  
 Constructor ID: `0xe94f0f86`  

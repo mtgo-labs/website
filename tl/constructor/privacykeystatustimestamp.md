@@ -5,7 +5,7 @@ description: TL constructor privacyKeyStatusTimestamp
 
 # PrivacyKeyStatusTimestamp
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyKeyStatusTimestamp`  
 Constructor ID: `0xbc2eab30`  

@@ -5,7 +5,7 @@ description: TL method fragment.getCollectibleInfo
 
 # fragment.getCollectibleInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbe1e85ba`  
 Returns: [CollectibleInfo](/tl/types#collectibleinfo)

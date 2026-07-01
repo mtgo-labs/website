@@ -5,7 +5,7 @@ description: TL constructor inputThemeSettings
 
 # InputThemeSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputThemeSettings`  
 Constructor ID: `0x8fde504f`  

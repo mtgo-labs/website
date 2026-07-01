@@ -5,7 +5,7 @@ description: TL constructor encryptedMessage
 
 # EncryptedMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `encryptedMessage`  
 Constructor ID: `0xed18c118`  

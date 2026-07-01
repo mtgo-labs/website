@@ -5,10 +5,10 @@ description: TL constructor channelFull
 
 # ChannelFull
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelFull`  
-Constructor ID: `0xe4e0b29d`  
+Constructor ID: `0xa04e8d3a`  
 Returns: [ChatFull](/tl/types#chatfull)
 
 ## Fields
@@ -83,3 +83,4 @@ Returns: [ChatFull](/tl/types#chatfull)
 | `stargifts_count` | `int32` *(flags.18)* | | 
 | `send_paid_messages_stars` | `int64` *(flags.21)* | | 
 | `main_tab` | `ProfileTab` *(flags.22)* | | 
+| `guard_bot_id` | `int64` *(flags.23)* | | 

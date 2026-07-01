@@ -5,7 +5,7 @@ description: TL method account.getNotifyExceptions
 
 # account.getNotifyExceptions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x53577479`  
 Returns: [Updates](/tl/types#updates)

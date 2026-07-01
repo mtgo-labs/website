@@ -5,7 +5,7 @@ description: TL constructor businessBotRights
 
 # BusinessBotRights
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `businessBotRights`  
 Constructor ID: `0xa0624cf7`  

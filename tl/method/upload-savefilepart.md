@@ -5,7 +5,7 @@ description: TL method upload.saveFilePart
 
 # upload.saveFilePart
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb304a621`  
 Returns: [Bool](/tl/types#bool)

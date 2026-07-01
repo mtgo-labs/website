@@ -5,7 +5,7 @@ description: TL constructor help.appUpdate
 
 # AppUpdate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.appUpdate`  
 Constructor ID: `0xccbbce30`  

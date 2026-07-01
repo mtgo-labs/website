@@ -5,7 +5,7 @@ description: TL constructor messageActionSetChatWallPaper
 
 # MessageActionSetChatWallPaper
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionSetChatWallPaper`  
 Constructor ID: `0x5060a3f4`  

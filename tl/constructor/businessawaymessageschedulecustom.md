@@ -5,7 +5,7 @@ description: TL constructor businessAwayMessageScheduleCustom
 
 # BusinessAwayMessageScheduleCustom
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `businessAwayMessageScheduleCustom`  
 Constructor ID: `0xcc4d9ecc`  

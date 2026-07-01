@@ -5,7 +5,7 @@ description: TL constructor messages.stickers
 
 # Stickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.stickers`  
 Constructor ID: `0x30a6ec7e`  

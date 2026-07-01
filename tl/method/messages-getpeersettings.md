@@ -5,7 +5,7 @@ description: TL method messages.getPeerSettings
 
 # messages.getPeerSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xefd9a6a2`  
 Returns: [PeerSettings](/tl/types#peersettings)

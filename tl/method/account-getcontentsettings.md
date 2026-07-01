@@ -5,7 +5,7 @@ description: TL method account.getContentSettings
 
 # account.getContentSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8b9b4dae`  
 Returns: [ContentSettings](/tl/types#contentsettings)

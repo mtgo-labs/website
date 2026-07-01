@@ -5,7 +5,7 @@ description: TL method account.updateBusinessWorkHours
 
 # account.updateBusinessWorkHours
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x4b00e066`  
 Returns: [Bool](/tl/types#bool)

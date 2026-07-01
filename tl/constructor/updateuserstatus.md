@@ -5,7 +5,7 @@ description: TL constructor updateUserStatus
 
 # UpdateUserStatus
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateUserStatus`  
 Constructor ID: `0xe5bdf8de`  

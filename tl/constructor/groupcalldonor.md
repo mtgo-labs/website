@@ -5,7 +5,7 @@ description: TL constructor groupCallDonor
 
 # GroupCallDonor
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `groupCallDonor`  
 Constructor ID: `0xee430c85`  

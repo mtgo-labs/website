@@ -5,7 +5,7 @@ description: TL constructor photoStrippedSize
 
 # PhotoStrippedSize
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `photoStrippedSize`  
 Constructor ID: `0xe0b0bc2e`  

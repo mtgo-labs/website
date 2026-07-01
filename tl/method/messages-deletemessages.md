@@ -5,7 +5,7 @@ description: TL method messages.deleteMessages
 
 # messages.deleteMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe58e95d2`  
 Returns: [AffectedMessages](/tl/types#affectedmessages)

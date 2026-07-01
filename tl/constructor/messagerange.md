@@ -5,7 +5,7 @@ description: TL constructor messageRange
 
 # MessageRange
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageRange`  
 Constructor ID: `0x0ae30253`  

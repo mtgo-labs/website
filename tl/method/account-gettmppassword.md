@@ -5,7 +5,7 @@ description: TL method account.getTmpPassword
 
 # account.getTmpPassword
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x449e0b51`  
 Returns: [TmpPassword](/tl/types#tmppassword)

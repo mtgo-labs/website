@@ -5,7 +5,7 @@ description: All TL RPC methods from the Telegram MTProto schema, organized by n
 
 # TL Methods
 
-Layer **225** | Total: **783** methods
+Layer **227** | Total: **790** methods
 
 ## account
 
@@ -19,6 +19,7 @@ Layer **225** | Total: **783** methods
 | [Account.changePhone](/tl/method/account-changephone) | `User` | `0x70c32edb` |
 | [Account.checkUsername](/tl/method/account-checkusername) | `Bool` | `0x2714d86c` |
 | [Account.clearRecentEmojiStatuses](/tl/method/account-clearrecentemojistatuses) | `Bool` | `0x18201aae` |
+| [Account.confirmBotConnection](/tl/method/account-confirmbotconnection) | `Bool` | `0x67ed1f68` |
 | [Account.confirmPasswordEmail](/tl/method/account-confirmpasswordemail) | `Bool` | `0x8fdf1920` |
 | [Account.confirmPhone](/tl/method/account-confirmphone) | `Bool` | `0x5f2178c3` |
 | [Account.createBusinessChatLink](/tl/method/account-createbusinesschatlink) | `BusinessChatLink` | `0x8851e68e` |
@@ -29,6 +30,7 @@ Layer **225** | Total: **783** methods
 | [Account.deleteBusinessChatLink](/tl/method/account-deletebusinesschatlink) | `Bool` | `0x60073674` |
 | [Account.deletePasskey](/tl/method/account-deletepasskey) | `Bool` | `0xf5b5563f` |
 | [Account.deleteSecureValue](/tl/method/account-deletesecurevalue) | `Bool` | `0xb880bc4b` |
+| [Account.deleteWebBrowserSettingsExceptions](/tl/method/account-deletewebbrowsersettingsexceptions) | `Account.webBrowserSettings` | `0x86a0765d` |
 | [Account.disablePeerConnectedBot](/tl/method/account-disablepeerconnectedbot) | `Bool` | `0x5e437ed9` |
 | [Account.editBusinessChatLink](/tl/method/account-editbusinesschatlink) | `BusinessChatLink` | `0x8c3410af` |
 | [Account.finishTakeoutSession](/tl/method/account-finishtakeoutsession) | `Bool` | `0x1d2652ee` |
@@ -72,6 +74,7 @@ Layer **225** | Total: **783** methods
 | [Account.getWallPaper](/tl/method/account-getwallpaper) | `WallPaper` | `0xfc8ddbea` |
 | [Account.getWallPapers](/tl/method/account-getwallpapers) | `Account.wallPapers` | `0x07967d36` |
 | [Account.getWebAuthorizations](/tl/method/account-getwebauthorizations) | `Account.webAuthorizations` | `0x182e6d6f` |
+| [Account.getWebBrowserSettings](/tl/method/account-getwebbrowsersettings) | `Account.webBrowserSettings` | `0x56655768` |
 | [Account.initPasskeyRegistration](/tl/method/account-initpasskeyregistration) | `Account.passkeyRegistrationOptions` | `0x429547e8` |
 | [Account.initTakeoutSession](/tl/method/account-inittakeoutsession) | `Account.takeout` | `0x8ef3eab0` |
 | [Account.installTheme](/tl/method/account-installtheme) | `Bool` | `0xc727bb3b` |
@@ -113,6 +116,7 @@ Layer **225** | Total: **783** methods
 | [Account.toggleNoPaidMessagesException](/tl/method/account-togglenopaidmessagesexception) | `Bool` | `0xfe2eda76` |
 | [Account.toggleSponsoredMessages](/tl/method/account-togglesponsoredmessages) | `Bool` | `0xb9d9a38d` |
 | [Account.toggleUsername](/tl/method/account-toggleusername) | `Bool` | `0x58d6b376` |
+| [Account.toggleWebBrowserSettingsException](/tl/method/account-togglewebbrowsersettingsexception) | `Updates` | `0x60ed4229` |
 | [Account.unregisterDevice](/tl/method/account-unregisterdevice) | `Bool` | `0x6a0d3206` |
 | [Account.updateBirthday](/tl/method/account-updatebirthday) | `Bool` | `0xcc6e0c11` |
 | [Account.updateBusinessAwayMessage](/tl/method/account-updatebusinessawaymessage) | `Bool` | `0xa26a7fa5` |
@@ -131,6 +135,7 @@ Layer **225** | Total: **783** methods
 | [Account.updateStatus](/tl/method/account-updatestatus) | `Bool` | `0x6628562c` |
 | [Account.updateTheme](/tl/method/account-updatetheme) | `Theme` | `0x2bf40ccc` |
 | [Account.updateUsername](/tl/method/account-updateusername) | `User` | `0x3e0bdd7c` |
+| [Account.updateWebBrowserSettings](/tl/method/account-updatewebbrowsersettings) | `Account.webBrowserSettings` | `0x9adf82fe` |
 | [Account.uploadRingtone](/tl/method/account-uploadringtone) | `Document` | `0x831a83a2` |
 | [Account.uploadTheme](/tl/method/account-uploadtheme) | `Document` | `0x1c3db333` |
 | [Account.uploadWallPaper](/tl/method/account-uploadwallpaper) | `WallPaper` | `0xe39a8f03` |
@@ -229,6 +234,7 @@ Layer **225** | Total: **783** methods
 | [Bots.setBotInfo](/tl/method/bots-setbotinfo) | `Bool` | `0x10cf3123` |
 | [Bots.setBotMenuButton](/tl/method/bots-setbotmenubutton) | `Bool` | `0x4504d54f` |
 | [Bots.setCustomVerification](/tl/method/bots-setcustomverification) | `Bool` | `0x8b89dfbd` |
+| [Bots.setJoinChatResults](/tl/method/bots-setjoinchatresults) | `Bool` | `0xe71a4810` |
 | [Bots.toggleUserEmojiStatusPermission](/tl/method/bots-toggleuseremojistatuspermission) | `Bool` | `0x06de6392` |
 | [Bots.toggleUsername](/tl/method/bots-toggleusername) | `Bool` | `0x053ca973` |
 | [Bots.updateStarRefProgram](/tl/method/bots-updatestarrefprogram) | `StarRefProgram` | `0x778b5ab3` |
@@ -271,7 +277,7 @@ Layer **225** | Total: **783** methods
 | [Channels.getParticipants](/tl/method/channels-getparticipants) | `Channels.channelParticipants` | `0x77ced9d0` |
 | [Channels.getSendAs](/tl/method/channels-getsendas) | `Channels.sendAsPeers` | `0xe785a43f` |
 | [Channels.inviteToChannel](/tl/method/channels-invitetochannel) | `Messages.invitedUsers` | `0xc9e33d54` |
-| [Channels.joinChannel](/tl/method/channels-joinchannel) | `Updates` | `0x24b524c5` |
+| [Channels.joinChannel](/tl/method/channels-joinchannel) | `Messages.chatInviteJoinResult` | `0x7f6a1e22` |
 | [Channels.leaveChannel](/tl/method/channels-leavechannel) | `Updates` | `0xf836aa95` |
 | [Channels.readHistory](/tl/method/channels-readhistory) | `Bool` | `0xcc104937` |
 | [Channels.readMessageContents](/tl/method/channels-readmessagecontents) | `Bool` | `0xeab5dc38` |
@@ -288,7 +294,7 @@ Layer **225** | Total: **783** methods
 | [Channels.toggleAntiSpam](/tl/method/channels-toggleantispam) | `Updates` | `0x68f3e4eb` |
 | [Channels.toggleAutotranslation](/tl/method/channels-toggleautotranslation) | `Updates` | `0x167fc0a1` |
 | [Channels.toggleForum](/tl/method/channels-toggleforum) | `Updates` | `0x3ff75734` |
-| [Channels.toggleJoinRequest](/tl/method/channels-togglejoinrequest) | `Updates` | `0x4c2985b6` |
+| [Channels.toggleJoinRequest](/tl/method/channels-togglejoinrequest) | `Updates` | `0x0ecc2618` |
 | [Channels.toggleJoinToSend](/tl/method/channels-togglejointosend) | `Updates` | `0xe4cb9580` |
 | [Channels.toggleParticipantsHidden](/tl/method/channels-toggleparticipantshidden) | `Updates` | `0x6a6e7854` |
 | [Channels.togglePreHistoryHidden](/tl/method/channels-toggleprehistoryhidden) | `Updates` | `0xeabbb94c` |
@@ -352,7 +358,7 @@ Layer **225** | Total: **783** methods
 | [Contacts.resetTopPeerRating](/tl/method/contacts-resettoppeerrating) | `Bool` | `0x1ae373ac` |
 | [Contacts.resolvePhone](/tl/method/contacts-resolvephone) | `Contacts.resolvedPeer` | `0x8af94344` |
 | [Contacts.resolveUsername](/tl/method/contacts-resolveusername) | `Contacts.resolvedPeer` | `0x725afbbc` |
-| [Contacts.search](/tl/method/contacts-search) | `Contacts.found` | `0x11f812d8` |
+| [Contacts.search](/tl/method/contacts-search) | `Contacts.found` | `0x05f58d0f` |
 | [Contacts.setBlocked](/tl/method/contacts-setblocked) | `Bool` | `0x94c65c76` |
 | [Contacts.toggleTopPeers](/tl/method/contacts-toggletoppeers) | `Bool` | `0x8514bdda` |
 | [Contacts.unblock](/tl/method/contacts-unblock) | `Bool` | `0xb550d328` |
@@ -479,8 +485,8 @@ Layer **225** | Total: **783** methods
 | [Messages.editExportedChatInvite](/tl/method/messages-editexportedchatinvite) | `Messages.exportedChatInvite` | `0xbdca2f75` |
 | [Messages.editFactCheck](/tl/method/messages-editfactcheck) | `Updates` | `0x0589ee75` |
 | [Messages.editForumTopic](/tl/method/messages-editforumtopic) | `Updates` | `0xcecc1134` |
-| [Messages.editInlineBotMessage](/tl/method/messages-editinlinebotmessage) | `Bool` | `0x83557dba` |
-| [Messages.editMessage](/tl/method/messages-editmessage) | `Updates` | `0x51e842e1` |
+| [Messages.editInlineBotMessage](/tl/method/messages-editinlinebotmessage) | `Bool` | `0xa423bb51` |
+| [Messages.editMessage](/tl/method/messages-editmessage) | `Updates` | `0xb106e66c` |
 | [Messages.editQuickReplyShortcut](/tl/method/messages-editquickreplyshortcut) | `Bool` | `0x5c003cef` |
 | [Messages.exportChatInvite](/tl/method/messages-exportchatinvite) | `ExportedChatInvite` | `0xa455de90` |
 | [Messages.faveSticker](/tl/method/messages-favesticker) | `Bool` | `0xb9ffc55b` |
@@ -559,6 +565,7 @@ Layer **225** | Total: **783** methods
 | [Messages.getRecentReactions](/tl/method/messages-getrecentreactions) | `Messages.reactions` | `0x39461db2` |
 | [Messages.getRecentStickers](/tl/method/messages-getrecentstickers) | `Messages.recentStickers` | `0x9da9403b` |
 | [Messages.getReplies](/tl/method/messages-getreplies) | `Messages.messages` | `0x22ddd30c` |
+| [Messages.getRichMessage](/tl/method/messages-getrichmessage) | `Messages.messages` | `0x501569cf` |
 | [Messages.getSavedDialogs](/tl/method/messages-getsaveddialogs) | `Messages.savedDialogs` | `0x1e91fc99` |
 | [Messages.getSavedDialogsByID](/tl/method/messages-getsaveddialogsbyid) | `Messages.savedDialogs` | `0x6f6f9c96` |
 | [Messages.getSavedGifs](/tl/method/messages-getsavedgifs) | `Messages.savedGifs` | `0x5cf09635` |
@@ -583,7 +590,7 @@ Layer **225** | Total: **783** methods
 | [Messages.hideAllChatJoinRequests](/tl/method/messages-hideallchatjoinrequests) | `Updates` | `0xe085f4ea` |
 | [Messages.hideChatJoinRequest](/tl/method/messages-hidechatjoinrequest) | `Updates` | `0x7fe7e815` |
 | [Messages.hidePeerSettingsBar](/tl/method/messages-hidepeersettingsbar) | `Bool` | `0x4facb138` |
-| [Messages.importChatInvite](/tl/method/messages-importchatinvite) | `Updates` | `0x6c50051c` |
+| [Messages.importChatInvite](/tl/method/messages-importchatinvite) | `Messages.chatInviteJoinResult` | `0xde91436e` |
 | [Messages.initHistoryImport](/tl/method/messages-inithistoryimport) | `Messages.historyImport` | `0x34090c3b` |
 | [Messages.installStickerSet](/tl/method/messages-installstickerset) | `Messages.stickerSetInstallResult` | `0xc78fe460` |
 | [Messages.markDialogUnread](/tl/method/messages-markdialogunread) | `Bool` | `0x8c5006f8` |
@@ -621,7 +628,7 @@ Layer **225** | Total: **783** methods
 | [Messages.requestURLAuth](/tl/method/messages-requesturlauth) | `URLAuthResult` | `0x894cc99c` |
 | [Messages.requestWebView](/tl/method/messages-requestwebview) | `WebViewResult` | `0x269dc2c1` |
 | [Messages.saveDefaultSendAs](/tl/method/messages-savedefaultsendas) | `Bool` | `0xccfddf96` |
-| [Messages.saveDraft](/tl/method/messages-savedraft) | `Bool` | `0x54ae308e` |
+| [Messages.saveDraft](/tl/method/messages-savedraft) | `Bool` | `0xad0fa15c` |
 | [Messages.saveGIF](/tl/method/messages-savegif) | `Bool` | `0x327a30cb` |
 | [Messages.savePreparedInlineMessage](/tl/method/messages-savepreparedinlinemessage) | `Messages.botPreparedInlineMessage` | `0xf21f7f2f` |
 | [Messages.saveRecentSticker](/tl/method/messages-saverecentsticker) | `Bool` | `0x392718f8` |
@@ -638,7 +645,7 @@ Layer **225** | Total: **783** methods
 | [Messages.sendEncryptedService](/tl/method/messages-sendencryptedservice) | `Messages.sentEncryptedMessage` | `0x32d439a4` |
 | [Messages.sendInlineBotResult](/tl/method/messages-sendinlinebotresult) | `Updates` | `0xc0cf7646` |
 | [Messages.sendMedia](/tl/method/messages-sendmedia) | `Updates` | `0x0330e77f` |
-| [Messages.sendMessage](/tl/method/messages-sendmessage) | `Updates` | `0x545cd15a` |
+| [Messages.sendMessage](/tl/method/messages-sendmessage) | `Updates` | `0xfef48f62` |
 | [Messages.sendMultiMedia](/tl/method/messages-sendmultimedia) | `Updates` | `0x1bf89d74` |
 | [Messages.sendPaidReaction](/tl/method/messages-sendpaidreaction) | `Updates` | `0x58bbcb50` |
 | [Messages.sendQuickReplyMessages](/tl/method/messages-sendquickreplymessages) | `Updates` | `0x6c750de1` |
@@ -649,7 +656,7 @@ Layer **225** | Total: **783** methods
 | [Messages.sendWebViewData](/tl/method/messages-sendwebviewdata) | `Updates` | `0xdc0242c8` |
 | [Messages.sendWebViewResultMessage](/tl/method/messages-sendwebviewresultmessage) | `WebViewMessageSent` | `0x0a4314f5` |
 | [Messages.setBotCallbackAnswer](/tl/method/messages-setbotcallbackanswer) | `Bool` | `0xd58f130a` |
-| [Messages.setBotGuestChatResult](/tl/method/messages-setbotguestchatresult) | `Bool` | `0x052b08db` |
+| [Messages.setBotGuestChatResult](/tl/method/messages-setbotguestchatresult) | `InputBotInlineMessageID` | `0xb8f106e3` |
 | [Messages.setBotPrecheckoutResults](/tl/method/messages-setbotprecheckoutresults) | `Bool` | `0x09c2dd95` |
 | [Messages.setBotShippingResults](/tl/method/messages-setbotshippingresults) | `Bool` | `0xe5f672fa` |
 | [Messages.setChatAvailableReactions](/tl/method/messages-setchatavailablereactions) | `Updates` | `0x864b2581` |

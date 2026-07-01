@@ -5,7 +5,7 @@ description: TL constructor chatReactionsNone
 
 # ChatReactionsNone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatReactionsNone`  
 Constructor ID: `0xeafc32bc`  

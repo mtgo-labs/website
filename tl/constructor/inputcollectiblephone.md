@@ -5,7 +5,7 @@ description: TL constructor inputCollectiblePhone
 
 # InputCollectiblePhone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputCollectiblePhone`  
 Constructor ID: `0xa2e214a4`  

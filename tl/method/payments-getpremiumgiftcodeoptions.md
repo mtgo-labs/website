@@ -5,7 +5,7 @@ description: TL method payments.getPremiumGiftCodeOptions
 
 # payments.getPremiumGiftCodeOptions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2757ba54`  
 Returns: [PremiumGiftCodeOption](/tl/types#premiumgiftcodeoption)

@@ -5,7 +5,7 @@ description: TL constructor updateChannelTooLong
 
 # UpdateChannelTooLong
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChannelTooLong`  
 Constructor ID: `0x108d941f`  

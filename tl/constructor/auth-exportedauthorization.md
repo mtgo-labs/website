@@ -5,7 +5,7 @@ description: TL constructor auth.exportedAuthorization
 
 # ExportedAuthorization
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.exportedAuthorization`  
 Constructor ID: `0xb434e2b8`  

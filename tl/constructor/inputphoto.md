@@ -5,7 +5,7 @@ description: TL constructor inputPhoto
 
 # InputPhoto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPhoto`  
 Constructor ID: `0x3bb3b94a`  

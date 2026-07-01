@@ -5,7 +5,7 @@ description: TL method messages.getAttachedStickers
 
 # messages.getAttachedStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xcc5b67cc`  
 Returns: [StickerSetCovered](/tl/types#stickersetcovered)

@@ -5,7 +5,7 @@ description: TL constructor paidReactionPrivacyPeer
 
 # PaidReactionPrivacyPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `paidReactionPrivacyPeer`  
 Constructor ID: `0xdc6cfcf0`  

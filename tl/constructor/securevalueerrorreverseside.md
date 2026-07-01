@@ -5,7 +5,7 @@ description: TL constructor secureValueErrorReverseSide
 
 # SecureValueErrorReverseSide
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueErrorReverseSide`  
 Constructor ID: `0x868a2aa5`  

@@ -5,7 +5,7 @@ description: TL method help.editUserInfo
 
 # help.editUserInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x66b91b70`  
 Returns: [UserInfo](/tl/types#userinfo)

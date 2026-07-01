@@ -5,7 +5,7 @@ description: TL constructor messages.allStickers
 
 # AllStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.allStickers`  
 Constructor ID: `0xcdbbcebb`  

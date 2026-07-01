@@ -5,7 +5,7 @@ description: TL method help.getTimezonesList
 
 # help.getTimezonesList
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x49b30240`  
 Returns: [TimezonesList](/tl/types#timezoneslist)

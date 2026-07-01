@@ -5,7 +5,7 @@ description: TL method messages.deleteScheduledMessages
 
 # messages.deleteScheduledMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x59ae2b16`  
 Returns: [Updates](/tl/types#updates)

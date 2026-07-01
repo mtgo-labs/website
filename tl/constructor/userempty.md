@@ -5,7 +5,7 @@ description: TL constructor userEmpty
 
 # UserEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `userEmpty`  
 Constructor ID: `0xd3bc4b7a`  

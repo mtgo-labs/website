@@ -5,7 +5,7 @@ description: TL constructor payments.checkCanSendGiftResultFail
 
 # CheckCanSendGiftResultFail
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.checkCanSendGiftResultFail`  
 Constructor ID: `0xd5e58274`  

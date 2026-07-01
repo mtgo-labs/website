@@ -5,7 +5,7 @@ description: TL constructor updates.state
 
 # State
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updates.state`  
 Constructor ID: `0xa56c2a3e`  

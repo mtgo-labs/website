@@ -5,7 +5,7 @@ description: TL method messages.reorderStickerSets
 
 # messages.reorderStickerSets
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x78337739`  
 Returns: [Bool](/tl/types#bool)

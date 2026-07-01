@@ -5,7 +5,7 @@ description: TL constructor updatePeerHistoryTTL
 
 # UpdatePeerHistoryTTL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatePeerHistoryTTL`  
 Constructor ID: `0xbb9bb9a5`  

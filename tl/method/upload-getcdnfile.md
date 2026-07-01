@@ -5,7 +5,7 @@ description: TL method upload.getCdnFile
 
 # upload.getCdnFile
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x395f69da`  
 Returns: [CDNFile](/tl/types#cdnfile)

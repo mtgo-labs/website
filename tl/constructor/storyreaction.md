@@ -5,7 +5,7 @@ description: TL constructor storyReaction
 
 # StoryReaction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `storyReaction`  
 Constructor ID: `0x6090d6d5`  

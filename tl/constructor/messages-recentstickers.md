@@ -5,7 +5,7 @@ description: TL constructor messages.recentStickers
 
 # RecentStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.recentStickers`  
 Constructor ID: `0x88d37c56`  

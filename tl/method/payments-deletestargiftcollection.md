@@ -5,7 +5,7 @@ description: TL method payments.deleteStarGiftCollection
 
 # payments.deleteStarGiftCollection
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xad5648e8`  
 Returns: [Bool](/tl/types#bool)

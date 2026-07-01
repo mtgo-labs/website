@@ -5,7 +5,7 @@ description: TL method messages.searchSentMedia
 
 # messages.searchSentMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x107e31a0`  
 Returns: [Messages](/tl/types#messages)

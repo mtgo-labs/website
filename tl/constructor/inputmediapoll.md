@@ -5,7 +5,7 @@ description: TL constructor inputMediaPoll
 
 # InputMediaPoll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaPoll`  
 Constructor ID: `0x883a4108`  

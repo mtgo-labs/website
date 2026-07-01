@@ -5,7 +5,7 @@ description: TL method account.updateBirthday
 
 # account.updateBirthday
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xcc6e0c11`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL method contacts.resetSaved
 
 # contacts.resetSaved
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x879537f1`  
 Returns: [Bool](/tl/types#bool)

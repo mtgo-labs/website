@@ -5,7 +5,7 @@ description: TL constructor help.peerColorOption
 
 # PeerColorOption
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.peerColorOption`  
 Constructor ID: `0xadec6ebe`  

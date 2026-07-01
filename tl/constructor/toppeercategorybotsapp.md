@@ -5,7 +5,7 @@ description: TL constructor topPeerCategoryBotsApp
 
 # TopPeerCategoryBotsApp
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `topPeerCategoryBotsApp`  
 Constructor ID: `0xfd9e7bec`  

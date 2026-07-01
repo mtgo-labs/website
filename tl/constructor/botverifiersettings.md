@@ -5,7 +5,7 @@ description: TL constructor botVerifierSettings
 
 # BotVerifierSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botVerifierSettings`  
 Constructor ID: `0xb0cd6617`  

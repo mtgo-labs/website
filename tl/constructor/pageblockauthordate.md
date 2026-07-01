@@ -5,7 +5,7 @@ description: TL constructor pageBlockAuthorDate
 
 # PageBlockAuthorDate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockAuthorDate`  
 Constructor ID: `0xbaafe5e0`  

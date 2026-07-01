@@ -5,7 +5,7 @@ description: TL method contacts.getBirthdays
 
 # contacts.getBirthdays
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xdaeda864`  
 Returns: [ContactBirthdays](/tl/types#contactbirthdays)

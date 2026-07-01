@@ -5,7 +5,7 @@ description: TL constructor updatesCombined
 
 # UpdatesCombined
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatesCombined`  
 Constructor ID: `0x725b04c3`  

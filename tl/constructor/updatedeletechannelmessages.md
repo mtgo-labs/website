@@ -5,7 +5,7 @@ description: TL constructor updateDeleteChannelMessages
 
 # UpdateDeleteChannelMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateDeleteChannelMessages`  
 Constructor ID: `0xc32d5b12`  

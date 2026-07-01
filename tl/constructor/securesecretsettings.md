@@ -5,7 +5,7 @@ description: TL constructor secureSecretSettings
 
 # SecureSecretSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureSecretSettings`  
 Constructor ID: `0x1527bcac`  

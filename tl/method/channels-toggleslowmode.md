@@ -5,7 +5,7 @@ description: TL method channels.toggleSlowMode
 
 # channels.toggleSlowMode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xedd49ef0`  
 Returns: [Updates](/tl/types#updates)

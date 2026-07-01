@@ -5,7 +5,7 @@ description: TL constructor botInlineMessageMediaGeo
 
 # BotInlineMessageMediaGeo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInlineMessageMediaGeo`  
 Constructor ID: `0x051846fd`  

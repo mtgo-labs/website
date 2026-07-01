@@ -5,7 +5,7 @@ description: TL method account.updateConnectedBot
 
 # account.updateConnectedBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x66a08c7e`  
 Returns: [Updates](/tl/types#updates)

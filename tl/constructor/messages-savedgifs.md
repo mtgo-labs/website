@@ -5,7 +5,7 @@ description: TL constructor messages.savedGifs
 
 # SavedGifs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.savedGifs`  
 Constructor ID: `0x84a02a0d`  

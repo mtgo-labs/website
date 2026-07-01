@@ -5,7 +5,7 @@ description: TL method messages.uploadMedia
 
 # messages.uploadMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x14967978`  
 Returns: [MessageMedia](/tl/types#messagemedia)

@@ -5,7 +5,7 @@ description: TL method messages.editChatAdmin
 
 # messages.editChatAdmin
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa85bd1c2`  
 Returns: [Bool](/tl/types#bool)

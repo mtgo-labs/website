@@ -5,7 +5,7 @@ description: TL method messages.getReplies
 
 # messages.getReplies
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x22ddd30c`  
 Returns: [Messages](/tl/types#messages)

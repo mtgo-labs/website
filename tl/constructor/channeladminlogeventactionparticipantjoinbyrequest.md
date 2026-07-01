@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionParticipantJoinByRequest
 
 # ChannelAdminLogEventActionParticipantJoinByRequest
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionParticipantJoinByRequest`  
 Constructor ID: `0xafb6144a`  

@@ -5,7 +5,7 @@ description: TL constructor updateBotInlineSend
 
 # UpdateBotInlineSend
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotInlineSend`  
 Constructor ID: `0x12f12a07`  

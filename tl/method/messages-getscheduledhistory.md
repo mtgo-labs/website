@@ -5,7 +5,7 @@ description: TL method messages.getScheduledHistory
 
 # messages.getScheduledHistory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf516760b`  
 Returns: [Messages](/tl/types#messages)

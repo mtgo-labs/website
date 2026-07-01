@@ -5,7 +5,7 @@ description: TL constructor inputReportReasonFake
 
 # InputReportReasonFake
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputReportReasonFake`  
 Constructor ID: `0xf5ddd6e7`  

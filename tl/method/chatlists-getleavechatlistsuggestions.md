@@ -5,7 +5,7 @@ description: TL method chatlists.getLeaveChatlistSuggestions
 
 # chatlists.getLeaveChatlistSuggestions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xfdbcd714`  
 Returns: [Peer](/tl/types#peer)

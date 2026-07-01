@@ -5,7 +5,7 @@ description: TL method account.updateProfile
 
 # account.updateProfile
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x78515775`  
 Returns: [User](/tl/types#user)

@@ -5,7 +5,7 @@ description: TL constructor updateReadMonoForumOutbox
 
 # UpdateReadMonoForumOutbox
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateReadMonoForumOutbox`  
 Constructor ID: `0xa4a79376`  

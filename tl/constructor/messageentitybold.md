@@ -5,7 +5,7 @@ description: TL constructor messageEntityBold
 
 # MessageEntityBold
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityBold`  
 Constructor ID: `0xbd610bc9`  

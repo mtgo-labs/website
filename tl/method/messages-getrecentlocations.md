@@ -5,7 +5,7 @@ description: TL method messages.getRecentLocations
 
 # messages.getRecentLocations
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x702a40e0`  
 Returns: [Messages](/tl/types#messages)

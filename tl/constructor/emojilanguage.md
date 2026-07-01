@@ -5,7 +5,7 @@ description: TL constructor emojiLanguage
 
 # EmojiLanguage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `emojiLanguage`  
 Constructor ID: `0xb3fb5361`  

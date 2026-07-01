@@ -5,7 +5,7 @@ description: TL constructor geoPointAddress
 
 # GeoPointAddress
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `geoPointAddress`  
 Constructor ID: `0xde4c5d93`  

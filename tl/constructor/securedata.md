@@ -5,7 +5,7 @@ description: TL constructor secureData
 
 # SecureData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureData`  
 Constructor ID: `0x8aeabec3`  

@@ -5,7 +5,7 @@ description: TL constructor encryptedChatDiscarded
 
 # EncryptedChatDiscarded
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `encryptedChatDiscarded`  
 Constructor ID: `0x1e1c7c45`  

@@ -5,7 +5,7 @@ description: TL constructor dialogFilterSuggested
 
 # DialogFilterSuggested
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `dialogFilterSuggested`  
 Constructor ID: `0x77744d4a`  

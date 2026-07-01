@@ -5,7 +5,7 @@ description: TL constructor account.autoDownloadSettings
 
 # AutoDownloadSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.autoDownloadSettings`  
 Constructor ID: `0x63cacf26`  

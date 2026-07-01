@@ -5,7 +5,7 @@ description: TL constructor inputInvoiceSlug
 
 # InputInvoiceSlug
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputInvoiceSlug`  
 Constructor ID: `0xc326caef`  

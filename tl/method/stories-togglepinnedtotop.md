@@ -5,7 +5,7 @@ description: TL method stories.togglePinnedToTop
 
 # stories.togglePinnedToTop
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0b297e9b`  
 Returns: [Bool](/tl/types#bool)

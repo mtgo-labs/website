@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionToggleAntiSpam
 
 # ChannelAdminLogEventActionToggleAntiSpam
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionToggleAntiSpam`  
 Constructor ID: `0x64f36dfc`  

@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionDeleteMessage
 
 # ChannelAdminLogEventActionDeleteMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionDeleteMessage`  
 Constructor ID: `0x42e047bb`  

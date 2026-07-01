@@ -5,7 +5,7 @@ description: TL constructor privacyKeyAddedByPhone
 
 # PrivacyKeyAddedByPhone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyKeyAddedByPhone`  
 Constructor ID: `0x42ffd42b`  

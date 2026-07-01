@@ -5,7 +5,7 @@ description: TL method messages.unpinAllMessages
 
 # messages.unpinAllMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x062dd747`  
 Returns: [AffectedHistory](/tl/types#affectedhistory)

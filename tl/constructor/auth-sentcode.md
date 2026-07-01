@@ -5,7 +5,7 @@ description: TL constructor auth.sentCode
 
 # SentCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.sentCode`  
 Constructor ID: `0x5e002502`  

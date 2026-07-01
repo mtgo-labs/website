@@ -5,7 +5,7 @@ description: TL method messages.editChatParticipantRank
 
 # messages.editChatParticipantRank
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa00f32b0`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL method bots.resetBotCommands
 
 # bots.resetBotCommands
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3d8de0f9`  
 Returns: [Bool](/tl/types#bool)

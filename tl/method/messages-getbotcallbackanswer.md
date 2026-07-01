@@ -5,7 +5,7 @@ description: TL method messages.getBotCallbackAnswer
 
 # messages.getBotCallbackAnswer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9342ca07`  
 Returns: [BotCallbackAnswer](/tl/types#botcallbackanswer)

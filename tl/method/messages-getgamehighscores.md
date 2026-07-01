@@ -5,7 +5,7 @@ description: TL method messages.getGameHighScores
 
 # messages.getGameHighScores
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe822649d`  
 Returns: [HighScores](/tl/types#highscores)

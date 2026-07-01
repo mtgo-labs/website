@@ -5,7 +5,7 @@ description: TL constructor requestPeerTypeBroadcast
 
 # RequestPeerTypeBroadcast
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `requestPeerTypeBroadcast`  
 Constructor ID: `0x339bef6c`  

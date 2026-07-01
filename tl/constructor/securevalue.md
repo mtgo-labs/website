@@ -5,7 +5,7 @@ description: TL constructor secureValue
 
 # SecureValue
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValue`  
 Constructor ID: `0x187fa0ca`  

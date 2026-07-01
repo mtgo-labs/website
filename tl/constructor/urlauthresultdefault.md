@@ -5,7 +5,7 @@ description: TL constructor urlAuthResultDefault
 
 # URLAuthResultDefault
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `urlAuthResultDefault`  
 Constructor ID: `0xa9d6db1f`  

@@ -5,7 +5,7 @@ description: TL method phone.joinGroupCallPresentation
 
 # phone.joinGroupCallPresentation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xcbea6bc4`  
 Returns: [Updates](/tl/types#updates)

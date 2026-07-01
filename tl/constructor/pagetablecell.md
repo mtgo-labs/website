@@ -5,7 +5,7 @@ description: TL constructor pageTableCell
 
 # PageTableCell
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageTableCell`  
 Constructor ID: `0x34566b6a`  

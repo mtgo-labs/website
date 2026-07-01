@@ -5,7 +5,7 @@ description: TL method messages.readEncryptedHistory
 
 # messages.readEncryptedHistory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7f4b690a`  
 Returns: [Bool](/tl/types#bool)

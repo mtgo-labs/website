@@ -5,7 +5,7 @@ description: TL constructor sendMessageTypingAction
 
 # SendMessageTypingAction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `sendMessageTypingAction`  
 Constructor ID: `0x16bf744e`  

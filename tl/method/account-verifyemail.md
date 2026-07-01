@@ -5,7 +5,7 @@ description: TL method account.verifyEmail
 
 # account.verifyEmail
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x032da4cf`  
 Returns: [EmailVerified](/tl/types#emailverified)

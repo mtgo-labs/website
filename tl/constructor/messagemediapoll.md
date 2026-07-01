@@ -5,7 +5,7 @@ description: TL constructor messageMediaPoll
 
 # MessageMediaPoll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageMediaPoll`  
 Constructor ID: `0x773f4e66`  

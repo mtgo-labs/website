@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionChangeWallpaper
 
 # ChannelAdminLogEventActionChangeWallpaper
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionChangeWallpaper`  
 Constructor ID: `0x31bb5d52`  

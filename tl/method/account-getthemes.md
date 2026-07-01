@@ -5,7 +5,7 @@ description: TL method account.getThemes
 
 # account.getThemes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7206e458`  
 Returns: [Themes](/tl/types#themes)

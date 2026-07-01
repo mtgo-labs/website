@@ -5,7 +5,7 @@ description: TL method contacts.unblock
 
 # contacts.unblock
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb550d328`  
 Returns: [Bool](/tl/types#bool)

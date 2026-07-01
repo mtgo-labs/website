@@ -5,7 +5,7 @@ description: TL method channels.setBoostsToUnblockRestrictions
 
 # channels.setBoostsToUnblockRestrictions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xad399cee`  
 Returns: [Updates](/tl/types#updates)

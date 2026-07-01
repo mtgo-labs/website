@@ -320,7 +320,7 @@ func main() {
 		len(typeMap), len(types), len(functions))
 }
 
-const layerVersion = 225
+const layerVersion = 227
 
 func writeTypesIndex(outDir string, typeMap map[string][]Combinator) {
 	path := filepath.Join(outDir, "tl", "types.md")

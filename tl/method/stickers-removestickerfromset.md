@@ -5,7 +5,7 @@ description: TL method stickers.removeStickerFromSet
 
 # stickers.removeStickerFromSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf7760f51`  
 Returns: [StickerSet](/tl/types#stickerset)

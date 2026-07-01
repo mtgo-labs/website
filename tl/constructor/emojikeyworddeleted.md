@@ -5,7 +5,7 @@ description: TL constructor emojiKeywordDeleted
 
 # EmojiKeywordDeleted
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `emojiKeywordDeleted`  
 Constructor ID: `0x236df622`  

@@ -5,7 +5,7 @@ description: TL constructor savedDialog
 
 # SavedDialog
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `savedDialog`  
 Constructor ID: `0xbd87cb6c`  

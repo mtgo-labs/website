@@ -5,7 +5,7 @@ description: TL constructor updateLangPack
 
 # UpdateLangPack
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateLangPack`  
 Constructor ID: `0x56022f4d`  

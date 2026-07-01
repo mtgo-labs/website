@@ -5,7 +5,7 @@ description: TL constructor textConcat
 
 # TextConcat
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `textConcat`  
 Constructor ID: `0x7e6260d7`  

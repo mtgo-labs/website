@@ -5,7 +5,7 @@ description: TL method messages.getMessages
 
 # messages.getMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x63c66506`  
 Returns: [Messages](/tl/types#messages)

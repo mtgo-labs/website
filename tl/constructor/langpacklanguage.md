@@ -5,7 +5,7 @@ description: TL constructor langPackLanguage
 
 # LangPackLanguage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `langPackLanguage`  
 Constructor ID: `0xeeca5ce3`  

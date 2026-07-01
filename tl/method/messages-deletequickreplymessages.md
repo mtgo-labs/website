@@ -5,7 +5,7 @@ description: TL method messages.deleteQuickReplyMessages
 
 # messages.deleteQuickReplyMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe105e910`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL constructor inputMediaContact
 
 # InputMediaContact
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaContact`  
 Constructor ID: `0xf8ab7dfb`  

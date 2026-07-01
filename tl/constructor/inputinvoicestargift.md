@@ -5,7 +5,7 @@ description: TL constructor inputInvoiceStarGift
 
 # InputInvoiceStarGift
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputInvoiceStarGift`  
 Constructor ID: `0xe8625e92`  

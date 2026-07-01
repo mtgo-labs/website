@@ -5,7 +5,7 @@ description: TL constructor starGiftAuctionAcquiredGift
 
 # StarGiftAuctionAcquiredGift
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftAuctionAcquiredGift`  
 Constructor ID: `0x42b00348`  

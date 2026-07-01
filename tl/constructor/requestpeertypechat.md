@@ -5,7 +5,7 @@ description: TL constructor requestPeerTypeChat
 
 # RequestPeerTypeChat
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `requestPeerTypeChat`  
 Constructor ID: `0xc9f06e1b`  

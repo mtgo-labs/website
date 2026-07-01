@@ -5,7 +5,7 @@ description: TL constructor account.resolvedBusinessChatLinks
 
 # ResolvedBusinessChatLinks
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.resolvedBusinessChatLinks`  
 Constructor ID: `0x9a23af21`  

@@ -5,9 +5,9 @@ description: TL method messages.editMessage
 
 # messages.editMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
-Constructor ID: `0x51e842e1`  
+Constructor ID: `0xb106e66c`  
 Returns: [Updates](/tl/types#updates)
 
 ## Parameters
@@ -25,6 +25,7 @@ Returns: [Updates](/tl/types#updates)
 | `schedule_date` | `int32` *(flags.15, optional)* | | 
 | `schedule_repeat_period` | `int32` *(flags.18, optional)* | | 
 | `quick_reply_shortcut_id` | `int32` *(flags.17, optional)* | | 
+| `rich_message` | `InputRichMessage` *(flags.23, optional)* | | 
 
 ## Example
 
@@ -41,6 +42,7 @@ result, err := client.Raw(&tg.EditMessageRequest{
     schedule_date: 0,
     schedule_repeat_period: 0,
     quick_reply_shortcut_id: 0,
+    rich_message: nil, // InputRichMessage
 })
 if err != nil {
     panic(err)

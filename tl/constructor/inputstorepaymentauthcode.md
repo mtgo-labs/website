@@ -5,7 +5,7 @@ description: TL constructor inputStorePaymentAuthCode
 
 # InputStorePaymentAuthCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStorePaymentAuthCode`  
 Constructor ID: `0x3fc18057`  

@@ -5,7 +5,7 @@ description: TL method account.getPaidMessagesRevenue
 
 # account.getPaidMessagesRevenue
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x19ba4a67`  
 Returns: [PaidMessagesRevenue](/tl/types#paidmessagesrevenue)

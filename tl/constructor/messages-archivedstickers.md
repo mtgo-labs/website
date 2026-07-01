@@ -5,7 +5,7 @@ description: TL constructor messages.archivedStickers
 
 # ArchivedStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.archivedStickers`  
 Constructor ID: `0x4fcba9c8`  

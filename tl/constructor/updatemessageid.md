@@ -5,7 +5,7 @@ description: TL constructor updateMessageID
 
 # UpdateMessageID
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateMessageID`  
 Constructor ID: `0x4e90bfd6`  

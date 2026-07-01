@@ -5,7 +5,7 @@ description: TL method stories.searchPosts
 
 # stories.searchPosts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd1810907`  
 Returns: [FoundStories](/tl/types#foundstories)

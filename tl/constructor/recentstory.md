@@ -5,7 +5,7 @@ description: TL constructor recentStory
 
 # RecentStory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `recentStory`  
 Constructor ID: `0x711d692d`  

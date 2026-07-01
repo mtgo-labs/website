@@ -5,7 +5,7 @@ description: TL constructor messages.dialogFilters
 
 # DialogFilters
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.dialogFilters`  
 Constructor ID: `0x2ad93719`  

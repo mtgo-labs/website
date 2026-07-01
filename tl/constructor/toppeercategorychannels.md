@@ -5,7 +5,7 @@ description: TL constructor topPeerCategoryChannels
 
 # TopPeerCategoryChannels
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `topPeerCategoryChannels`  
 Constructor ID: `0x161d9628`  

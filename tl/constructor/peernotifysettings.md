@@ -5,7 +5,7 @@ description: TL constructor peerNotifySettings
 
 # PeerNotifySettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `peerNotifySettings`  
 Constructor ID: `0x99622c0c`  

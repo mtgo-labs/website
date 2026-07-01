@@ -5,7 +5,7 @@ description: TL method bots.createBot
 
 # bots.createBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe5b17f2b`  
 Returns: [User](/tl/types#user)

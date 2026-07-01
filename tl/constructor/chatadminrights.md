@@ -5,7 +5,7 @@ description: TL constructor chatAdminRights
 
 # ChatAdminRights
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatAdminRights`  
 Constructor ID: `0x5fb224d5`  

@@ -5,7 +5,7 @@ description: TL constructor messageActionPaidMessagesPrice
 
 # MessageActionPaidMessagesPrice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionPaidMessagesPrice`  
 Constructor ID: `0x84b88578`  

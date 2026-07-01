@@ -5,7 +5,7 @@ description: TL constructor inputPeerNotifySettings
 
 # InputPeerNotifySettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPeerNotifySettings`  
 Constructor ID: `0xcacb6ae2`  

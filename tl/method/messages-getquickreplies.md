@@ -5,7 +5,7 @@ description: TL method messages.getQuickReplies
 
 # messages.getQuickReplies
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd483f2a8`  
 Returns: [QuickReplies](/tl/types#quickreplies)

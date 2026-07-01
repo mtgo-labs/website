@@ -5,7 +5,7 @@ description: TL constructor messages.dhConfigNotModified
 
 # DHConfigNotModified
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.dhConfigNotModified`  
 Constructor ID: `0xc0e24635`  

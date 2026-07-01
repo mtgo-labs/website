@@ -5,7 +5,7 @@ description: TL constructor botInlineMessageMediaInvoice
 
 # BotInlineMessageMediaInvoice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInlineMessageMediaInvoice`  
 Constructor ID: `0x354a9b09`  

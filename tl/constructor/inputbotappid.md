@@ -5,7 +5,7 @@ description: TL constructor inputBotAppID
 
 # InputBotAppID
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputBotAppID`  
 Constructor ID: `0xa920bd7a`  

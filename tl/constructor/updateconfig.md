@@ -5,7 +5,7 @@ description: TL constructor updateConfig
 
 # UpdateConfig
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateConfig`  
 Constructor ID: `0xa229dd06`  

@@ -5,7 +5,7 @@ description: TL method messages.getFactCheck
 
 # messages.getFactCheck
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb9cdc5ee`  
 Returns: [FactCheck](/tl/types#factcheck)

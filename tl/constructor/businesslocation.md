@@ -5,7 +5,7 @@ description: TL constructor businessLocation
 
 # BusinessLocation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `businessLocation`  
 Constructor ID: `0xac5c1af7`  

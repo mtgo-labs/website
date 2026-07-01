@@ -5,7 +5,7 @@ description: TL constructor updateGroupCallEncryptedMessage
 
 # UpdateGroupCallEncryptedMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateGroupCallEncryptedMessage`  
 Constructor ID: `0xc957a766`  

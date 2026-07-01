@@ -5,7 +5,7 @@ description: TL constructor account.tmpPassword
 
 # TmpPassword
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.tmpPassword`  
 Constructor ID: `0xdb64fd34`  

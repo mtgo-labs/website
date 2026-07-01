@@ -5,7 +5,7 @@ description: TL method account.getAccountTTL
 
 # account.getAccountTTL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x08fc711d`  
 Returns: [AccountDaysTTL](/tl/types#accountdaysttl)

@@ -5,7 +5,7 @@ description: TL method contacts.getLocated
 
 # contacts.getLocated
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd348bc44`  
 Returns: [Updates](/tl/types#updates)

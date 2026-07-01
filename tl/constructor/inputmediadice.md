@@ -5,7 +5,7 @@ description: TL constructor inputMediaDice
 
 # InputMediaDice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaDice`  
 Constructor ID: `0xe66fbf7b`  

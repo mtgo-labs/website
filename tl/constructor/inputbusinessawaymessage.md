@@ -5,7 +5,7 @@ description: TL constructor inputBusinessAwayMessage
 
 # InputBusinessAwayMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputBusinessAwayMessage`  
 Constructor ID: `0x832175e0`  

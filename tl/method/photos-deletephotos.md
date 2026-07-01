@@ -5,7 +5,7 @@ description: TL method photos.deletePhotos
 
 # photos.deletePhotos
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x87cf7f2f`  
 Returns: [Long](/tl/types#long)

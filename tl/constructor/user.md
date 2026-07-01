@@ -5,7 +5,7 @@ description: TL constructor user
 
 # User
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `user`  
 Constructor ID: `0x31774388`  
@@ -46,6 +46,7 @@ Returns: [User](/tl/types#user)
 | `bot_forum_can_manage_topics` | `bool` *(flags.17)* | | 
 | `bot_can_manage_bots` | `bool` *(flags.18)* | | 
 | `bot_guestchat` | `bool` *(flags.19)* | | 
+| `bot_guard` | `bool` *(flags.20)* | | 
 | `id` | `int64` | | 
 | `access_hash` | `int64` *(flags.0)* | | 
 | `first_name` | `string` *(flags.1)* | | 

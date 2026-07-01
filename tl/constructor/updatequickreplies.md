@@ -5,7 +5,7 @@ description: TL constructor updateQuickReplies
 
 # UpdateQuickReplies
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateQuickReplies`  
 Constructor ID: `0xf9470ab2`  

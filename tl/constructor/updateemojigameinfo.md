@@ -5,7 +5,7 @@ description: TL constructor updateEmojiGameInfo
 
 # UpdateEmojiGameInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateEmojiGameInfo`  
 Constructor ID: `0xfb9c547a`  

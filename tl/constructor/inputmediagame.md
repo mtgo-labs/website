@@ -5,7 +5,7 @@ description: TL constructor inputMediaGame
 
 # InputMediaGame
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaGame`  
 Constructor ID: `0xd33f43f3`  

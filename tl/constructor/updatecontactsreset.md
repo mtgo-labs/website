@@ -5,7 +5,7 @@ description: TL constructor updateContactsReset
 
 # UpdateContactsReset
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateContactsReset`  
 Constructor ID: `0x7084a7be`  

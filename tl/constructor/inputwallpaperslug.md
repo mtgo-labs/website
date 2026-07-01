@@ -5,7 +5,7 @@ description: TL constructor inputWallPaperSlug
 
 # InputWallPaperSlug
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputWallPaperSlug`  
 Constructor ID: `0x72091c80`  

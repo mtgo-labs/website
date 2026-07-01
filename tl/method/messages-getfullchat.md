@@ -5,7 +5,7 @@ description: TL method messages.getFullChat
 
 # messages.getFullChat
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xaeb00b34`  
 Returns: [ChatFull](/tl/types#chatfull)

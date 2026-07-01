@@ -5,7 +5,7 @@ description: TL constructor channelParticipantLeft
 
 # ChannelParticipantLeft
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelParticipantLeft`  
 Constructor ID: `0x1b03f006`  

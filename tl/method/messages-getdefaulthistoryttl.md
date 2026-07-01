@@ -5,7 +5,7 @@ description: TL method messages.getDefaultHistoryTTL
 
 # messages.getDefaultHistoryTTL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x658b7188`  
 Returns: [DefaultHistoryTTL](/tl/types#defaulthistoryttl)

@@ -5,7 +5,7 @@ description: TL constructor pageBlockCollage
 
 # PageBlockCollage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockCollage`  
 Constructor ID: `0x65a0fa4d`  

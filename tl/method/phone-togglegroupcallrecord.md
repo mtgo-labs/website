@@ -5,7 +5,7 @@ description: TL method phone.toggleGroupCallRecord
 
 # phone.toggleGroupCallRecord
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf128c708`  
 Returns: [Updates](/tl/types#updates)

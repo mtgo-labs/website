@@ -5,7 +5,7 @@ description: TL constructor updateShort
 
 # UpdateShort
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateShort`  
 Constructor ID: `0x78d4dec1`  

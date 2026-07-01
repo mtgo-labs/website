@@ -5,7 +5,7 @@ description: TL constructor messageActionPaymentRefunded
 
 # MessageActionPaymentRefunded
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionPaymentRefunded`  
 Constructor ID: `0x41b3e202`  

@@ -5,7 +5,7 @@ description: TL method channels.reportAntiSpamFalsePositive
 
 # channels.reportAntiSpamFalsePositive
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa850a693`  
 Returns: [Bool](/tl/types#bool)

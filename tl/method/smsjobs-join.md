@@ -5,7 +5,7 @@ description: TL method smsjobs.join
 
 # smsjobs.join
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa74ece2d`  
 Returns: [Bool](/tl/types#bool)

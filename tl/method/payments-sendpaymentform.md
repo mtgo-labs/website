@@ -5,7 +5,7 @@ description: TL method payments.sendPaymentForm
 
 # payments.sendPaymentForm
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2d03522f`  
 Returns: [PaymentResult](/tl/types#paymentresult)

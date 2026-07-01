@@ -5,7 +5,7 @@ description: TL method account.getDefaultProfilePhotoEmojis
 
 # account.getDefaultProfilePhotoEmojis
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe2750328`  
 Returns: [EmojiList](/tl/types#emojilist)

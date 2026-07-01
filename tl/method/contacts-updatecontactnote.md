@@ -5,7 +5,7 @@ description: TL method contacts.updateContactNote
 
 # contacts.updateContactNote
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x139f63fb`  
 Returns: [Bool](/tl/types#bool)

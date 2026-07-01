@@ -5,7 +5,7 @@ description: TL method account.getCollectibleEmojiStatuses
 
 # account.getCollectibleEmojiStatuses
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2e7b4543`  
 Returns: [EmojiStatuses](/tl/types#emojistatuses)

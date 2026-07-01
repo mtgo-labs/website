@@ -5,7 +5,7 @@ description: TL constructor inputSecureFileUploaded
 
 # InputSecureFileUploaded
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputSecureFileUploaded`  
 Constructor ID: `0x3334b0f0`  

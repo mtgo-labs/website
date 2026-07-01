@@ -5,7 +5,7 @@ description: TL constructor help.noAppUpdate
 
 # NoAppUpdate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.noAppUpdate`  
 Constructor ID: `0xc45a6536`  

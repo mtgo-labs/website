@@ -5,7 +5,7 @@ description: TL method account.getAuthorizations
 
 # account.getAuthorizations
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe320c158`  
 Returns: [Authorizations](/tl/types#authorizations)

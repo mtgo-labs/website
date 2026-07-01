@@ -5,7 +5,7 @@ description: TL constructor channelParticipantsSearch
 
 # ChannelParticipantsSearch
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelParticipantsSearch`  
 Constructor ID: `0x0656ac4b`  

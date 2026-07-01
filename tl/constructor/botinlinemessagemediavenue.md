@@ -5,7 +5,7 @@ description: TL constructor botInlineMessageMediaVenue
 
 # BotInlineMessageMediaVenue
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInlineMessageMediaVenue`  
 Constructor ID: `0x8a86659c`  

@@ -5,7 +5,7 @@ description: TL method messages.sendWebViewData
 
 # messages.sendWebViewData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xdc0242c8`  
 Returns: [Updates](/tl/types#updates)

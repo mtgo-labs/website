@@ -5,7 +5,7 @@ description: TL constructor businessChatLink
 
 # BusinessChatLink
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `businessChatLink`  
 Constructor ID: `0xb4ae666f`  

@@ -5,7 +5,7 @@ description: TL constructor pageBlockTable
 
 # PageBlockTable
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockTable`  
 Constructor ID: `0xbf4dea82`  

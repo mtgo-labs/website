@@ -5,7 +5,7 @@ description: TL method messages.toggleNoForwards
 
 # messages.toggleNoForwards
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb2081a35`  
 Returns: [Updates](/tl/types#updates)

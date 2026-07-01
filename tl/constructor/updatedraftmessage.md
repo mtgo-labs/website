@@ -5,7 +5,7 @@ description: TL constructor updateDraftMessage
 
 # UpdateDraftMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateDraftMessage`  
 Constructor ID: `0xedfc111e`  

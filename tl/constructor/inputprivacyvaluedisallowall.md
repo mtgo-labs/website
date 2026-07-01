@@ -5,7 +5,7 @@ description: TL constructor inputPrivacyValueDisallowAll
 
 # InputPrivacyValueDisallowAll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPrivacyValueDisallowAll`  
 Constructor ID: `0xd66b66c9`  

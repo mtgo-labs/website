@@ -5,7 +5,7 @@ description: TL constructor inputDialogPeerFolder
 
 # InputDialogPeerFolder
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputDialogPeerFolder`  
 Constructor ID: `0x64600527`  

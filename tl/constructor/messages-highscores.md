@@ -5,7 +5,7 @@ description: TL constructor messages.highScores
 
 # HighScores
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.highScores`  
 Constructor ID: `0x9a3bfd99`  

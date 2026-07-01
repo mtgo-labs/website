@@ -5,7 +5,7 @@ description: TL constructor jsonNull
 
 # JSONNull
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `jsonNull`  
 Constructor ID: `0x3f6d7b68`  

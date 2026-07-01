@@ -5,7 +5,7 @@ description: TL constructor requestPeerTypeUser
 
 # RequestPeerTypeUser
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `requestPeerTypeUser`  
 Constructor ID: `0x5f3b8a00`  

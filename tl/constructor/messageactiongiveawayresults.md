@@ -5,7 +5,7 @@ description: TL constructor messageActionGiveawayResults
 
 # MessageActionGiveawayResults
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionGiveawayResults`  
 Constructor ID: `0x87e2f155`  

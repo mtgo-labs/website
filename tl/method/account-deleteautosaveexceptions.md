@@ -5,7 +5,7 @@ description: TL method account.deleteAutoSaveExceptions
 
 # account.deleteAutoSaveExceptions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x53bc0020`  
 Returns: [Bool](/tl/types#bool)

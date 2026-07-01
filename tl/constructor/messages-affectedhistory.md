@@ -5,7 +5,7 @@ description: TL constructor messages.affectedHistory
 
 # AffectedHistory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.affectedHistory`  
 Constructor ID: `0xb45c69d1`  

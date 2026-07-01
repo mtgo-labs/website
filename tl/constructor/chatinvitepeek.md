@@ -5,7 +5,7 @@ description: TL constructor chatInvitePeek
 
 # ChatInvitePeek
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatInvitePeek`  
 Constructor ID: `0x61695cb0`  

@@ -5,7 +5,7 @@ description: TL constructor messageEntityPhone
 
 # MessageEntityPhone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityPhone`  
 Constructor ID: `0x9b69e34b`  

@@ -5,7 +5,7 @@ description: TL constructor emojiKeyword
 
 # EmojiKeyword
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `emojiKeyword`  
 Constructor ID: `0xd5b3b9f9`  

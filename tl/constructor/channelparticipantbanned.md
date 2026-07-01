@@ -5,7 +5,7 @@ description: TL constructor channelParticipantBanned
 
 # ChannelParticipantBanned
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelParticipantBanned`  
 Constructor ID: `0xd5f0ad91`  

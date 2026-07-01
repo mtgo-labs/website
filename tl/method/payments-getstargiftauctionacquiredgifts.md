@@ -5,7 +5,7 @@ description: TL method payments.getStarGiftAuctionAcquiredGifts
 
 # payments.getStarGiftAuctionAcquiredGifts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x6ba2cbec`  
 Returns: [StarGiftAuctionAcquiredGifts](/tl/types#stargiftauctionacquiredgifts)

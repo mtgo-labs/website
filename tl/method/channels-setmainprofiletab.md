@@ -5,7 +5,7 @@ description: TL method channels.setMainProfileTab
 
 # channels.setMainProfileTab
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3583fcb1`  
 Returns: [Bool](/tl/types#bool)

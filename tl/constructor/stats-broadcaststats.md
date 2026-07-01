@@ -5,7 +5,7 @@ description: TL constructor stats.broadcastStats
 
 # BroadcastStats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stats.broadcastStats`  
 Constructor ID: `0x396ca5fc`  

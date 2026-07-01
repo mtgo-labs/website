@@ -5,7 +5,7 @@ description: TL constructor inputCollectibleUsername
 
 # InputCollectibleUsername
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputCollectibleUsername`  
 Constructor ID: `0xe39460a9`  

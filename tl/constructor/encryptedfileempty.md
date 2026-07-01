@@ -5,7 +5,7 @@ description: TL constructor encryptedFileEmpty
 
 # EncryptedFileEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `encryptedFileEmpty`  
 Constructor ID: `0xc21f497e`  

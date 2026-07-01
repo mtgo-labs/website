@@ -5,7 +5,7 @@ description: TL method updates.getState
 
 # updates.getState
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xedd4882a`  
 Returns: [State](/tl/types#state)

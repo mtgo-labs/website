@@ -5,7 +5,7 @@ description: TL constructor chatPhoto
 
 # ChatPhoto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatPhoto`  
 Constructor ID: `0x1c6e1c11`  

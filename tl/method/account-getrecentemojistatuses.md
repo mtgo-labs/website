@@ -5,7 +5,7 @@ description: TL method account.getRecentEmojiStatuses
 
 # account.getRecentEmojiStatuses
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0f578105`  
 Returns: [EmojiStatuses](/tl/types#emojistatuses)

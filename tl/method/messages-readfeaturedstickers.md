@@ -5,7 +5,7 @@ description: TL method messages.readFeaturedStickers
 
 # messages.readFeaturedStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5b118126`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL method messages.deleteFactCheck
 
 # messages.deleteFactCheck
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd1da940c`  
 Returns: [Updates](/tl/types#updates)

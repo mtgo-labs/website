@@ -5,7 +5,7 @@ description: TL constructor postAddress
 
 # PostAddress
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `postAddress`  
 Constructor ID: `0x1e8caaeb`  

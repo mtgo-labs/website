@@ -5,7 +5,7 @@ description: TL constructor inputPhoneContact
 
 # InputPhoneContact
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPhoneContact`  
 Constructor ID: `0x6a1dc4be`  

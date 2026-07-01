@@ -5,7 +5,7 @@ description: TL method account.acceptAuthorization
 
 # account.acceptAuthorization
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf3ed4c73`  
 Returns: [Bool](/tl/types#bool)

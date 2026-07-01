@@ -5,7 +5,7 @@ description: TL constructor messages.transcribedAudio
 
 # TranscribedAudio
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.transcribedAudio`  
 Constructor ID: `0xcfb9d957`  

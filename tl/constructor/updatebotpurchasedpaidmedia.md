@@ -5,7 +5,7 @@ description: TL constructor updateBotPurchasedPaidMedia
 
 # UpdateBotPurchasedPaidMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotPurchasedPaidMedia`  
 Constructor ID: `0x283bd312`  

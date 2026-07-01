@@ -5,7 +5,7 @@ description: TL method account.updateUsername
 
 # account.updateUsername
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x3e0bdd7c`  
 Returns: [User](/tl/types#user)

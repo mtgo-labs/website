@@ -5,10 +5,10 @@ description: TL method channels.joinChannel
 
 # channels.joinChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
-Constructor ID: `0x24b524c5`  
-Returns: [Updates](/tl/types#updates)
+Constructor ID: `0x7f6a1e22`  
+Returns: [ChatInviteJoinResult](/tl/types#chatinvitejoinresult)
 
 ## Parameters
 

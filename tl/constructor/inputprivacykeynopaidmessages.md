@@ -5,7 +5,7 @@ description: TL constructor inputPrivacyKeyNoPaidMessages
 
 # InputPrivacyKeyNoPaidMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPrivacyKeyNoPaidMessages`  
 Constructor ID: `0xbdc597b4`  

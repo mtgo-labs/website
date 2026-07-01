@@ -5,7 +5,7 @@ description: TL constructor timezone
 
 # Timezone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `timezone`  
 Constructor ID: `0xff9289f5`  

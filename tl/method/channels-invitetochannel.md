@@ -5,7 +5,7 @@ description: TL method channels.inviteToChannel
 
 # channels.inviteToChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc9e33d54`  
 Returns: [InvitedUsers](/tl/types#invitedusers)

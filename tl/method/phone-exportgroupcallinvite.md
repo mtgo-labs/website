@@ -5,7 +5,7 @@ description: TL method phone.exportGroupCallInvite
 
 # phone.exportGroupCallInvite
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe6aa647f`  
 Returns: [ExportedGroupCallInvite](/tl/types#exportedgroupcallinvite)

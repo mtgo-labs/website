@@ -5,7 +5,7 @@ description: TL constructor businessWorkHours
 
 # BusinessWorkHours
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `businessWorkHours`  
 Constructor ID: `0x8c92b098`  

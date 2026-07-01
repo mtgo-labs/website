@@ -5,7 +5,7 @@ description: TL constructor auth.sentCodeTypeFlashCall
 
 # SentCodeTypeFlashCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.sentCodeTypeFlashCall`  
 Constructor ID: `0xab03c6d9`  

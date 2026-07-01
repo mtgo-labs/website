@@ -5,7 +5,7 @@ description: TL method messages.getBotApp
 
 # messages.getBotApp
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x34fdc5c3`  
 Returns: [BotApp](/tl/types#botapp)

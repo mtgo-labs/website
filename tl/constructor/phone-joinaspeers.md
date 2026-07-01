@@ -5,7 +5,7 @@ description: TL constructor phone.joinAsPeers
 
 # JoinAsPeers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `phone.joinAsPeers`  
 Constructor ID: `0xafe5623f`  

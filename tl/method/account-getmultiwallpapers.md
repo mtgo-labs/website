@@ -5,7 +5,7 @@ description: TL method account.getMultiWallPapers
 
 # account.getMultiWallPapers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x65ad71dc`  
 Returns: [WallPaper](/tl/types#wallpaper)

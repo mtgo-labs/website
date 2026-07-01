@@ -5,7 +5,7 @@ description: TL method stats.getPollStats
 
 # stats.getPollStats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc27dfa68`  
 Returns: [PollStats](/tl/types#pollstats)

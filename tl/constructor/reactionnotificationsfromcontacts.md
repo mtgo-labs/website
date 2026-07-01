@@ -5,7 +5,7 @@ description: TL constructor reactionNotificationsFromContacts
 
 # ReactionNotificationsFromContacts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `reactionNotificationsFromContacts`  
 Constructor ID: `0xbac3a61a`  

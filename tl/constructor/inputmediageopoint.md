@@ -5,7 +5,7 @@ description: TL constructor inputMediaGeoPoint
 
 # InputMediaGeoPoint
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaGeoPoint`  
 Constructor ID: `0xf9c44144`  

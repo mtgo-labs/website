@@ -5,7 +5,7 @@ description: TL constructor updateSentPhoneCode
 
 # UpdateSentPhoneCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateSentPhoneCode`  
 Constructor ID: `0x504aa18f`  

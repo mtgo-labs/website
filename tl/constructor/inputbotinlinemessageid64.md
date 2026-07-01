@@ -5,7 +5,7 @@ description: TL constructor inputBotInlineMessageID64
 
 # InputBotInlineMessageId64
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputBotInlineMessageID64`  
 Constructor ID: `0xb6d915d7`  

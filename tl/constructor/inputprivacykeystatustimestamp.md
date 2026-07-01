@@ -5,7 +5,7 @@ description: TL constructor inputPrivacyKeyStatusTimestamp
 
 # InputPrivacyKeyStatusTimestamp
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPrivacyKeyStatusTimestamp`  
 Constructor ID: `0x4f96cb18`  

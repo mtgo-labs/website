@@ -5,7 +5,7 @@ description: TL method phone.deleteGroupCallMessages
 
 # phone.deleteGroupCallMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf64f54f7`  
 Returns: [Updates](/tl/types#updates)

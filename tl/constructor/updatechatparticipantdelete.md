@@ -5,7 +5,7 @@ description: TL constructor updateChatParticipantDelete
 
 # UpdateChatParticipantDelete
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChatParticipantDelete`  
 Constructor ID: `0xe32f3d77`  

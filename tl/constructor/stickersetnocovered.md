@@ -5,7 +5,7 @@ description: TL constructor stickerSetNoCovered
 
 # StickerSetNoCovered
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stickerSetNoCovered`  
 Constructor ID: `0x77b15d1c`  

@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionEditTopic
 
 # ChannelAdminLogEventActionEditTopic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionEditTopic`  
 Constructor ID: `0xf06fe208`  

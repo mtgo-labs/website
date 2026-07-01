@@ -5,7 +5,7 @@ description: TL constructor emailVerifyPurposeLoginChange
 
 # EmailVerifyPurposeLoginChange
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `emailVerifyPurposeLoginChange`  
 Constructor ID: `0x527d22eb`  

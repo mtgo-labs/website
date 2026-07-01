@@ -5,7 +5,7 @@ description: TL constructor inputMediaWebPage
 
 # InputMediaWebPage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaWebPage`  
 Constructor ID: `0xc21b8849`  

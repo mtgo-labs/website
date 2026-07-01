@@ -5,7 +5,7 @@ description: TL constructor connectedBotStarRef
 
 # ConnectedBotStarRef
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `connectedBotStarRef`  
 Constructor ID: `0x19a13f71`  

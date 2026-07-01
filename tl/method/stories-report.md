@@ -5,7 +5,7 @@ description: TL method stories.report
 
 # stories.report
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x19d8eb45`  
 Returns: [ReportResult](/tl/types#reportresult)

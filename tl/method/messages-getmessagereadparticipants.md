@@ -5,7 +5,7 @@ description: TL method messages.getMessageReadParticipants
 
 # messages.getMessageReadParticipants
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x31c1c44f`  
 Returns: [ReadParticipantDate](/tl/types#readparticipantdate)

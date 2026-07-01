@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionChangePhoto
 
 # ChannelAdminLogEventActionChangePhoto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionChangePhoto`  
 Constructor ID: `0x434bd2af`  

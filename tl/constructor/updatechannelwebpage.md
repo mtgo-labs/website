@@ -5,7 +5,7 @@ description: TL constructor updateChannelWebPage
 
 # UpdateChannelWebPage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChannelWebPage`  
 Constructor ID: `0x2f2ba99f`  

@@ -5,7 +5,7 @@ description: TL method messages.getEmojiKeywords
 
 # messages.getEmojiKeywords
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x35a0e062`  
 Returns: [EmojiKeywordsDifference](/tl/types#emojikeywordsdifference)

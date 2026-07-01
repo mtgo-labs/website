@@ -5,7 +5,7 @@ description: TL constructor storyItemSkipped
 
 # StoryItemSkipped
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `storyItemSkipped`  
 Constructor ID: `0xffadc913`  

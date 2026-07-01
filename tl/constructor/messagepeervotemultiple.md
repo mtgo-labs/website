@@ -5,7 +5,7 @@ description: TL constructor messagePeerVoteMultiple
 
 # MessagePeerVoteMultiple
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messagePeerVoteMultiple`  
 Constructor ID: `0x4628f6e6`  

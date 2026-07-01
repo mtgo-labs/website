@@ -5,7 +5,7 @@ description: TL constructor inputReportReasonCopyright
 
 # InputReportReasonCopyright
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputReportReasonCopyright`  
 Constructor ID: `0x9b89f93a`  

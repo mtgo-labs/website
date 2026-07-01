@@ -5,7 +5,7 @@ description: TL constructor messageActionStarGiftPurchaseOffer
 
 # MessageActionStarGiftPurchaseOffer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionStarGiftPurchaseOffer`  
 Constructor ID: `0x774278d4`  

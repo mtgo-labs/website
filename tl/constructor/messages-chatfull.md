@@ -5,7 +5,7 @@ description: TL constructor messages.chatFull
 
 # ChatFull
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.chatFull`  
 Constructor ID: `0xe5d7d19c`  

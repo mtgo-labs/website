@@ -5,7 +5,7 @@ description: TL constructor messageActionTopicCreate
 
 # MessageActionTopicCreate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionTopicCreate`  
 Constructor ID: `0x0d999256`  

@@ -5,7 +5,7 @@ description: TL constructor messageEntityBotCommand
 
 # MessageEntityBotCommand
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityBotCommand`  
 Constructor ID: `0x6cef8ac7`  

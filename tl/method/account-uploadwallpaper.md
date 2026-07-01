@@ -5,7 +5,7 @@ description: TL method account.uploadWallPaper
 
 # account.uploadWallPaper
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe39a8f03`  
 Returns: [WallPaper](/tl/types#wallpaper)

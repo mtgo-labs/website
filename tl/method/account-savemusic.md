@@ -5,7 +5,7 @@ description: TL method account.saveMusic
 
 # account.saveMusic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb26732a9`  
 Returns: [Bool](/tl/types#bool)

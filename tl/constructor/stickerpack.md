@@ -5,7 +5,7 @@ description: TL constructor stickerPack
 
 # StickerPack
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stickerPack`  
 Constructor ID: `0x12b299d4`  

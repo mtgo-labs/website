@@ -5,7 +5,7 @@ description: TL method account.updatePasswordSettings
 
 # account.updatePasswordSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa59b102f`  
 Returns: [Bool](/tl/types#bool)

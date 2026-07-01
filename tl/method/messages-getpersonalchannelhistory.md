@@ -5,7 +5,7 @@ description: TL method messages.getPersonalChannelHistory
 
 # messages.getPersonalChannelHistory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x55fb0996`  
 Returns: [Messages](/tl/types#messages)

@@ -5,7 +5,7 @@ description: TL method phone.toggleGroupCallStartSubscription
 
 # phone.toggleGroupCallStartSubscription
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x219c34e6`  
 Returns: [Updates](/tl/types#updates)

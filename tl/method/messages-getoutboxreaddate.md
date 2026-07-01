@@ -5,7 +5,7 @@ description: TL method messages.getOutboxReadDate
 
 # messages.getOutboxReadDate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8c4bfe5d`  
 Returns: [OutboxReadDate](/tl/types#outboxreaddate)

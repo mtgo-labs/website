@@ -5,7 +5,7 @@ description: TL method messages.startHistoryImport
 
 # messages.startHistoryImport
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb43df344`  
 Returns: [Bool](/tl/types#bool)

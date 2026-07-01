@@ -5,7 +5,7 @@ description: TL method payments.getUniqueStarGiftValueInfo
 
 # payments.getUniqueStarGiftValueInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x4365af6b`  
 Returns: [UniqueStarGiftValueInfo](/tl/types#uniquestargiftvalueinfo)

@@ -5,7 +5,7 @@ description: TL method messages.getEmojiStickers
 
 # messages.getEmojiStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xfbfca18f`  
 Returns: [AllStickers](/tl/types#allstickers)

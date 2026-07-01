@@ -5,7 +5,7 @@ description: TL constructor updateWebPage
 
 # UpdateWebPage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateWebPage`  
 Constructor ID: `0x7f891213`  

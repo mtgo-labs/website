@@ -5,7 +5,7 @@ description: TL constructor channelMessagesFilter
 
 # ChannelMessagesFilter
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelMessagesFilter`  
 Constructor ID: `0xcd77d957`  

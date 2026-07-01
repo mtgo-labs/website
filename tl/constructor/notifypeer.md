@@ -5,7 +5,7 @@ description: TL constructor notifyPeer
 
 # NotifyPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `notifyPeer`  
 Constructor ID: `0x9fd40bd8`  

@@ -5,7 +5,7 @@ description: TL method auth.acceptLoginToken
 
 # auth.acceptLoginToken
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe894ad4d`  
 Returns: [Authorization](/tl/types#authorization)

@@ -5,7 +5,7 @@ description: TL constructor inlineQueryPeerTypeMegagroup
 
 # InlineQueryPeerTypeMegagroup
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inlineQueryPeerTypeMegagroup`  
 Constructor ID: `0x5ec4be43`  

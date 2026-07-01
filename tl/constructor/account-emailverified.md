@@ -5,7 +5,7 @@ description: TL constructor account.emailVerified
 
 # EmailVerified
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.emailVerified`  
 Constructor ID: `0x2b96cd1b`  

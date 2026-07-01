@@ -5,7 +5,7 @@ description: TL method messages.hideChatJoinRequest
 
 # messages.hideChatJoinRequest
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7fe7e815`  
 Returns: [Updates](/tl/types#updates)

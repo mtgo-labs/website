@@ -5,7 +5,7 @@ description: TL method messages.getDocumentByHash
 
 # messages.getDocumentByHash
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb1f2061f`  
 Returns: [Document](/tl/types#document)

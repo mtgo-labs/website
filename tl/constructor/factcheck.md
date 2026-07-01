@@ -5,7 +5,7 @@ description: TL constructor factCheck
 
 # FactCheck
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `factCheck`  
 Constructor ID: `0xb89bfccf`  

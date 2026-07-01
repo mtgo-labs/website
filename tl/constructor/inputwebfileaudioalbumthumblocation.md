@@ -5,7 +5,7 @@ description: TL constructor inputWebFileAudioAlbumThumbLocation
 
 # InputWebFileAudioAlbumThumbLocation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputWebFileAudioAlbumThumbLocation`  
 Constructor ID: `0xf46fe924`  

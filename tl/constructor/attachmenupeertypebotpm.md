@@ -5,7 +5,7 @@ description: TL constructor attachMenuPeerTypeBotPM
 
 # AttachMenuPeerTypeBotPm
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `attachMenuPeerTypeBotPM`  
 Constructor ID: `0xc32bfa1a`  

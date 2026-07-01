@@ -5,7 +5,7 @@ description: TL constructor inputBotInlineMessageMediaAuto
 
 # InputBotInlineMessageMediaAuto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputBotInlineMessageMediaAuto`  
 Constructor ID: `0x3380c786`  

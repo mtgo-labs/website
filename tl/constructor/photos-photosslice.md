@@ -5,7 +5,7 @@ description: TL constructor photos.photosSlice
 
 # PhotosSlice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `photos.photosSlice`  
 Constructor ID: `0x15051f54`  

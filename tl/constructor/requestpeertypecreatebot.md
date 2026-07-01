@@ -5,7 +5,7 @@ description: TL constructor requestPeerTypeCreateBot
 
 # RequestPeerTypeCreateBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `requestPeerTypeCreateBot`  
 Constructor ID: `0x3e81e078`  

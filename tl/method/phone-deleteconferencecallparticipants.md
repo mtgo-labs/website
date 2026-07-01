@@ -5,7 +5,7 @@ description: TL method phone.deleteConferenceCallParticipants
 
 # phone.deleteConferenceCallParticipants
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8ca60525`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL method stories.getPinnedStories
 
 # stories.getPinnedStories
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5821a5dc`  
 Returns: [Stories](/tl/types#stories)

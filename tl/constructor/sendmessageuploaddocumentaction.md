@@ -5,7 +5,7 @@ description: TL constructor sendMessageUploadDocumentAction
 
 # SendMessageUploadDocumentAction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `sendMessageUploadDocumentAction`  
 Constructor ID: `0xaa0cd9e4`  

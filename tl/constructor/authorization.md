@@ -5,7 +5,7 @@ description: TL constructor authorization
 
 # Authorization
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `authorization`  
 Constructor ID: `0xad01d61d`  

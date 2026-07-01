@@ -5,7 +5,7 @@ description: TL method channels.toggleAntiSpam
 
 # channels.toggleAntiSpam
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x68f3e4eb`  
 Returns: [Updates](/tl/types#updates)

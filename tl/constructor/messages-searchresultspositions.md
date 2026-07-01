@@ -5,7 +5,7 @@ description: TL constructor messages.searchResultsPositions
 
 # SearchResultsPositions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.searchResultsPositions`  
 Constructor ID: `0x53b22baf`  

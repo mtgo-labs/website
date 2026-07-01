@@ -5,7 +5,7 @@ description: TL method messages.editExportedChatInvite
 
 # messages.editExportedChatInvite
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbdca2f75`  
 Returns: [ExportedChatInvite](/tl/types#exportedchatinvite)

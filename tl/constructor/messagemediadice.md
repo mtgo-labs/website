@@ -5,7 +5,7 @@ description: TL constructor messageMediaDice
 
 # MessageMediaDice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageMediaDice`  
 Constructor ID: `0x08cbec07`  

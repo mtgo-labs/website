@@ -5,7 +5,7 @@ description: TL constructor keyboardButtonRequestGeoLocation
 
 # KeyboardButtonRequestGeoLocation
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `keyboardButtonRequestGeoLocation`  
 Constructor ID: `0xaa40f94d`  

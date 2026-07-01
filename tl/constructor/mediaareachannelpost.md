@@ -5,7 +5,7 @@ description: TL constructor mediaAreaChannelPost
 
 # MediaAreaChannelPost
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `mediaAreaChannelPost`  
 Constructor ID: `0x770416af`  

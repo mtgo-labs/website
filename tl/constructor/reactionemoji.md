@@ -5,7 +5,7 @@ description: TL constructor reactionEmoji
 
 # ReactionEmoji
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `reactionEmoji`  
 Constructor ID: `0x1b2286b8`  

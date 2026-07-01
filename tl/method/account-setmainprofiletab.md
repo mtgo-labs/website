@@ -5,7 +5,7 @@ description: TL method account.setMainProfileTab
 
 # account.setMainProfileTab
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5dee78b0`  
 Returns: [Bool](/tl/types#bool)

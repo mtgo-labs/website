@@ -5,7 +5,7 @@ description: TL constructor null
 
 # Null
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `null`  
 Constructor ID: `0x56730bcc`  

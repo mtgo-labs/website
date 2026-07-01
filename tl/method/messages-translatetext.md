@@ -5,7 +5,7 @@ description: TL method messages.translateText
 
 # messages.translateText
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa5eec345`  
 Returns: [TranslatedText](/tl/types#translatedtext)

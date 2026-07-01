@@ -5,7 +5,7 @@ description: TL constructor outboxReadDate
 
 # OutboxReadDate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `outboxReadDate`  
 Constructor ID: `0x3bb842ac`  

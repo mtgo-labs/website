@@ -5,7 +5,7 @@ description: TL method channels.deleteChannel
 
 # channels.deleteChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc0111fe3`  
 Returns: [Updates](/tl/types#updates)

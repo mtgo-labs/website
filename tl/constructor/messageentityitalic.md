@@ -5,7 +5,7 @@ description: TL constructor messageEntityItalic
 
 # MessageEntityItalic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityItalic`  
 Constructor ID: `0x826f8b60`  

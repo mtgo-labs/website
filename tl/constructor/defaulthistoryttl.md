@@ -5,7 +5,7 @@ description: TL constructor defaultHistoryTTL
 
 # DefaultHistoryTTL
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `defaultHistoryTTL`  
 Constructor ID: `0x43b46b20`  

@@ -5,7 +5,7 @@ description: TL constructor payments.starGiftUpgradeAttributes
 
 # StarGiftUpgradeAttributes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.starGiftUpgradeAttributes`  
 Constructor ID: `0x46c6e36f`  

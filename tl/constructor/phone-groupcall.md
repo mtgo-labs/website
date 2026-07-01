@@ -5,7 +5,7 @@ description: TL constructor phone.groupCall
 
 # GroupCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `phone.groupCall`  
 Constructor ID: `0x9e727aad`  

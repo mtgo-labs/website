@@ -5,7 +5,7 @@ description: TL constructor keyboardButtonRequestPhone
 
 # KeyboardButtonRequestPhone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `keyboardButtonRequestPhone`  
 Constructor ID: `0x417efd8f`  

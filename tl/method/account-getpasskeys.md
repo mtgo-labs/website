@@ -5,7 +5,7 @@ description: TL method account.getPasskeys
 
 # account.getPasskeys
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xea1f0c52`  
 Returns: [Passkeys](/tl/types#passkeys)

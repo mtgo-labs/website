@@ -5,7 +5,7 @@ description: TL constructor peerChannel
 
 # PeerChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `peerChannel`  
 Constructor ID: `0xa2a5371e`  

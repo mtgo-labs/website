@@ -5,7 +5,7 @@ description: TL method messages.deleteExportedChatInvite
 
 # messages.deleteExportedChatInvite
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd464a42b`  
 Returns: [Bool](/tl/types#bool)

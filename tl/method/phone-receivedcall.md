@@ -5,7 +5,7 @@ description: TL method phone.receivedCall
 
 # phone.receivedCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x17d54f61`  
 Returns: [Bool](/tl/types#bool)

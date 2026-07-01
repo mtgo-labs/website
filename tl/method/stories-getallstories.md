@@ -5,7 +5,7 @@ description: TL method stories.getAllStories
 
 # stories.getAllStories
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xeeb0d625`  
 Returns: [AllStories](/tl/types#allstories)

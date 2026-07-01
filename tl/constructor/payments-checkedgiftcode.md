@@ -5,7 +5,7 @@ description: TL constructor payments.checkedGiftCode
 
 # CheckedGiftCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.checkedGiftCode`  
 Constructor ID: `0xeb983f8f`  

@@ -5,7 +5,7 @@ description: TL constructor messageEntityFormattedDate
 
 # MessageEntityFormattedDate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityFormattedDate`  
 Constructor ID: `0x904ac7c7`  

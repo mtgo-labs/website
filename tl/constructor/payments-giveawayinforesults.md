@@ -5,7 +5,7 @@ description: TL constructor payments.giveawayInfoResults
 
 # GiveawayInfoResults
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.giveawayInfoResults`  
 Constructor ID: `0xe175e66f`  

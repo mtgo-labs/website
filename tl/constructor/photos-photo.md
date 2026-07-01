@@ -5,7 +5,7 @@ description: TL constructor photos.photo
 
 # Photo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `photos.photo`  
 Constructor ID: `0x20212ca8`  

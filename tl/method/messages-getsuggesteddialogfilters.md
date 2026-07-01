@@ -5,7 +5,7 @@ description: TL method messages.getSuggestedDialogFilters
 
 # messages.getSuggestedDialogFilters
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa29cd42c`  
 Returns: [DialogFilterSuggested](/tl/types#dialogfiltersuggested)

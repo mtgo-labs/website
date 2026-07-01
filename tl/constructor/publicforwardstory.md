@@ -5,7 +5,7 @@ description: TL constructor publicForwardStory
 
 # PublicForwardStory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `publicForwardStory`  
 Constructor ID: `0xedf3add0`  

@@ -5,7 +5,7 @@ description: TL constructor messageActionChannelMigrateFrom
 
 # MessageActionChannelMigrateFrom
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionChannelMigrateFrom`  
 Constructor ID: `0xea3948e9`  

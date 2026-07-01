@@ -5,7 +5,7 @@ description: TL constructor messageActionRequestedPeer
 
 # MessageActionRequestedPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionRequestedPeer`  
 Constructor ID: `0x31518e9b`  

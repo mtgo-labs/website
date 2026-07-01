@@ -5,7 +5,7 @@ description: TL constructor requirementToContactPaidMessages
 
 # RequirementToContactPaidMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `requirementToContactPaidMessages`  
 Constructor ID: `0xb4f67e93`  

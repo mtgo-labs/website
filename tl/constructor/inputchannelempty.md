@@ -5,7 +5,7 @@ description: TL constructor inputChannelEmpty
 
 # InputChannelEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputChannelEmpty`  
 Constructor ID: `0xee8c1e86`  

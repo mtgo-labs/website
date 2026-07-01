@@ -5,7 +5,7 @@ description: TL method stories.getChatsToSend
 
 # stories.getChatsToSend
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa56a8b60`  
 Returns: [Chats](/tl/types#chats)

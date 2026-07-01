@@ -5,7 +5,7 @@ description: TL constructor stats.publicForwards
 
 # PublicForwards
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stats.publicForwards`  
 Constructor ID: `0x93037e20`  

@@ -5,7 +5,7 @@ description: TL constructor photoPathSize
 
 # PhotoPathSize
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `photoPathSize`  
 Constructor ID: `0xd8214d41`  

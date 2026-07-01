@@ -5,7 +5,7 @@ description: TL constructor inputUser
 
 # InputUser
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputUser`  
 Constructor ID: `0xf21158c6`  

@@ -5,7 +5,7 @@ description: TL constructor messages.inactiveChats
 
 # InactiveChats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.inactiveChats`  
 Constructor ID: `0xa927fec5`  

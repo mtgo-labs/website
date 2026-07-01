@@ -5,7 +5,7 @@ description: TL method messages.getCommonChats
 
 # messages.getCommonChats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe40ca104`  
 Returns: [Chats](/tl/types#chats)

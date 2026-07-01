@@ -5,7 +5,7 @@ description: TL constructor textImage
 
 # TextImage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `textImage`  
 Constructor ID: `0x081ccf4f`  

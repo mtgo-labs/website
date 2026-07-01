@@ -5,7 +5,7 @@ description: All TL constructors from the Telegram MTProto schema, organized by 
 
 # TL Constructors
 
-Layer **225** | Total: **1574** constructors
+Layer **227** | Total: **1620** constructors
 
 ## account
 
@@ -51,6 +51,8 @@ Layer **225** | Total: **1574** constructors
 | [Account.wallPapers](/tl/constructor/account-wallpapers) | `Account.wallPapers` | `0xcdc3858c` |
 | [Account.wallPapersNotModified](/tl/constructor/account-wallpapersnotmodified) | `Account.wallPapers` | `0x1c199183` |
 | [Account.webAuthorizations](/tl/constructor/account-webauthorizations) | `Account.webAuthorizations` | `0xed56c9fc` |
+| [Account.webBrowserSettings](/tl/constructor/account-webbrowsersettings) | `Account.webBrowserSettings` | `0x79eb8cb3` |
+| [Account.webBrowserSettingsNotModified](/tl/constructor/account-webbrowsersettingsnotmodified) | `Account.webBrowserSettings` | `0xc31c8f4e` |
 
 </div>
 
@@ -244,6 +246,8 @@ Layer **225** | Total: **1574** constructors
 | [Messages.chatAdminsWithInvites](/tl/constructor/messages-chatadminswithinvites) | `Messages.chatAdminsWithInvites` | `0xb69b72d7` |
 | [Messages.chatFull](/tl/constructor/messages-chatfull) | `Messages.chatFull` | `0xe5d7d19c` |
 | [Messages.chatInviteImporters](/tl/constructor/messages-chatinviteimporters) | `Messages.chatInviteImporters` | `0x81b6b00a` |
+| [Messages.chatInviteJoinResultOk](/tl/constructor/messages-chatinvitejoinresultok) | `Messages.chatInviteJoinResult` | `0x445663a7` |
+| [Messages.chatInviteJoinResultWebView](/tl/constructor/messages-chatinvitejoinresultwebview) | `Messages.chatInviteJoinResult` | `0x2f51c337` |
 | [Messages.chats](/tl/constructor/messages-chats) | `Messages.chats` | `0x64ff9fd5` |
 | [Messages.chatsSlice](/tl/constructor/messages-chatsslice) | `Messages.chats` | `0x9cd81144` |
 | [Messages.checkedHistoryImportPeer](/tl/constructor/messages-checkedhistoryimportpeer) | `Messages.checkedHistoryImportPeer` | `0xa24de717` |
@@ -379,6 +383,7 @@ Layer **225** | Total: **1574** constructors
 | [BotInlineMessageMediaInvoice](/tl/constructor/botinlinemessagemediainvoice) | `BotInlineMessage` | `0x354a9b09` |
 | [BotInlineMessageMediaVenue](/tl/constructor/botinlinemessagemediavenue) | `BotInlineMessage` | `0x8a86659c` |
 | [BotInlineMessageMediaWebPage](/tl/constructor/botinlinemessagemediawebpage) | `BotInlineMessage` | `0x809ad9a6` |
+| [BotInlineMessageRichMessage](/tl/constructor/botinlinemessagerichmessage) | `BotInlineMessage` | `0x0a617e7b` |
 | [BotInlineMessageText](/tl/constructor/botinlinemessagetext) | `BotInlineMessage` | `0x8c7f65e2` |
 | [BotInlineResult](/tl/constructor/botinlineresult) | `BotInlineResult` | `0x11965f3a` |
 | [BotMenuButton](/tl/constructor/botmenubutton) | `BotMenuButton` | `0xc7b57ce6` |
@@ -458,7 +463,7 @@ Layer **225** | Total: **1574** constructors
 | [ChannelAdminLogEventActionUpdatePinned](/tl/constructor/channeladminlogeventactionupdatepinned) | `ChannelAdminLogEventAction` | `0xe9e82c18` |
 | [ChannelAdminLogEventsFilter](/tl/constructor/channeladminlogeventsfilter) | `ChannelAdminLogEventsFilter` | `0xea107ae4` |
 | [ChannelForbidden](/tl/constructor/channelforbidden) | `Chat` | `0x17d493d5` |
-| [ChannelFull](/tl/constructor/channelfull) | `ChatFull` | `0xe4e0b29d` |
+| [ChannelFull](/tl/constructor/channelfull) | `ChatFull` | `0xa04e8d3a` |
 | [ChannelLocation](/tl/constructor/channellocation) | `ChannelLocation` | `0x209b82db` |
 | [ChannelLocationEmpty](/tl/constructor/channellocationempty) | `ChannelLocation` | `0xbfb5ad8b` |
 | [ChannelMessagesFilter](/tl/constructor/channelmessagesfilter) | `ChannelMessagesFilter` | `0xcd77d957` |
@@ -505,7 +510,7 @@ Layer **225** | Total: **1574** constructors
 | [ChatThemeUniqueGift](/tl/constructor/chatthemeuniquegift) | `ChatTheme` | `0x3458f9c8` |
 | [CodeSettings](/tl/constructor/codesettings) | `CodeSettings` | `0xad253d78` |
 | [Config](/tl/constructor/config) | `Config` | `0xcc1a241e` |
-| [ConnectedBot](/tl/constructor/connectedbot) | `ConnectedBot` | `0xcd64636c` |
+| [ConnectedBot](/tl/constructor/connectedbot) | `ConnectedBot` | `0x033ed001` |
 | [ConnectedBotStarRef](/tl/constructor/connectedbotstarref) | `ConnectedBotStarRef` | `0x19a13f71` |
 | [Contact](/tl/constructor/contact) | `Contact` | `0x145ade0b` |
 | [ContactBirthday](/tl/constructor/contactbirthday) | `ContactBirthday` | `0x1d998733` |
@@ -532,7 +537,7 @@ Layer **225** | Total: **1574** constructors
 | [DocumentAttributeSticker](/tl/constructor/documentattributesticker) | `DocumentAttribute` | `0x6319d612` |
 | [DocumentAttributeVideo](/tl/constructor/documentattributevideo) | `DocumentAttribute` | `0x43c57c48` |
 | [DocumentEmpty](/tl/constructor/documentempty) | `Document` | `0x36f8c871` |
-| [DraftMessage](/tl/constructor/draftmessage) | `DraftMessage` | `0x96eaa5eb` |
+| [DraftMessage](/tl/constructor/draftmessage) | `DraftMessage` | `0x60fe3294` |
 | [DraftMessageEmpty](/tl/constructor/draftmessageempty) | `DraftMessage` | `0x1b0c841a` |
 | [EmailVerificationApple](/tl/constructor/emailverificationapple) | `EmailVerification` | `0x96d074fd` |
 | [EmailVerificationCode](/tl/constructor/emailverificationcode) | `EmailVerification` | `0x922e55a9` |
@@ -612,6 +617,7 @@ Layer **225** | Total: **1574** constructors
 | [InputBotInlineMessageMediaInvoice](/tl/constructor/inputbotinlinemessagemediainvoice) | `InputBotInlineMessage` | `0xd7e78225` |
 | [InputBotInlineMessageMediaVenue](/tl/constructor/inputbotinlinemessagemediavenue) | `InputBotInlineMessage` | `0x417bbf11` |
 | [InputBotInlineMessageMediaWebPage](/tl/constructor/inputbotinlinemessagemediawebpage) | `InputBotInlineMessage` | `0xbddcc510` |
+| [InputBotInlineMessageRichMessage](/tl/constructor/inputbotinlinemessagerichmessage) | `InputBotInlineMessage` | `0xb43df56c` |
 | [InputBotInlineMessageText](/tl/constructor/inputbotinlinemessagetext) | `InputBotInlineMessage` | `0x3dcd7a87` |
 | [InputBotInlineResult](/tl/constructor/inputbotinlineresult) | `InputBotInlineResult` | `0x88bf9319` |
 | [InputBotInlineResultDocument](/tl/constructor/inputbotinlineresultdocument) | `InputBotInlineResult` | `0xfff8fdc4` |
@@ -678,7 +684,7 @@ Layer **225** | Total: **1574** constructors
 | [InputInvoiceStarGiftTransfer](/tl/constructor/inputinvoicestargifttransfer) | `InputInvoice` | `0x4a5f5bd9` |
 | [InputInvoiceStarGiftUpgrade](/tl/constructor/inputinvoicestargiftupgrade) | `InputInvoice` | `0x4d818d5d` |
 | [InputInvoiceStars](/tl/constructor/inputinvoicestars) | `InputInvoice` | `0x65f00ce3` |
-| [InputKeyboardButtonRequestPeer](/tl/constructor/inputkeyboardbuttonrequestpeer) | `KeyboardButton` | `0xc9662d05` |
+| [InputKeyboardButtonRequestPeer](/tl/constructor/inputkeyboardbuttonrequestpeer) | `KeyboardButton` | `0x02b78156` |
 | [InputKeyboardButtonURLAuth](/tl/constructor/inputkeyboardbuttonurlauth) | `KeyboardButton` | `0x68013e72` |
 | [InputKeyboardButtonUserProfile](/tl/constructor/inputkeyboardbuttonuserprofile) | `KeyboardButton` | `0x7d5e07c7` |
 | [InputMediaAreaChannelPost](/tl/constructor/inputmediaareachannelpost) | `MediaArea` | `0x2271f2bf` |
@@ -732,6 +738,7 @@ Layer **225** | Total: **1574** constructors
 | [InputNotifyForumTopic](/tl/constructor/inputnotifyforumtopic) | `InputNotifyPeer` | `0x5c467992` |
 | [InputNotifyPeer](/tl/constructor/inputnotifypeer) | `InputNotifyPeer` | `0xb8bc5b0c` |
 | [InputNotifyUsers](/tl/constructor/inputnotifyusers) | `InputNotifyPeer` | `0x193b4417` |
+| [InputPageBlockMap](/tl/constructor/inputpageblockmap) | `PageBlock` | `0x574b617f` |
 | [InputPasskeyCredentialFirebasePnv](/tl/constructor/inputpasskeycredentialfirebasepnv) | `InputPasskeyCredential` | `0x5b1ccb28` |
 | [InputPasskeyCredentialPublicKey](/tl/constructor/inputpasskeycredentialpublickey) | `InputPasskeyCredential` | `0x3c27b78f` |
 | [InputPasskeyResponseLogin](/tl/constructor/inputpasskeyresponselogin) | `InputPasskeyResponse` | `0xc31fc14a` |
@@ -798,6 +805,11 @@ Layer **225** | Total: **1574** constructors
 | [InputReportReasonPornography](/tl/constructor/inputreportreasonpornography) | `ReportReason` | `0x2e59d922` |
 | [InputReportReasonSpam](/tl/constructor/inputreportreasonspam) | `ReportReason` | `0x58dbcab8` |
 | [InputReportReasonViolence](/tl/constructor/inputreportreasonviolence) | `ReportReason` | `0x1e22c78d` |
+| [InputRichFileDocument](/tl/constructor/inputrichfiledocument) | `InputRichFile` | `0x83281dbd` |
+| [InputRichFilePhoto](/tl/constructor/inputrichfilephoto) | `InputRichFile` | `0x9b00622b` |
+| [InputRichMessage](/tl/constructor/inputrichmessage) | `InputRichMessage` | `0xe4c449fc` |
+| [InputRichMessageHTML](/tl/constructor/inputrichmessagehtml) | `InputRichMessage` | `0xdacb836a` |
+| [InputRichMessageMarkdown](/tl/constructor/inputrichmessagemarkdown) | `InputRichMessage` | `0x004b572c` |
 | [InputSavedStarGiftChat](/tl/constructor/inputsavedstargiftchat) | `InputSavedStarGift` | `0xf101aa7f` |
 | [InputSavedStarGiftSlug](/tl/constructor/inputsavedstargiftslug) | `InputSavedStarGift` | `0x2085c238` |
 | [InputSavedStarGiftUser](/tl/constructor/inputsavedstargiftuser) | `InputSavedStarGift` | `0x69279795` |
@@ -805,6 +817,7 @@ Layer **225** | Total: **1574** constructors
 | [InputSecureFileLocation](/tl/constructor/inputsecurefilelocation) | `InputFileLocation` | `0xcbc7ee28` |
 | [InputSecureFileUploaded](/tl/constructor/inputsecurefileuploaded) | `InputSecureFile` | `0x3334b0f0` |
 | [InputSecureValue](/tl/constructor/inputsecurevalue) | `InputSecureValue` | `0xdb21d0a7` |
+| [InputSendMessageRichMessageDraftAction](/tl/constructor/inputsendmessagerichmessagedraftaction) | `SendMessageAction` | `0xe2b23b51` |
 | [InputSingleMedia](/tl/constructor/inputsinglemedia) | `InputSingleMedia` | `0x1cc6e91f` |
 | [InputStarGiftAuction](/tl/constructor/inputstargiftauction) | `InputStarGiftAuction` | `0x02e16c98` |
 | [InputStarGiftAuctionSlug](/tl/constructor/inputstargiftauctionslug) | `InputStarGiftAuction` | `0x7ab58308` |
@@ -849,6 +862,10 @@ Layer **225** | Total: **1574** constructors
 | [InputWebFileGeoPointLocation](/tl/constructor/inputwebfilegeopointlocation) | `InputWebFileLocation` | `0x9f2221c9` |
 | [InputWebFileLocation](/tl/constructor/inputwebfilelocation) | `InputWebFileLocation` | `0xc239d686` |
 | [Invoice](/tl/constructor/invoice) | `Invoice` | `0x049ee584` |
+| [JoinChatBotResultApproved](/tl/constructor/joinchatbotresultapproved) | `JoinChatBotResult` | `0xae152a69` |
+| [JoinChatBotResultDeclined](/tl/constructor/joinchatbotresultdeclined) | `JoinChatBotResult` | `0x0efa0194` |
+| [JoinChatBotResultQueued](/tl/constructor/joinchatbotresultqueued) | `JoinChatBotResult` | `0x98a3a840` |
+| [JoinChatBotResultWebView](/tl/constructor/joinchatbotresultwebview) | `JoinChatBotResult` | `0xd6e3b813` |
 | [JSONArray](/tl/constructor/jsonarray) | `JSONValue` | `0xf7444763` |
 | [JSONBool](/tl/constructor/jsonbool) | `JSONValue` | `0xc7345e6a` |
 | [JSONNull](/tl/constructor/jsonnull) | `JSONValue` | `0x3f6d7b68` |
@@ -862,7 +879,7 @@ Layer **225** | Total: **1574** constructors
 | [KeyboardButtonCopy](/tl/constructor/keyboardbuttoncopy) | `KeyboardButton` | `0xbcc4af10` |
 | [KeyboardButtonGame](/tl/constructor/keyboardbuttongame) | `KeyboardButton` | `0x89c590f9` |
 | [KeyboardButtonRequestGeoLocation](/tl/constructor/keyboardbuttonrequestgeolocation) | `KeyboardButton` | `0xaa40f94d` |
-| [KeyboardButtonRequestPeer](/tl/constructor/keyboardbuttonrequestpeer) | `KeyboardButton` | `0x53d7bfd8` |
+| [KeyboardButtonRequestPeer](/tl/constructor/keyboardbuttonrequestpeer) | `KeyboardButton` | `0x5b0f15f5` |
 | [KeyboardButtonRequestPhone](/tl/constructor/keyboardbuttonrequestphone) | `KeyboardButton` | `0x417efd8f` |
 | [KeyboardButtonRequestPoll](/tl/constructor/keyboardbuttonrequestpoll) | `KeyboardButton` | `0x7a11d782` |
 | [KeyboardButtonRow](/tl/constructor/keyboardbuttonrow) | `KeyboardButtonRow` | `0x77608b83` |
@@ -888,7 +905,7 @@ Layer **225** | Total: **1574** constructors
 | [MediaAreaURL](/tl/constructor/mediaareaurl) | `MediaArea` | `0x37381085` |
 | [MediaAreaVenue](/tl/constructor/mediaareavenue) | `MediaArea` | `0xbe82db9c` |
 | [MediaAreaWeather](/tl/constructor/mediaareaweather) | `MediaArea` | `0x49a6549c` |
-| [Message](/tl/constructor/message) | `Message` | `0x95ef6f2b` |
+| [Message](/tl/constructor/message) | `Message` | `0x7600b9d3` |
 | [MessageActionBoostApply](/tl/constructor/messageactionboostapply) | `MessageAction` | `0xcc02aa6d` |
 | [MessageActionBotAllowed](/tl/constructor/messageactionbotallowed) | `MessageAction` | `0xc516d679` |
 | [MessageActionChangeCreator](/tl/constructor/messageactionchangecreator) | `MessageAction` | `0xe188503b` |
@@ -1036,6 +1053,7 @@ Layer **225** | Total: **1574** constructors
 | [PageBlockAudio](/tl/constructor/pageblockaudio) | `PageBlock` | `0x804361ea` |
 | [PageBlockAuthorDate](/tl/constructor/pageblockauthordate) | `PageBlock` | `0xbaafe5e0` |
 | [PageBlockBlockquote](/tl/constructor/pageblockblockquote) | `PageBlock` | `0x263d7c26` |
+| [PageBlockBlockquoteBlocks](/tl/constructor/pageblockblockquoteblocks) | `PageBlock` | `0x0e6e47c4` |
 | [PageBlockChannel](/tl/constructor/pageblockchannel) | `PageBlock` | `0xef1751b5` |
 | [PageBlockCollage](/tl/constructor/pageblockcollage) | `PageBlock` | `0x65a0fa4d` |
 | [PageBlockCover](/tl/constructor/pageblockcover) | `PageBlock` | `0x39f23300` |
@@ -1045,10 +1063,17 @@ Layer **225** | Total: **1574** constructors
 | [PageBlockEmbedPost](/tl/constructor/pageblockembedpost) | `PageBlock` | `0xf259a80b` |
 | [PageBlockFooter](/tl/constructor/pageblockfooter) | `PageBlock` | `0x48870999` |
 | [PageBlockHeader](/tl/constructor/pageblockheader) | `PageBlock` | `0xbfd064ec` |
+| [PageBlockHeading1](/tl/constructor/pageblockheading1) | `PageBlock` | `0xbaff072f` |
+| [PageBlockHeading2](/tl/constructor/pageblockheading2) | `PageBlock` | `0x096b2aec` |
+| [PageBlockHeading3](/tl/constructor/pageblockheading3) | `PageBlock` | `0x67e731ad` |
+| [PageBlockHeading4](/tl/constructor/pageblockheading4) | `PageBlock` | `0xb532772b` |
+| [PageBlockHeading5](/tl/constructor/pageblockheading5) | `PageBlock` | `0xdbbe6c6a` |
+| [PageBlockHeading6](/tl/constructor/pageblockheading6) | `PageBlock` | `0x682a41a9` |
 | [PageBlockKicker](/tl/constructor/pageblockkicker) | `PageBlock` | `0x1e148390` |
 | [PageBlockList](/tl/constructor/pageblocklist) | `PageBlock` | `0xe4e88011` |
 | [PageBlockMap](/tl/constructor/pageblockmap) | `PageBlock` | `0xa44f3ef6` |
-| [PageBlockOrderedList](/tl/constructor/pageblockorderedlist) | `PageBlock` | `0x9a8ae1e1` |
+| [PageBlockMath](/tl/constructor/pageblockmath) | `PageBlock` | `0x59080c20` |
+| [PageBlockOrderedList](/tl/constructor/pageblockorderedlist) | `PageBlock` | `0x1fd6f6c1` |
 | [PageBlockParagraph](/tl/constructor/pageblockparagraph) | `PageBlock` | `0x467a0766` |
 | [PageBlockPhoto](/tl/constructor/pageblockphoto) | `PageBlock` | `0x1759c560` |
 | [PageBlockPreformatted](/tl/constructor/pageblockpreformatted) | `PageBlock` | `0xc070d93e` |
@@ -1058,14 +1083,15 @@ Layer **225** | Total: **1574** constructors
 | [PageBlockSubheader](/tl/constructor/pageblocksubheader) | `PageBlock` | `0xf12bb6e1` |
 | [PageBlockSubtitle](/tl/constructor/pageblocksubtitle) | `PageBlock` | `0x8ffa9a1f` |
 | [PageBlockTable](/tl/constructor/pageblocktable) | `PageBlock` | `0xbf4dea82` |
+| [PageBlockThinking](/tl/constructor/pageblockthinking) | `PageBlock` | `0x3c29a3e2` |
 | [PageBlockTitle](/tl/constructor/pageblocktitle) | `PageBlock` | `0x70abc3fd` |
 | [PageBlockUnsupported](/tl/constructor/pageblockunsupported) | `PageBlock` | `0x13567e8a` |
 | [PageBlockVideo](/tl/constructor/pageblockvideo) | `PageBlock` | `0x7c8fe7b6` |
 | [PageCaption](/tl/constructor/pagecaption) | `PageCaption` | `0x6f747657` |
-| [PageListItemBlocks](/tl/constructor/pagelistitemblocks) | `PageListItem` | `0x25e073fc` |
-| [PageListItemText](/tl/constructor/pagelistitemtext) | `PageListItem` | `0xb92fb6cd` |
-| [PageListOrderedItemBlocks](/tl/constructor/pagelistordereditemblocks) | `PageListOrderedItem` | `0x98dd8936` |
-| [PageListOrderedItemText](/tl/constructor/pagelistordereditemtext) | `PageListOrderedItem` | `0x5e068047` |
+| [PageListItemBlocks](/tl/constructor/pagelistitemblocks) | `PageListItem` | `0x63ca67aa` |
+| [PageListItemText](/tl/constructor/pagelistitemtext) | `PageListItem` | `0x2f58683c` |
+| [PageListOrderedItemBlocks](/tl/constructor/pagelistordereditemblocks) | `PageListOrderedItem` | `0x8ff2d5f0` |
+| [PageListOrderedItemText](/tl/constructor/pagelistordereditemtext) | `PageListOrderedItem` | `0x15031189` |
 | [PageRelatedArticle](/tl/constructor/pagerelatedarticle) | `PageRelatedArticle` | `0xb390dc08` |
 | [PageTableCell](/tl/constructor/pagetablecell) | `PageTableCell` | `0x34566b6a` |
 | [PageTableRow](/tl/constructor/pagetablerow) | `PageTableRow` | `0xe0c0c5e5` |
@@ -1196,6 +1222,7 @@ Layer **225** | Total: **1574** constructors
 | [RequirementToContactPaidMessages](/tl/constructor/requirementtocontactpaidmessages) | `RequirementToContact` | `0xb4f67e93` |
 | [RequirementToContactPremium](/tl/constructor/requirementtocontactpremium) | `RequirementToContact` | `0xe581e4e9` |
 | [RestrictionReason](/tl/constructor/restrictionreason) | `RestrictionReason` | `0xd072acb4` |
+| [RichMessage](/tl/constructor/richmessage) | `RichMessage` | `0xbaf39d8b` |
 | [SavedDialog](/tl/constructor/saveddialog) | `SavedDialog` | `0xbd87cb6c` |
 | [SavedPhoneContact](/tl/constructor/savedphonecontact) | `SavedContact` | `0x1142bd56` |
 | [SavedReactionTag](/tl/constructor/savedreactiontag) | `SavedReactionTag` | `0xcb6ff828` |
@@ -1251,6 +1278,7 @@ Layer **225** | Total: **1574** constructors
 | [SendMessageRecordAudioAction](/tl/constructor/sendmessagerecordaudioaction) | `SendMessageAction` | `0xd52f73f7` |
 | [SendMessageRecordRoundAction](/tl/constructor/sendmessagerecordroundaction) | `SendMessageAction` | `0x88f27fbc` |
 | [SendMessageRecordVideoAction](/tl/constructor/sendmessagerecordvideoaction) | `SendMessageAction` | `0xa187d66f` |
+| [SendMessageRichMessageDraftAction](/tl/constructor/sendmessagerichmessagedraftaction) | `SendMessageAction` | `0xa2cb24f9` |
 | [SendMessageTextDraftAction](/tl/constructor/sendmessagetextdraftaction) | `SendMessageAction` | `0x376d975c` |
 | [SendMessageTypingAction](/tl/constructor/sendmessagetypingaction) | `SendMessageAction` | `0x16bf744e` |
 | [SendMessageUploadAudioAction](/tl/constructor/sendmessageuploadaudioaction) | `SendMessageAction` | `0xf351d7ab` |
@@ -1342,16 +1370,29 @@ Layer **225** | Total: **1574** constructors
 | [StoryViews](/tl/constructor/storyviews) | `StoryViews` | `0x8d595cd6` |
 | [SuggestedPost](/tl/constructor/suggestedpost) | `SuggestedPost` | `0x0e8e37e5` |
 | [TextAnchor](/tl/constructor/textanchor) | `RichText` | `0x35553762` |
+| [TextAutoEmail](/tl/constructor/textautoemail) | `RichText` | `0xc556a45d` |
+| [TextAutoPhone](/tl/constructor/textautophone) | `RichText` | `0x24c26789` |
+| [TextAutoURL](/tl/constructor/textautourl) | `RichText` | `0xac6a83aa` |
+| [TextBankCard](/tl/constructor/textbankcard) | `RichText` | `0xb956812d` |
 | [TextBold](/tl/constructor/textbold) | `RichText` | `0x6724abc4` |
+| [TextBotCommand](/tl/constructor/textbotcommand) | `RichText` | `0x02ff29d3` |
+| [TextCashtag](/tl/constructor/textcashtag) | `RichText` | `0x7b9e1801` |
 | [TextConcat](/tl/constructor/textconcat) | `RichText` | `0x7e6260d7` |
+| [TextCustomEmoji](/tl/constructor/textcustomemoji) | `RichText` | `0xa26156c0` |
+| [TextDate](/tl/constructor/textdate) | `RichText` | `0xa5b45e2b` |
 | [TextEmail](/tl/constructor/textemail) | `RichText` | `0xde5a0dd6` |
 | [TextEmpty](/tl/constructor/textempty) | `RichText` | `0xdc3d824f` |
 | [TextFixed](/tl/constructor/textfixed) | `RichText` | `0x6c3f19b9` |
+| [TextHashtag](/tl/constructor/texthashtag) | `RichText` | `0x519524ea` |
 | [TextImage](/tl/constructor/textimage) | `RichText` | `0x081ccf4f` |
 | [TextItalic](/tl/constructor/textitalic) | `RichText` | `0xd912a59c` |
 | [TextMarked](/tl/constructor/textmarked) | `RichText` | `0x034b8621` |
+| [TextMath](/tl/constructor/textmath) | `RichText` | `0x9d2eac97` |
+| [TextMention](/tl/constructor/textmention) | `RichText` | `0xcd24cf44` |
+| [TextMentionName](/tl/constructor/textmentionname) | `RichText` | `0x01a9fbfc` |
 | [TextPhone](/tl/constructor/textphone) | `RichText` | `0x1ccb966a` |
 | [TextPlain](/tl/constructor/textplain) | `RichText` | `0x744694e0` |
+| [TextSpoiler](/tl/constructor/textspoiler) | `RichText` | `0x4c2a5d62` |
 | [TextStrike](/tl/constructor/textstrike) | `RichText` | `0x9bf8bb95` |
 | [TextSubscript](/tl/constructor/textsubscript) | `RichText` | `0xed6a8504` |
 | [TextSuperscript](/tl/constructor/textsuperscript) | `RichText` | `0xc7fb5e01` |
@@ -1383,7 +1424,7 @@ Layer **225** | Total: **1574** constructors
 | [UpdateBotBusinessConnect](/tl/constructor/updatebotbusinessconnect) | `Update` | `0x8ae5c97a` |
 | [UpdateBotCallbackQuery](/tl/constructor/updatebotcallbackquery) | `Update` | `0xb9cfc48d` |
 | [UpdateBotChatBoost](/tl/constructor/updatebotchatboost) | `Update` | `0x904dd49c` |
-| [UpdateBotChatInviteRequester](/tl/constructor/updatebotchatinviterequester) | `Update` | `0x11dfa986` |
+| [UpdateBotChatInviteRequester](/tl/constructor/updatebotchatinviterequester) | `Update` | `0x7cb34d79` |
 | [UpdateBotCommands](/tl/constructor/updatebotcommands) | `Update` | `0x4d712f2e` |
 | [UpdateBotDeleteBusinessMessage](/tl/constructor/updatebotdeletebusinessmessage) | `Update` | `0xa02a982e` |
 | [UpdateBotEditBusinessMessage](/tl/constructor/updateboteditbusinessmessage) | `Update` | `0x07df587c` |
@@ -1451,6 +1492,7 @@ Layer **225** | Total: **1574** constructors
 | [UpdateGroupCallMessage](/tl/constructor/updategroupcallmessage) | `Update` | `0xd8326f0d` |
 | [UpdateGroupCallParticipants](/tl/constructor/updategroupcallparticipants) | `Update` | `0xf2ebdb4e` |
 | [UpdateInlineBotCallbackQuery](/tl/constructor/updateinlinebotcallbackquery) | `Update` | `0x691e9052` |
+| [UpdateJoinChatWebViewDecision](/tl/constructor/updatejoinchatwebviewdecision) | `Update` | `0xbdac7e70` |
 | [UpdateLangPack](/tl/constructor/updatelangpack) | `Update` | `0x56022f4d` |
 | [UpdateLangPackTooLong](/tl/constructor/updatelangpacktoolong) | `Update` | `0x46560264` |
 | [UpdateLoginToken](/tl/constructor/updatelogintoken) | `Update` | `0x564fe691` |
@@ -1463,6 +1505,7 @@ Layer **225** | Total: **1574** constructors
 | [UpdateMonoForumNoPaidException](/tl/constructor/updatemonoforumnopaidexception) | `Update` | `0x9f812b08` |
 | [UpdateMoveStickerSetToTop](/tl/constructor/updatemovestickersettotop) | `Update` | `0x86fccf85` |
 | [UpdateNewAuthorization](/tl/constructor/updatenewauthorization) | `Update` | `0x8951abef` |
+| [UpdateNewBotConnection](/tl/constructor/updatenewbotconnection) | `Update` | `0xb22083a6` |
 | [UpdateNewChannelMessage](/tl/constructor/updatenewchannelmessage) | `Update` | `0x62ba04d9` |
 | [UpdateNewEncryptedMessage](/tl/constructor/updatenewencryptedmessage) | `Update` | `0x12bcbd9a` |
 | [UpdateNewMessage](/tl/constructor/updatenewmessage) | `Update` | `0x1f2b0afd` |
@@ -1535,6 +1578,8 @@ Layer **225** | Total: **1574** constructors
 | [UpdateUserPhone](/tl/constructor/updateuserphone) | `Update` | `0x05492a13` |
 | [UpdateUserStatus](/tl/constructor/updateuserstatus) | `Update` | `0xe5bdf8de` |
 | [UpdateUserTyping](/tl/constructor/updateusertyping) | `Update` | `0x2a17bf5c` |
+| [UpdateWebBrowserException](/tl/constructor/updatewebbrowserexception) | `Update` | `0x140502d1` |
+| [UpdateWebBrowserSettings](/tl/constructor/updatewebbrowsersettings) | `Update` | `0xc39a2ade` |
 | [UpdateWebPage](/tl/constructor/updatewebpage) | `Update` | `0x7f891213` |
 | [UpdateWebViewResultSent](/tl/constructor/updatewebviewresultsent) | `Update` | `0x1592b79d` |
 | [Updates](/tl/constructor/updates) | `Updates` | `0x74ae4240` |
@@ -1565,6 +1610,7 @@ Layer **225** | Total: **1574** constructors
 | [WebAuthorization](/tl/constructor/webauthorization) | `WebAuthorization` | `0xa6f8f452` |
 | [WebDocument](/tl/constructor/webdocument) | `WebDocument` | `0x1c570ed1` |
 | [WebDocumentNoProxy](/tl/constructor/webdocumentnoproxy) | `WebDocument` | `0xf9c8bcc6` |
+| [WebDomainException](/tl/constructor/webdomainexception) | `WebDomainException` | `0x933ca597` |
 | [WebPage](/tl/constructor/webpage) | `WebPage` | `0xe89c45b2` |
 | [WebPageAttributeAiComposeTone](/tl/constructor/webpageattributeaicomposetone) | `WebPageAttribute` | `0x7781fe18` |
 | [WebPageAttributeStarGiftAuction](/tl/constructor/webpageattributestargiftauction) | `WebPageAttribute` | `0x01c641c2` |

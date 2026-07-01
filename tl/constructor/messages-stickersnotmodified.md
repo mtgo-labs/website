@@ -5,7 +5,7 @@ description: TL constructor messages.stickersNotModified
 
 # StickersNotModified
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.stickersNotModified`  
 Constructor ID: `0xf1749a22`  

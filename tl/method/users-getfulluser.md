@@ -5,7 +5,7 @@ description: TL method users.getFullUser
 
 # users.getFullUser
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb60f5918`  
 Returns: [UserFull](/tl/types#userfull)

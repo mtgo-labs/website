@@ -5,7 +5,7 @@ description: TL constructor documentAttributeSticker
 
 # DocumentAttributeSticker
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `documentAttributeSticker`  
 Constructor ID: `0x6319d612`  

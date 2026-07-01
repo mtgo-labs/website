@@ -5,7 +5,7 @@ description: TL constructor keyboardButtonRequestPoll
 
 # KeyboardButtonRequestPoll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `keyboardButtonRequestPoll`  
 Constructor ID: `0x7a11d782`  

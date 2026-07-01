@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionDiscardGroupCall
 
 # ChannelAdminLogEventActionDiscardGroupCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionDiscardGroupCall`  
 Constructor ID: `0xdb9f9140`  

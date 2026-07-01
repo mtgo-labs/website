@@ -5,7 +5,7 @@ description: TL constructor messageActionGroupCall
 
 # MessageActionGroupCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionGroupCall`  
 Constructor ID: `0x7a0d7f42`  

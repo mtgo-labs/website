@@ -5,7 +5,7 @@ description: TL constructor help.termsOfService
 
 # TermsOfService
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.termsOfService`  
 Constructor ID: `0x780a0310`  

@@ -5,7 +5,7 @@ description: TL method messages.getDefaultTagReactions
 
 # messages.getDefaultTagReactions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbdf93428`  
 Returns: [Reactions](/tl/types#reactions)

@@ -5,7 +5,7 @@ description: TL constructor auth.sentCodeTypeEmailCode
 
 # SentCodeTypeEmailCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.sentCodeTypeEmailCode`  
 Constructor ID: `0xf450f59b`  

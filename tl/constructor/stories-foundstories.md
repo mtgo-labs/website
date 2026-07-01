@@ -5,7 +5,7 @@ description: TL constructor stories.foundStories
 
 # FoundStories
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stories.foundStories`  
 Constructor ID: `0xe2de7737`  

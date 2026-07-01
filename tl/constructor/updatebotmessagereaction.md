@@ -5,7 +5,7 @@ description: TL constructor updateBotMessageReaction
 
 # UpdateBotMessageReaction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotMessageReaction`  
 Constructor ID: `0xac21d3ce`  

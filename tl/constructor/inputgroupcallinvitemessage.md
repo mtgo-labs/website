@@ -5,7 +5,7 @@ description: TL constructor inputGroupCallInviteMessage
 
 # InputGroupCallInviteMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputGroupCallInviteMessage`  
 Constructor ID: `0x8c10603f`  

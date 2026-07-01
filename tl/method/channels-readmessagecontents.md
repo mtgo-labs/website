@@ -5,7 +5,7 @@ description: TL method channels.readMessageContents
 
 # channels.readMessageContents
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xeab5dc38`  
 Returns: [Bool](/tl/types#bool)

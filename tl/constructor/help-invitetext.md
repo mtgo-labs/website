@@ -5,7 +5,7 @@ description: TL constructor help.inviteText
 
 # InviteText
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.inviteText`  
 Constructor ID: `0x18cb9f78`  

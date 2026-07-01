@@ -5,7 +5,7 @@ description: TL constructor phoneConnection
 
 # PhoneConnection
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `phoneConnection`  
 Constructor ID: `0x9cc123c7`  

@@ -5,7 +5,7 @@ description: TL constructor jsonNumber
 
 # JSONNumber
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `jsonNumber`  
 Constructor ID: `0x2be0dfa4`  

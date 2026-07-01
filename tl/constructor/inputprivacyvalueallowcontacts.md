@@ -5,7 +5,7 @@ description: TL constructor inputPrivacyValueAllowContacts
 
 # InputPrivacyValueAllowContacts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPrivacyValueAllowContacts`  
 Constructor ID: `0x0d09e07b`  

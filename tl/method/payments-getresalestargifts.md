@@ -5,7 +5,7 @@ description: TL method payments.getResaleStarGifts
 
 # payments.getResaleStarGifts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7a5fa236`  
 Returns: [ResaleStarGifts](/tl/types#resalestargifts)

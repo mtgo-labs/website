@@ -5,7 +5,7 @@ description: TL constructor messages.botResults
 
 # BotResults
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.botResults`  
 Constructor ID: `0xe021f2f6`  

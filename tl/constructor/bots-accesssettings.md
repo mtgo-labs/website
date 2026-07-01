@@ -5,7 +5,7 @@ description: TL constructor bots.accessSettings
 
 # AccessSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `bots.accessSettings`  
 Constructor ID: `0xdd1fbf93`  

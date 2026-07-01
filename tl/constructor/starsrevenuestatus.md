@@ -5,7 +5,7 @@ description: TL constructor starsRevenueStatus
 
 # StarsRevenueStatus
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starsRevenueStatus`  
 Constructor ID: `0xfebe5491`  

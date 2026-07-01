@@ -5,7 +5,7 @@ description: TL constructor readParticipantDate
 
 # ReadParticipantDate
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `readParticipantDate`  
 Constructor ID: `0x4a4ff172`  

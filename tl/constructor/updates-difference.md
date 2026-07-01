@@ -5,7 +5,7 @@ description: TL constructor updates.difference
 
 # Difference
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updates.difference`  
 Constructor ID: `0x00f49ca0`  

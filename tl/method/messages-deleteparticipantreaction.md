@@ -5,7 +5,7 @@ description: TL method messages.deleteParticipantReaction
 
 # messages.deleteParticipantReaction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe3b7f82c`  
 Returns: [Updates](/tl/types#updates)

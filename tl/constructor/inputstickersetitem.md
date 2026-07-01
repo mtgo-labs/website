@@ -5,7 +5,7 @@ description: TL constructor inputStickerSetItem
 
 # InputStickerSetItem
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStickerSetItem`  
 Constructor ID: `0x32da9e9c`  

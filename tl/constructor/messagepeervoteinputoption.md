@@ -5,7 +5,7 @@ description: TL constructor messagePeerVoteInputOption
 
 # MessagePeerVoteInputOption
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messagePeerVoteInputOption`  
 Constructor ID: `0x74cda504`  

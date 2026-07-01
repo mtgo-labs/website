@@ -5,7 +5,7 @@ description: TL method smsjobs.leave
 
 # smsjobs.leave
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9898ad73`  
 Returns: [Bool](/tl/types#bool)

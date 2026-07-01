@@ -5,7 +5,7 @@ description: TL constructor keyboardButtonCopy
 
 # KeyboardButtonCopy
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `keyboardButtonCopy`  
 Constructor ID: `0xbcc4af10`  

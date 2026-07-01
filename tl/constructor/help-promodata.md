@@ -5,7 +5,7 @@ description: TL constructor help.promoData
 
 # PromoData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.promoData`  
 Constructor ID: `0x08a4d87a`  

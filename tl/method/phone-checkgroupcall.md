@@ -5,7 +5,7 @@ description: TL method phone.checkGroupCall
 
 # phone.checkGroupCall
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb59cf977`  
 Returns: [Int](/tl/types#int)

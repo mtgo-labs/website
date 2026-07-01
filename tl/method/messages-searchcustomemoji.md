@@ -5,7 +5,7 @@ description: TL method messages.searchCustomEmoji
 
 # messages.searchCustomEmoji
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2c11c0d7`  
 Returns: [EmojiList](/tl/types#emojilist)

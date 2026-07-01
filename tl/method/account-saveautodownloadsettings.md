@@ -5,7 +5,7 @@ description: TL method account.saveAutoDownloadSettings
 
 # account.saveAutoDownloadSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x76f36233`  
 Returns: [Bool](/tl/types#bool)

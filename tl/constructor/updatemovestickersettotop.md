@@ -5,7 +5,7 @@ description: TL constructor updateMoveStickerSetToTop
 
 # UpdateMoveStickerSetToTop
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateMoveStickerSetToTop`  
 Constructor ID: `0x86fccf85`  

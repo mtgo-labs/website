@@ -5,7 +5,7 @@ description: TL method auth.exportLoginToken
 
 # auth.exportLoginToken
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb7e085fe`  
 Returns: [LoginToken](/tl/types#logintoken)

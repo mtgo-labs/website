@@ -5,7 +5,7 @@ description: TL constructor messages.channelMessages
 
 # ChannelMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.channelMessages`  
 Constructor ID: `0xc776ba4e`  

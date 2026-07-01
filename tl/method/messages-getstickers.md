@@ -5,7 +5,7 @@ description: TL method messages.getStickers
 
 # messages.getStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd5a5d3a1`  
 Returns: [Stickers](/tl/types#stickers)

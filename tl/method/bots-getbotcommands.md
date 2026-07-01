@@ -5,7 +5,7 @@ description: TL method bots.getBotCommands
 
 # bots.getBotCommands
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe34c0dd6`  
 Returns: [BotCommand](/tl/types#botcommand)

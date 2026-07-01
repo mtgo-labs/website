@@ -5,7 +5,7 @@ description: TL constructor inputQuickReplyShortcutId
 
 # InputQuickReplyShortcutID
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputQuickReplyShortcutId`  
 Constructor ID: `0x01190cf1`  

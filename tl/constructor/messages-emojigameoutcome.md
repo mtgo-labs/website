@@ -5,7 +5,7 @@ description: TL constructor messages.emojiGameOutcome
 
 # EmojiGameOutcome
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.emojiGameOutcome`  
 Constructor ID: `0xda2ad647`  

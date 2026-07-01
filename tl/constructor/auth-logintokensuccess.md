@@ -5,7 +5,7 @@ description: TL constructor auth.loginTokenSuccess
 
 # LoginTokenSuccess
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.loginTokenSuccess`  
 Constructor ID: `0x390d5c5e`  

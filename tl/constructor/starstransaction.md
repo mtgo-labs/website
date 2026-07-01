@@ -5,7 +5,7 @@ description: TL constructor starsTransaction
 
 # StarsTransaction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starsTransaction`  
 Constructor ID: `0x13659eb0`  

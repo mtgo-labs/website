@@ -5,7 +5,7 @@ description: TL constructor inputPrivacyKeySavedMusic
 
 # InputPrivacyKeySavedMusic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPrivacyKeySavedMusic`  
 Constructor ID: `0x4dbe9226`  

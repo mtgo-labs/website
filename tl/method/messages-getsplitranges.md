@@ -5,7 +5,7 @@ description: TL method messages.getSplitRanges
 
 # messages.getSplitRanges
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x1cff7e08`  
 Returns: [MessageRange](/tl/types#messagerange)

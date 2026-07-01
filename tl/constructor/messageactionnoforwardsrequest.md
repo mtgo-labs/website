@@ -5,7 +5,7 @@ description: TL constructor messageActionNoForwardsRequest
 
 # MessageActionNoForwardsRequest
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionNoForwardsRequest`  
 Constructor ID: `0x3e2793ba`  

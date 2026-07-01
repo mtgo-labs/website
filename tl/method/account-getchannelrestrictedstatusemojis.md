@@ -5,7 +5,7 @@ description: TL method account.getChannelRestrictedStatusEmojis
 
 # account.getChannelRestrictedStatusEmojis
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x35a9e0d5`  
 Returns: [EmojiList](/tl/types#emojilist)

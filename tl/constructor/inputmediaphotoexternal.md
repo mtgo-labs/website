@@ -5,7 +5,7 @@ description: TL constructor inputMediaPhotoExternal
 
 # InputMediaPhotoExternal
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaPhotoExternal`  
 Constructor ID: `0xe5bbfe1a`  

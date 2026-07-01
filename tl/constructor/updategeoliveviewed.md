@@ -5,7 +5,7 @@ description: TL constructor updateGeoLiveViewed
 
 # UpdateGeoLiveViewed
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateGeoLiveViewed`  
 Constructor ID: `0x871fb939`  

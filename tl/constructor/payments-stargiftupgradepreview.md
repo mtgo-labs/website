@@ -5,7 +5,7 @@ description: TL constructor payments.starGiftUpgradePreview
 
 # StarGiftUpgradePreview
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.starGiftUpgradePreview`  
 Constructor ID: `0x3de1dfed`  

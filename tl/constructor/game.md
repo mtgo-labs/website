@@ -5,7 +5,7 @@ description: TL constructor game
 
 # Game
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `game`  
 Constructor ID: `0xbdf9653b`  

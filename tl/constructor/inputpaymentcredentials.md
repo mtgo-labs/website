@@ -5,7 +5,7 @@ description: TL constructor inputPaymentCredentials
 
 # InputPaymentCredentials
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPaymentCredentials`  
 Constructor ID: `0x3417d728`  

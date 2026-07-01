@@ -5,7 +5,7 @@ description: TL method messages.sendPaidReaction
 
 # messages.sendPaidReaction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x58bbcb50`  
 Returns: [Updates](/tl/types#updates)

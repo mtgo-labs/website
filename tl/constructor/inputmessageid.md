@@ -5,7 +5,7 @@ description: TL constructor inputMessageID
 
 # InputMessageID
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMessageID`  
 Constructor ID: `0xa676a322`  

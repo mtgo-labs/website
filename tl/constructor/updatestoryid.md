@@ -5,7 +5,7 @@ description: TL constructor updateStoryID
 
 # UpdateStoryID
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateStoryID`  
 Constructor ID: `0x1bf335b9`  

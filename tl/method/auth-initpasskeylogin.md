@@ -5,7 +5,7 @@ description: TL method auth.initPasskeyLogin
 
 # auth.initPasskeyLogin
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x518ad0b7`  
 Returns: [PasskeyLoginOptions](/tl/types#passkeyloginoptions)

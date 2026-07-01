@@ -5,7 +5,7 @@ description: TL constructor inputReportReasonOther
 
 # InputReportReasonOther
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputReportReasonOther`  
 Constructor ID: `0xc1e4a2b1`  

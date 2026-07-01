@@ -5,7 +5,7 @@ description: TL constructor suggestedPost
 
 # SuggestedPost
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `suggestedPost`  
 Constructor ID: `0x0e8e37e5`  

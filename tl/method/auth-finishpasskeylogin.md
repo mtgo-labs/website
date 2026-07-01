@@ -5,7 +5,7 @@ description: TL method auth.finishPasskeyLogin
 
 # auth.finishPasskeyLogin
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9857ad07`  
 Returns: [Authorization](/tl/types#authorization)

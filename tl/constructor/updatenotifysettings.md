@@ -5,7 +5,7 @@ description: TL constructor updateNotifySettings
 
 # UpdateNotifySettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateNotifySettings`  
 Constructor ID: `0xbec268ef`  

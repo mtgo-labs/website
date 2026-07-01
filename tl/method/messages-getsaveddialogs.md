@@ -5,7 +5,7 @@ description: TL method messages.getSavedDialogs
 
 # messages.getSavedDialogs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x1e91fc99`  
 Returns: [SavedDialogs](/tl/types#saveddialogs)

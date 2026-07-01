@@ -5,7 +5,7 @@ description: TL constructor pageBlockEmbedPost
 
 # PageBlockEmbedPost
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockEmbedPost`  
 Constructor ID: `0xf259a80b`  

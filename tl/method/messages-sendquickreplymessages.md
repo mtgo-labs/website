@@ -5,7 +5,7 @@ description: TL method messages.sendQuickReplyMessages
 
 # messages.sendQuickReplyMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x6c750de1`  
 Returns: [Updates](/tl/types#updates)

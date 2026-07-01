@@ -5,7 +5,7 @@ description: TL method payments.getStarsGiveawayOptions
 
 # payments.getStarsGiveawayOptions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbd1efd3e`  
 Returns: [StarsGiveawayOption](/tl/types#starsgiveawayoption)

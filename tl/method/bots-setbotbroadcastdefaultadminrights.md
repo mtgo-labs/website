@@ -5,7 +5,7 @@ description: TL method bots.setBotBroadcastDefaultAdminRights
 
 # bots.setBotBroadcastDefaultAdminRights
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x788464e1`  
 Returns: [Bool](/tl/types#bool)

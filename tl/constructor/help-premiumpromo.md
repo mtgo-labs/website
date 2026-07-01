@@ -5,7 +5,7 @@ description: TL constructor help.premiumPromo
 
 # PremiumPromo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.premiumPromo`  
 Constructor ID: `0x5334759c`  

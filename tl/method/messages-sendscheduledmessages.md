@@ -5,7 +5,7 @@ description: TL method messages.sendScheduledMessages
 
 # messages.sendScheduledMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbd38850a`  
 Returns: [Updates](/tl/types#updates)

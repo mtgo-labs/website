@@ -5,7 +5,7 @@ description: TL method messages.getAvailableReactions
 
 # messages.getAvailableReactions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x18dea0ac`  
 Returns: [AvailableReactions](/tl/types#availablereactions)

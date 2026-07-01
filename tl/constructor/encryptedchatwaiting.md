@@ -5,7 +5,7 @@ description: TL constructor encryptedChatWaiting
 
 # EncryptedChatWaiting
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `encryptedChatWaiting`  
 Constructor ID: `0x66b25953`  

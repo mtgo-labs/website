@@ -5,7 +5,7 @@ description: TL method messages.summarizeText
 
 # messages.summarizeText
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xabbbd346`  
 Returns: [TextWithEntities](/tl/types#textwithentities)

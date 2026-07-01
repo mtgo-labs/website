@@ -5,7 +5,7 @@ description: TL constructor starGiftUpgradePrice
 
 # StarGiftUpgradePrice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftUpgradePrice`  
 Constructor ID: `0x99ea331d`  

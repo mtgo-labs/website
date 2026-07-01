@@ -5,7 +5,7 @@ description: TL constructor contacts.topPeersDisabled
 
 # TopPeersDisabled
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `contacts.topPeersDisabled`  
 Constructor ID: `0xb52c939d`  

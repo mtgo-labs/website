@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionPinTopic
 
 # ChannelAdminLogEventActionPinTopic
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionPinTopic`  
 Constructor ID: `0x5d8d353b`  

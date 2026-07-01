@@ -5,7 +5,7 @@ description: TL constructor inputNotifyChats
 
 # InputNotifyChats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputNotifyChats`  
 Constructor ID: `0x4a95e84e`  

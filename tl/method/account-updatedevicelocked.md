@@ -5,7 +5,7 @@ description: TL method account.updateDeviceLocked
 
 # account.updateDeviceLocked
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x38df3532`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL method messages.editChatDefaultBannedRights
 
 # messages.editChatDefaultBannedRights
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa5866b41`  
 Returns: [Updates](/tl/types#updates)

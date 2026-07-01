@@ -5,7 +5,7 @@ description: TL constructor chatReactionsAll
 
 # ChatReactionsAll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatReactionsAll`  
 Constructor ID: `0x52928bca`  

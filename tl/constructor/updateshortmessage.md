@@ -5,7 +5,7 @@ description: TL constructor updateShortMessage
 
 # UpdateShortMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateShortMessage`  
 Constructor ID: `0x313bc7f8`  

@@ -5,7 +5,7 @@ description: TL constructor starGiftAuctionRoundExtendable
 
 # StarGiftAuctionRoundExtendable
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftAuctionRoundExtendable`  
 Constructor ID: `0x0aa021e5`  

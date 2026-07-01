@@ -5,7 +5,7 @@ description: TL method channels.convertToGigagroup
 
 # channels.convertToGigagroup
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0b290c69`  
 Returns: [Updates](/tl/types#updates)

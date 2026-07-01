@@ -5,7 +5,7 @@ description: TL constructor storyItem
 
 # StoryItem
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `storyItem`  
 Constructor ID: `0x16a4b93c`  

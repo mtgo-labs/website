@@ -5,7 +5,7 @@ description: TL method messages.getOldFeaturedStickers
 
 # messages.getOldFeaturedStickers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7ed094a1`  
 Returns: [FeaturedStickers](/tl/types#featuredstickers)

@@ -5,7 +5,7 @@ description: TL constructor peerStories
 
 # PeerStories
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `peerStories`  
 Constructor ID: `0x9a35e999`  

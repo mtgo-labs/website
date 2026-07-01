@@ -5,7 +5,7 @@ description: TL constructor stickerKeyword
 
 # StickerKeyword
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stickerKeyword`  
 Constructor ID: `0xfcfeb29c`  

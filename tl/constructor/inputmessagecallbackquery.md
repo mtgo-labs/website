@@ -5,7 +5,7 @@ description: TL constructor inputMessageCallbackQuery
 
 # InputMessageCallbackQuery
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMessageCallbackQuery`  
 Constructor ID: `0xacfa1a7e`  

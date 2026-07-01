@@ -5,7 +5,7 @@ description: TL method auth.requestFirebaseSms
 
 # auth.requestFirebaseSms
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8e39261e`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL method invokeWithoutUpdates
 
 # invokeWithoutUpdates
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbf9459b7`  
 Returns: [X](/tl/types#x)

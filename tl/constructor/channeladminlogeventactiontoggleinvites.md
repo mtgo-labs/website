@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionToggleInvites
 
 # ChannelAdminLogEventActionToggleInvites
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionToggleInvites`  
 Constructor ID: `0x1b7907ae`  

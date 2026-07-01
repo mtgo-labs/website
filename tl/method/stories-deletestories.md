@@ -5,7 +5,7 @@ description: TL method stories.deleteStories
 
 # stories.deleteStories
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xae59db5f`  
 Returns: [Int](/tl/types#int)

@@ -5,7 +5,7 @@ description: TL constructor messageExtendedMediaPreview
 
 # MessageExtendedMediaPreview
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageExtendedMediaPreview`  
 Constructor ID: `0xad628cc8`  

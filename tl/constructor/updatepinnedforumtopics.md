@@ -5,7 +5,7 @@ description: TL constructor updatePinnedForumTopics
 
 # UpdatePinnedForumTopics
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatePinnedForumTopics`  
 Constructor ID: `0xdef143d0`  

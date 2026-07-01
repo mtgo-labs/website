@@ -5,7 +5,7 @@ description: TL method bots.getBotRecommendations
 
 # bots.getBotRecommendations
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa1b70815`  
 Returns: [Users](/tl/types#users)

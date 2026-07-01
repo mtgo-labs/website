@@ -5,7 +5,7 @@ description: TL constructor inputAiComposeToneSlug
 
 # InputAiComposeToneSlug
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputAiComposeToneSlug`  
 Constructor ID: `0x1fa01357`  

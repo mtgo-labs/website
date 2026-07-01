@@ -5,7 +5,7 @@ description: TL method channels.getSendAs
 
 # channels.getSendAs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe785a43f`  
 Returns: [SendAsPeers](/tl/types#sendaspeers)

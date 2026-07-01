@@ -5,7 +5,7 @@ description: TL constructor updateAutoSaveSettings
 
 # UpdateAutoSaveSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateAutoSaveSettings`  
 Constructor ID: `0xec05b097`  

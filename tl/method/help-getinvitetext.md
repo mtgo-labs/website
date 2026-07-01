@@ -5,7 +5,7 @@ description: TL method help.getInviteText
 
 # help.getInviteText
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x4d392343`  
 Returns: [InviteText](/tl/types#invitetext)

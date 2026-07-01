@@ -5,7 +5,7 @@ description: TL method account.getUniqueGiftChatThemes
 
 # account.getUniqueGiftChatThemes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe42ce9c9`  
 Returns: [ChatThemes](/tl/types#chatthemes)

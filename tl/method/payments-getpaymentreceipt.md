@@ -5,7 +5,7 @@ description: TL method payments.getPaymentReceipt
 
 # payments.getPaymentReceipt
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2478d1cc`  
 Returns: [PaymentReceipt](/tl/types#paymentreceipt)

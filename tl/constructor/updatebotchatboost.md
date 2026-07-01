@@ -5,7 +5,7 @@ description: TL constructor updateBotChatBoost
 
 # UpdateBotChatBoost
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotChatBoost`  
 Constructor ID: `0x904dd49c`  

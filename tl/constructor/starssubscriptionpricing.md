@@ -5,7 +5,7 @@ description: TL constructor starsSubscriptionPricing
 
 # StarsSubscriptionPricing
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starsSubscriptionPricing`  
 Constructor ID: `0x05416d58`  

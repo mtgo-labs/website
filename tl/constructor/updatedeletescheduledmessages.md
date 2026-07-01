@@ -5,7 +5,7 @@ description: TL constructor updateDeleteScheduledMessages
 
 # UpdateDeleteScheduledMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateDeleteScheduledMessages`  
 Constructor ID: `0xf2a71983`  

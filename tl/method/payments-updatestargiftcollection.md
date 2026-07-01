@@ -5,7 +5,7 @@ description: TL method payments.updateStarGiftCollection
 
 # payments.updateStarGiftCollection
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x4fddbee7`  
 Returns: [StarGiftCollection](/tl/types#stargiftcollection)

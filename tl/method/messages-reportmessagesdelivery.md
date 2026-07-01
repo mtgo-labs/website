@@ -5,7 +5,7 @@ description: TL method messages.reportMessagesDelivery
 
 # messages.reportMessagesDelivery
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5a6d7395`  
 Returns: [Bool](/tl/types#bool)

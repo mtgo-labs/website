@@ -5,7 +5,7 @@ description: TL constructor keyboardButtonSimpleWebView
 
 # KeyboardButtonSimpleWebView
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `keyboardButtonSimpleWebView`  
 Constructor ID: `0xe15c4370`  

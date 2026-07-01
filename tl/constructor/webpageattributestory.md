@@ -5,7 +5,7 @@ description: TL constructor webPageAttributeStory
 
 # WebPageAttributeStory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `webPageAttributeStory`  
 Constructor ID: `0x2e94c3e7`  

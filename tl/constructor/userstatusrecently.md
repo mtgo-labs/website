@@ -5,7 +5,7 @@ description: TL constructor userStatusRecently
 
 # UserStatusRecently
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `userStatusRecently`  
 Constructor ID: `0x7b197dc8`  

@@ -5,7 +5,7 @@ description: TL method messages.checkHistoryImport
 
 # messages.checkHistoryImport
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x43fe19f3`  
 Returns: [HistoryImportParsed](/tl/types#historyimportparsed)

@@ -5,7 +5,7 @@ description: TL method bots.exportBotToken
 
 # bots.exportBotToken
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbd0d99eb`  
 Returns: [ExportedBotToken](/tl/types#exportedbottoken)

@@ -5,7 +5,7 @@ description: TL constructor messageReplyStoryHeader
 
 # MessageReplyStoryHeader
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageReplyStoryHeader`  
 Constructor ID: `0x0e5af939`  

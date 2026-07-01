@@ -5,7 +5,7 @@ description: TL constructor inputBotInlineResultGame
 
 # InputBotInlineResultGame
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputBotInlineResultGame`  
 Constructor ID: `0x4fa417f2`  

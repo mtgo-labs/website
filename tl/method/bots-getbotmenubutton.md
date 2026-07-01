@@ -5,7 +5,7 @@ description: TL method bots.getBotMenuButton
 
 # bots.getBotMenuButton
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9c60eb28`  
 Returns: [BotMenuButton](/tl/types#botmenubutton)

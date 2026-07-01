@@ -5,7 +5,7 @@ description: TL constructor auth.sentCodeTypeSetUpEmailRequired
 
 # SentCodeTypeSetUpEmailRequired
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.sentCodeTypeSetUpEmailRequired`  
 Constructor ID: `0xa5491dea`  

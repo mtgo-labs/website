@@ -5,7 +5,7 @@ description: TL constructor starGiftAuctionRound
 
 # StarGiftAuctionRound
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starGiftAuctionRound`  
 Constructor ID: `0x3aae0528`  

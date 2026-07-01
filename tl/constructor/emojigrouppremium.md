@@ -5,7 +5,7 @@ description: TL constructor emojiGroupPremium
 
 # EmojiGroupPremium
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `emojiGroupPremium`  
 Constructor ID: `0x093bcf34`  

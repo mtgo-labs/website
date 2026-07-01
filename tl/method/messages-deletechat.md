@@ -5,7 +5,7 @@ description: TL method messages.deleteChat
 
 # messages.deleteChat
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x5bd0ee50`  
 Returns: [Bool](/tl/types#bool)

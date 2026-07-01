@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionToggleSignatureProfiles
 
 # ChannelAdminLogEventActionToggleSignatureProfiles
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionToggleSignatureProfiles`  
 Constructor ID: `0x60a79c79`  

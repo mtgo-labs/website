@@ -5,7 +5,7 @@ description: TL method stories.getPeerStories
 
 # stories.getPeerStories
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2c4ada50`  
 Returns: [PeerStories](/tl/types#peerstories)

@@ -5,7 +5,7 @@ description: TL constructor availableReaction
 
 # AvailableReaction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `availableReaction`  
 Constructor ID: `0xc077ec01`  

@@ -5,7 +5,7 @@ description: TL method messages.togglePaidReactionPrivacy
 
 # messages.togglePaidReactionPrivacy
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x435885b5`  
 Returns: [Bool](/tl/types#bool)

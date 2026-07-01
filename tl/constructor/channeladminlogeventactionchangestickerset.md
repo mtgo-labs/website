@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionChangeStickerSet
 
 # ChannelAdminLogEventActionChangeStickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionChangeStickerSet`  
 Constructor ID: `0xb1c3caa7`  

@@ -5,7 +5,7 @@ description: TL constructor webPageAttributeStarGiftCollection
 
 # WebPageAttributeStarGiftCollection
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `webPageAttributeStarGiftCollection`  
 Constructor ID: `0x31cad303`  

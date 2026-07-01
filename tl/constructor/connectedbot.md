@@ -5,10 +5,10 @@ description: TL constructor connectedBot
 
 # ConnectedBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `connectedBot`  
-Constructor ID: `0xcd64636c`  
+Constructor ID: `0x033ed001`  
 Returns: [ConnectedBot](/tl/types#connectedbot)
 
 ## Fields
@@ -19,3 +19,6 @@ Returns: [ConnectedBot](/tl/types#connectedbot)
 | `bot_id` | `int64` | | 
 | `recipients` | `BusinessBotRecipients` | | 
 | `rights` | `BusinessBotRights` | | 
+| `device` | `string` *(flags.0)* | | 
+| `date` | `int32` *(flags.1)* | | 
+| `location` | `string` *(flags.2)* | | 

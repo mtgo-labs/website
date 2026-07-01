@@ -5,7 +5,7 @@ description: TL constructor channelParticipantAdmin
 
 # ChannelParticipantAdmin
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelParticipantAdmin`  
 Constructor ID: `0x34c3bb53`  

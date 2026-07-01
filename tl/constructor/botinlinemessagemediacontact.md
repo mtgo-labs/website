@@ -5,7 +5,7 @@ description: TL constructor botInlineMessageMediaContact
 
 # BotInlineMessageMediaContact
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botInlineMessageMediaContact`  
 Constructor ID: `0x18d1cdc2`  

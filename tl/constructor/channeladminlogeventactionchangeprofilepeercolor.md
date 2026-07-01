@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionChangeProfilePeerColor
 
 # ChannelAdminLogEventActionChangeProfilePeerColor
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionChangeProfilePeerColor`  
 Constructor ID: `0x5e477b25`  

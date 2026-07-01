@@ -5,7 +5,7 @@ description: TL method stories.editStory
 
 # stories.editStory
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2c63a72b`  
 Returns: [Updates](/tl/types#updates)

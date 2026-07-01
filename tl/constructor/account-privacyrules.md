@@ -5,7 +5,7 @@ description: TL constructor account.privacyRules
 
 # PrivacyRules
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.privacyRules`  
 Constructor ID: `0x50a04e45`  

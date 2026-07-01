@@ -5,7 +5,7 @@ description: TL constructor pageBlockSubheader
 
 # PageBlockSubheader
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockSubheader`  
 Constructor ID: `0xf12bb6e1`  

@@ -5,7 +5,7 @@ description: TL constructor secureValueErrorFrontSide
 
 # SecureValueErrorFrontSide
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueErrorFrontSide`  
 Constructor ID: `0x00be3dfa`  

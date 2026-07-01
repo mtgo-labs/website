@@ -5,7 +5,7 @@ description: TL constructor reportResultReported
 
 # ReportResultReported
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `reportResultReported`  
 Constructor ID: `0x8db33c4b`  

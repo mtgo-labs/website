@@ -5,7 +5,7 @@ description: TL constructor help.promoDataEmpty
 
 # PromoDataEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.promoDataEmpty`  
 Constructor ID: `0x98f6ac75`  

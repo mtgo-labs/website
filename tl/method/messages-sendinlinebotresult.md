@@ -5,7 +5,7 @@ description: TL method messages.sendInlineBotResult
 
 # messages.sendInlineBotResult
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc0cf7646`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL method channels.getChannelRecommendations
 
 # channels.getChannelRecommendations
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x25a71742`  
 Returns: [Chats](/tl/types#chats)

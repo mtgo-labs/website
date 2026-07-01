@@ -5,7 +5,7 @@ description: TL method channels.togglePreHistoryHidden
 
 # channels.togglePreHistoryHidden
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xeabbb94c`  
 Returns: [Updates](/tl/types#updates)

@@ -5,7 +5,7 @@ description: TL constructor messages.discussionMessage
 
 # DiscussionMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.discussionMessage`  
 Constructor ID: `0xa6341782`  

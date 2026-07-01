@@ -5,7 +5,7 @@ description: TL method account.getSavedMusicIds
 
 # account.getSavedMusicIds
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe09d5faf`  
 Returns: [SavedMusicIds](/tl/types#savedmusicids)

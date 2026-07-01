@@ -5,7 +5,7 @@ description: TL method messages.readReactions
 
 # messages.readReactions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9ec44f93`  
 Returns: [AffectedHistory](/tl/types#affectedhistory)

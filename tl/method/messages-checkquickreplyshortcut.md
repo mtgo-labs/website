@@ -5,7 +5,7 @@ description: TL method messages.checkQuickReplyShortcut
 
 # messages.checkQuickReplyShortcut
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf1d0fbd3`  
 Returns: [Bool](/tl/types#bool)

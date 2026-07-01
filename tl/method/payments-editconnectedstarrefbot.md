@@ -5,7 +5,7 @@ description: TL method payments.editConnectedStarRefBot
 
 # payments.editConnectedStarRefBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe4fca4a3`  
 Returns: [ConnectedStarRefBots](/tl/types#connectedstarrefbots)

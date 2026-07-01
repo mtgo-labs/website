@@ -5,7 +5,7 @@ description: TL constructor messages.dialogs
 
 # Dialogs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.dialogs`  
 Constructor ID: `0x15ba6c40`  

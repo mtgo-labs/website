@@ -5,7 +5,7 @@ description: TL method bots.updateStarRefProgram
 
 # bots.updateStarRefProgram
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x778b5ab3`  
 Returns: [StarRefProgram](/tl/types#starrefprogram)

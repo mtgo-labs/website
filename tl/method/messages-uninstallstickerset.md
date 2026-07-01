@@ -5,7 +5,7 @@ description: TL method messages.uninstallStickerSet
 
 # messages.uninstallStickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf96e55de`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL method users.getRequirementsToContact
 
 # users.getRequirementsToContact
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd89a83a3`  
 Returns: [RequirementToContact](/tl/types#requirementtocontact)

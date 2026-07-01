@@ -5,7 +5,7 @@ description: TL constructor messages.historyImport
 
 # HistoryImport
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.historyImport`  
 Constructor ID: `0x1662af0b`  

@@ -5,7 +5,7 @@ description: TL constructor messageEntityDiffDelete
 
 # MessageEntityDiffDelete
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityDiffDelete`  
 Constructor ID: `0x0652c1c5`  

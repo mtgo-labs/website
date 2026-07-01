@@ -5,7 +5,7 @@ description: TL method account.uploadRingtone
 
 # account.uploadRingtone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x831a83a2`  
 Returns: [Document](/tl/types#document)

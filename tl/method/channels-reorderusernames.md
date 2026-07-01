@@ -5,7 +5,7 @@ description: TL method channels.reorderUsernames
 
 # channels.reorderUsernames
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb45ced1d`  
 Returns: [Bool](/tl/types#bool)

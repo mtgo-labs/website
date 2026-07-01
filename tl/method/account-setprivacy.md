@@ -5,7 +5,7 @@ description: TL method account.setPrivacy
 
 # account.setPrivacy
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc9f81ce8`  
 Returns: [PrivacyRules](/tl/types#privacyrules)

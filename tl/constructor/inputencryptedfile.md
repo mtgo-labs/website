@@ -5,7 +5,7 @@ description: TL constructor inputEncryptedFile
 
 # InputEncryptedFile
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputEncryptedFile`  
 Constructor ID: `0x5a17b5e5`  

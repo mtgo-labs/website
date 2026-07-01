@@ -5,7 +5,7 @@ description: TL method stickers.renameStickerSet
 
 # stickers.renameStickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x124b1c00`  
 Returns: [StickerSet](/tl/types#stickerset)

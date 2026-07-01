@@ -5,7 +5,7 @@ description: TL constructor peerSelfLocated
 
 # PeerSelfLocated
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `peerSelfLocated`  
 Constructor ID: `0xf8ec284b`  

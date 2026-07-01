@@ -5,7 +5,7 @@ description: TL constructor messageEntityBankCard
 
 # MessageEntityBankCard
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityBankCard`  
 Constructor ID: `0x761e6af4`  

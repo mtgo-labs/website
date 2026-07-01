@@ -5,7 +5,7 @@ description: TL method payments.getStarGiftUpgradeAttributes
 
 # payments.getStarGiftUpgradeAttributes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x6d038b58`  
 Returns: [StarGiftUpgradeAttributes](/tl/types#stargiftupgradeattributes)

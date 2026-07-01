@@ -5,7 +5,7 @@ description: TL constructor messages.favedStickersNotModified
 
 # FavedStickersNotModified
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.favedStickersNotModified`  
 Constructor ID: `0x9e8fa6d3`  

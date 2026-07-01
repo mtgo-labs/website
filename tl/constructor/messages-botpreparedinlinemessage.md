@@ -5,7 +5,7 @@ description: TL constructor messages.botPreparedInlineMessage
 
 # BotPreparedInlineMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.botPreparedInlineMessage`  
 Constructor ID: `0x8ecf0511`  

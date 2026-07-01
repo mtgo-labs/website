@@ -5,7 +5,7 @@ description: TL constructor inputMediaPhoto
 
 # InputMediaPhoto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaPhoto`  
 Constructor ID: `0xe3af4434`  

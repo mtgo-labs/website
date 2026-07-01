@@ -5,7 +5,7 @@ description: TL constructor inputMediaDocumentExternal
 
 # InputMediaDocumentExternal
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaDocumentExternal`  
 Constructor ID: `0x779600f9`  

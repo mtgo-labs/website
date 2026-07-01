@@ -5,7 +5,7 @@ description: TL constructor chatForbidden
 
 # ChatForbidden
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatForbidden`  
 Constructor ID: `0x6592a1a7`  

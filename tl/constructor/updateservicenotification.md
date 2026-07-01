@@ -5,7 +5,7 @@ description: TL constructor updateServiceNotification
 
 # UpdateServiceNotification
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateServiceNotification`  
 Constructor ID: `0xebe46819`  

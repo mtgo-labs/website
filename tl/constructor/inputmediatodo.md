@@ -5,7 +5,7 @@ description: TL constructor inputMediaTodo
 
 # InputMediaTodo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaTodo`  
 Constructor ID: `0x9fc55fde`  

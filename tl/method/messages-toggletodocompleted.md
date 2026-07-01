@@ -5,7 +5,7 @@ description: TL method messages.toggleTodoCompleted
 
 # messages.toggleTodoCompleted
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd3e03124`  
 Returns: [Updates](/tl/types#updates)

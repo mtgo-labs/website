@@ -5,7 +5,7 @@ description: TL constructor inputStickeredMediaDocument
 
 # InputStickeredMediaDocument
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputStickeredMediaDocument`  
 Constructor ID: `0x0438865b`  

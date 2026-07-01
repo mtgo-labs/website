@@ -5,7 +5,7 @@ description: TL method bots.deletePreviewMedia
 
 # bots.deletePreviewMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2d0135b3`  
 Returns: [Bool](/tl/types#bool)

@@ -5,7 +5,7 @@ description: TL constructor updatePeerBlocked
 
 # UpdatePeerBlocked
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatePeerBlocked`  
 Constructor ID: `0xebe07752`  

@@ -5,7 +5,7 @@ description: TL method phone.getGroupCallJoinAs
 
 # phone.getGroupCallJoinAs
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xef7c213a`  
 Returns: [JoinAsPeers](/tl/types#joinaspeers)

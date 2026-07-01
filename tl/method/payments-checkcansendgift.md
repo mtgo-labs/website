@@ -5,7 +5,7 @@ description: TL method payments.checkCanSendGift
 
 # payments.checkCanSendGift
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc0c4edc9`  
 Returns: [CheckCanSendGiftResult](/tl/types#checkcansendgiftresult)

@@ -5,7 +5,7 @@ description: TL constructor chatInvitePublicJoinRequests
 
 # ChatInvitePublicJoinRequests
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `chatInvitePublicJoinRequests`  
 Constructor ID: `0xed107ab7`  

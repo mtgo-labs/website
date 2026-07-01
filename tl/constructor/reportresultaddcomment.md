@@ -5,7 +5,7 @@ description: TL constructor reportResultAddComment
 
 # ReportResultAddComment
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `reportResultAddComment`  
 Constructor ID: `0x6f09ac31`  

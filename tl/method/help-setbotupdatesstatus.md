@@ -5,7 +5,7 @@ description: TL method help.setBotUpdatesStatus
 
 # help.setBotUpdatesStatus
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xec22cfcd`  
 Returns: [Bool](/tl/types#bool)

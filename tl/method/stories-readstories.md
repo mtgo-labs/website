@@ -5,7 +5,7 @@ description: TL method stories.readStories
 
 # stories.readStories
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xa556dac8`  
 Returns: [Int](/tl/types#int)

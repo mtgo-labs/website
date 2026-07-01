@@ -5,7 +5,7 @@ description: TL constructor payments.starGiftActiveAuctions
 
 # StarGiftActiveAuctions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.starGiftActiveAuctions`  
 Constructor ID: `0xaef6abbc`  

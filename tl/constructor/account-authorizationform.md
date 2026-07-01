@@ -5,7 +5,7 @@ description: TL constructor account.authorizationForm
 
 # AuthorizationForm
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `account.authorizationForm`  
 Constructor ID: `0xad2e1cd8`  

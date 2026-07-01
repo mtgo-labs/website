@@ -5,7 +5,7 @@ description: TL constructor missingInvitee
 
 # MissingInvitee
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `missingInvitee`  
 Constructor ID: `0x628c9224`  

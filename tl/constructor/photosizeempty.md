@@ -5,7 +5,7 @@ description: TL constructor photoSizeEmpty
 
 # PhotoSizeEmpty
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `photoSizeEmpty`  
 Constructor ID: `0x0e17e23c`  

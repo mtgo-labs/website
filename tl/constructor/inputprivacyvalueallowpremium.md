@@ -5,7 +5,7 @@ description: TL constructor inputPrivacyValueAllowPremium
 
 # InputPrivacyValueAllowPremium
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPrivacyValueAllowPremium`  
 Constructor ID: `0x77cdc9f1`  

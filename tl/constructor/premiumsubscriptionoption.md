@@ -5,7 +5,7 @@ description: TL constructor premiumSubscriptionOption
 
 # PremiumSubscriptionOption
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `premiumSubscriptionOption`  
 Constructor ID: `0x5f2d1df2`  

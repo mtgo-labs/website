@@ -5,7 +5,7 @@ description: TL constructor auth.authorizationSignUpRequired
 
 # AuthorizationSignUpRequired
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.authorizationSignUpRequired`  
 Constructor ID: `0x44747e9a`  

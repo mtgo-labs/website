@@ -5,7 +5,7 @@ description: TL constructor stickerSet
 
 # StickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stickerSet`  
 Constructor ID: `0x2dd14edc`  

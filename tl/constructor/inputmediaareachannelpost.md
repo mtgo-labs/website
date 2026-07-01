@@ -5,7 +5,7 @@ description: TL constructor inputMediaAreaChannelPost
 
 # InputMediaAreaChannelPost
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaAreaChannelPost`  
 Constructor ID: `0x2271f2bf`  

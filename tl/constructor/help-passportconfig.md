@@ -5,7 +5,7 @@ description: TL constructor help.passportConfig
 
 # PassportConfig
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.passportConfig`  
 Constructor ID: `0xa098d6af`  

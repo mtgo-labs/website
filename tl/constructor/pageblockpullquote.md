@@ -5,7 +5,7 @@ description: TL constructor pageBlockPullquote
 
 # PageBlockPullquote
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockPullquote`  
 Constructor ID: `0x4f4456d3`  

@@ -5,7 +5,7 @@ description: TL constructor boolTrue
 
 # BoolTrue
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `boolTrue`  
 Constructor ID: `0x997275b5`  

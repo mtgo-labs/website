@@ -5,7 +5,7 @@ description: TL method contacts.getTopPeers
 
 # contacts.getTopPeers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x973478b6`  
 Returns: [TopPeers](/tl/types#toppeers)

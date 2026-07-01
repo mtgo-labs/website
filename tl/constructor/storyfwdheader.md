@@ -5,7 +5,7 @@ description: TL constructor storyFwdHeader
 
 # StoryFwdHeader
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `storyFwdHeader`  
 Constructor ID: `0xb826e150`  

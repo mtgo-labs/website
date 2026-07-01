@@ -5,7 +5,7 @@ description: TL method messages.getSearchResultsPositions
 
 # messages.getSearchResultsPositions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9c7f2f10`  
 Returns: [SearchResultsPositions](/tl/types#searchresultspositions)

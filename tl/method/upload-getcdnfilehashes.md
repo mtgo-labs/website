@@ -5,7 +5,7 @@ description: TL method upload.getCdnFileHashes
 
 # upload.getCdnFileHashes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x91dc3f31`  
 Returns: [FileHash](/tl/types#filehash)

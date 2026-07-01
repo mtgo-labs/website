@@ -5,7 +5,7 @@ description: TL constructor help.appConfig
 
 # AppConfig
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.appConfig`  
 Constructor ID: `0xdd18782e`  

@@ -5,7 +5,7 @@ description: TL constructor updateDialogPinned
 
 # UpdateDialogPinned
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateDialogPinned`  
 Constructor ID: `0x6e6fe51c`  

@@ -5,7 +5,7 @@ description: TL method stories.togglePinned
 
 # stories.togglePinned
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x9a75a1ef`  
 Returns: [Int](/tl/types#int)

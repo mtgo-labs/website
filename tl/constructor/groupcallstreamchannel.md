@@ -5,7 +5,7 @@ description: TL constructor groupCallStreamChannel
 
 # GroupCallStreamChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `groupCallStreamChannel`  
 Constructor ID: `0x80eb48af`  

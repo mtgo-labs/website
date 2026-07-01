@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionToggleGroupCallSetting
 
 # ChannelAdminLogEventActionToggleGroupCallSetting
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionToggleGroupCallSetting`  
 Constructor ID: `0x56d6a247`  

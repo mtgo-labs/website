@@ -5,7 +5,7 @@ description: TL method messages.getTopReactions
 
 # messages.getTopReactions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbb8125ba`  
 Returns: [Reactions](/tl/types#reactions)

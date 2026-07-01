@@ -5,7 +5,7 @@ description: TL constructor pollResults
 
 # PollResults
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pollResults`  
 Constructor ID: `0xba7bb15e`  

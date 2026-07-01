@@ -5,7 +5,7 @@ description: TL method payments.applyGiftCode
 
 # payments.applyGiftCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf6e26854`  
 Returns: [Updates](/tl/types#updates)

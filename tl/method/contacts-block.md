@@ -5,7 +5,7 @@ description: TL method contacts.block
 
 # contacts.block
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2e2e8734`  
 Returns: [Bool](/tl/types#bool)

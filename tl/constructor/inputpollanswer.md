@@ -5,7 +5,7 @@ description: TL constructor inputPollAnswer
 
 # InputPollAnswer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputPollAnswer`  
 Constructor ID: `0x199fed96`  

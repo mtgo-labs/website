@@ -5,7 +5,7 @@ description: TL method invokeWithTakeout
 
 # invokeWithTakeout
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xaca9fd2e`  
 Returns: [X](/tl/types#x)

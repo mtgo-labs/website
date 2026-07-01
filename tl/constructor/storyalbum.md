@@ -5,7 +5,7 @@ description: TL constructor storyAlbum
 
 # StoryAlbum
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `storyAlbum`  
 Constructor ID: `0x9325705a`  

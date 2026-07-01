@@ -5,7 +5,7 @@ description: TL method photos.uploadProfilePhoto
 
 # photos.uploadProfilePhoto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x0388a3b5`  
 Returns: [Photo](/tl/types#photo)

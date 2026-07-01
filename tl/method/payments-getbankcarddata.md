@@ -5,7 +5,7 @@ description: TL method payments.getBankCardData
 
 # payments.getBankCardData
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x2e79d779`  
 Returns: [BankCardData](/tl/types#bankcarddata)

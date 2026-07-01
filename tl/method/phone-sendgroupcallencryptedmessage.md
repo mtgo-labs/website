@@ -5,7 +5,7 @@ description: TL method phone.sendGroupCallEncryptedMessage
 
 # phone.sendGroupCallEncryptedMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xe5afa56d`  
 Returns: [Bool](/tl/types#bool)

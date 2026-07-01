@@ -5,7 +5,7 @@ description: TL constructor channelAdminLogEventActionEditMessage
 
 # ChannelAdminLogEventActionEditMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `channelAdminLogEventActionEditMessage`  
 Constructor ID: `0x709b2405`  

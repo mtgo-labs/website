@@ -5,7 +5,7 @@ description: TL constructor updateReadMonoForumInbox
 
 # UpdateReadMonoForumInbox
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateReadMonoForumInbox`  
 Constructor ID: `0x77b0e372`  

@@ -5,7 +5,7 @@ description: TL constructor privacyValueAllowContacts
 
 # PrivacyValueAllowContacts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyValueAllowContacts`  
 Constructor ID: `0xfffe1bac`  

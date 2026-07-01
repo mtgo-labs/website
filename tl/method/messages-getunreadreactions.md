@@ -5,7 +5,7 @@ description: TL method messages.getUnreadReactions
 
 # messages.getUnreadReactions
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xbd7f90ac`  
 Returns: [Messages](/tl/types#messages)

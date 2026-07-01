@@ -5,7 +5,7 @@ description: TL constructor starsTransactionPeerFragment
 
 # StarsTransactionPeerFragment
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `starsTransactionPeerFragment`  
 Constructor ID: `0xe92fd902`  

@@ -5,7 +5,7 @@ description: TL method messages.checkUrlAuthMatchCode
 
 # messages.checkUrlAuthMatchCode
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc9a47b0b`  
 Returns: [Bool](/tl/types#bool)

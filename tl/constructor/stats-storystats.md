@@ -5,7 +5,7 @@ description: TL constructor stats.storyStats
 
 # StoryStats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stats.storyStats`  
 Constructor ID: `0x50cd067c`  

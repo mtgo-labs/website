@@ -5,7 +5,7 @@ description: TL constructor topPeerCategoryBotsInline
 
 # TopPeerCategoryBotsInline
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `topPeerCategoryBotsInline`  
 Constructor ID: `0x148677e2`  

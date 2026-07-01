@@ -5,7 +5,7 @@ description: TL constructor messages.availableEffects
 
 # AvailableEffects
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.availableEffects`  
 Constructor ID: `0xbddb616e`  

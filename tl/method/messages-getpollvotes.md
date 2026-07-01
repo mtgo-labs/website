@@ -5,7 +5,7 @@ description: TL method messages.getPollVotes
 
 # messages.getPollVotes
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb86e380e`  
 Returns: [VotesList](/tl/types#voteslist)

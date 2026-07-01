@@ -5,7 +5,7 @@ description: TL constructor payments.starGiftCollectionsNotModified
 
 # StarGiftCollectionsNotModified
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.starGiftCollectionsNotModified`  
 Constructor ID: `0xa0ba4f17`  

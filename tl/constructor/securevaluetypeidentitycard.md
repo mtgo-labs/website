@@ -5,7 +5,7 @@ description: TL constructor secureValueTypeIdentityCard
 
 # SecureValueTypeIdentityCard
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `secureValueTypeIdentityCard`  
 Constructor ID: `0xa0d0744b`  

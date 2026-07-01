@@ -5,7 +5,7 @@ description: TL constructor payments.uniqueStarGift
 
 # UniqueStarGift
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `payments.uniqueStarGift`  
 Constructor ID: `0x416c56e8`  

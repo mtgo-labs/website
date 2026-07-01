@@ -5,7 +5,7 @@ description: TL constructor bots.previewInfo
 
 # PreviewInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `bots.previewInfo`  
 Constructor ID: `0x0ca71d64`  

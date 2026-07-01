@@ -5,7 +5,7 @@ description: TL method account.cancelPasswordEmail
 
 # account.cancelPasswordEmail
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xc1cbd5b6`  
 Returns: [Bool](/tl/types#bool)

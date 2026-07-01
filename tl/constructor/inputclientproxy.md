@@ -5,7 +5,7 @@ description: TL constructor inputClientProxy
 
 # InputClientProxy
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputClientProxy`  
 Constructor ID: `0x75588b3f`  

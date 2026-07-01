@@ -5,7 +5,7 @@ description: TL method account.reportProfilePhoto
 
 # account.reportProfilePhoto
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xfa8cc6f5`  
 Returns: [Bool](/tl/types#bool)

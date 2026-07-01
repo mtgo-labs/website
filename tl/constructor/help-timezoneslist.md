@@ -5,7 +5,7 @@ description: TL constructor help.timezonesList
 
 # TimezonesList
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.timezonesList`  
 Constructor ID: `0x7b74ed71`  

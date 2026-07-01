@@ -5,7 +5,7 @@ description: TL constructor stats.megagroupStats
 
 # MegagroupStats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stats.megagroupStats`  
 Constructor ID: `0xef7ff916`  

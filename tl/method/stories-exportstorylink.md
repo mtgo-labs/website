@@ -5,7 +5,7 @@ description: TL method stories.exportStoryLink
 
 # stories.exportStoryLink
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7b8def20`  
 Returns: [ExportedStoryLink](/tl/types#exportedstorylink)

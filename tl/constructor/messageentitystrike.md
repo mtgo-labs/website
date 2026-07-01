@@ -5,7 +5,7 @@ description: TL constructor messageEntityStrike
 
 # MessageEntityStrike
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityStrike`  
 Constructor ID: `0xbf0693d4`  

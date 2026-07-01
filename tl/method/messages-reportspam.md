@@ -5,7 +5,7 @@ description: TL method messages.reportSpam
 
 # messages.reportSpam
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xcf1592db`  
 Returns: [Bool](/tl/types#bool)

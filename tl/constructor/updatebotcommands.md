@@ -5,7 +5,7 @@ description: TL constructor updateBotCommands
 
 # UpdateBotCommands
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotCommands`  
 Constructor ID: `0x4d712f2e`  

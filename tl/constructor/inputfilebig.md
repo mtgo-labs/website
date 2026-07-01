@@ -5,7 +5,7 @@ description: TL constructor inputFileBig
 
 # InputFileBig
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputFileBig`  
 Constructor ID: `0xfa4f0bb5`  

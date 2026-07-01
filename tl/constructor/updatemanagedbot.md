@@ -5,7 +5,7 @@ description: TL constructor updateManagedBot
 
 # UpdateManagedBot
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateManagedBot`  
 Constructor ID: `0x4880ed9a`  

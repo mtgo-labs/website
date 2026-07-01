@@ -5,7 +5,7 @@ description: TL constructor sendMessageTextDraftAction
 
 # SendMessageTextDraftAction
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `sendMessageTextDraftAction`  
 Constructor ID: `0x376d975c`  

@@ -5,7 +5,7 @@ description: TL constructor codeSettings
 
 # CodeSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `codeSettings`  
 Constructor ID: `0xad253d78`  

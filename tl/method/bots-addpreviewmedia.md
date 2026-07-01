@@ -5,7 +5,7 @@ description: TL method bots.addPreviewMedia
 
 # bots.addPreviewMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x17aeb75a`  
 Returns: [BotPreviewMedia](/tl/types#botpreviewmedia)

@@ -5,7 +5,7 @@ description: TL method channels.leaveChannel
 
 # channels.leaveChannel
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf836aa95`  
 Returns: [Updates](/tl/types#updates)

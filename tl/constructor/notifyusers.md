@@ -5,7 +5,7 @@ description: TL constructor notifyUsers
 
 # NotifyUsers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `notifyUsers`  
 Constructor ID: `0xb4c83b4c`  

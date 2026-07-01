@@ -5,7 +5,7 @@ description: TL constructor messageActionSuggestedPostRefund
 
 # MessageActionSuggestedPostRefund
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageActionSuggestedPostRefund`  
 Constructor ID: `0x69f916f8`  

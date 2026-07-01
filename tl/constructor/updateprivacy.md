@@ -5,7 +5,7 @@ description: TL constructor updatePrivacy
 
 # UpdatePrivacy
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updatePrivacy`  
 Constructor ID: `0xee3b272a`  

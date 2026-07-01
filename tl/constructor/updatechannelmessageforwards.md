@@ -5,7 +5,7 @@ description: TL constructor updateChannelMessageForwards
 
 # UpdateChannelMessageForwards
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateChannelMessageForwards`  
 Constructor ID: `0xd29a27f4`  

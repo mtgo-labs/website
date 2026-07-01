@@ -5,7 +5,7 @@ description: TL constructor attachMenuPeerTypeBroadcast
 
 # AttachMenuPeerTypeBroadcast
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `attachMenuPeerTypeBroadcast`  
 Constructor ID: `0x7bfbdefc`  

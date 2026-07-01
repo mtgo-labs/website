@@ -5,7 +5,7 @@ description: TL constructor updateGroupCallChainBlocks
 
 # UpdateGroupCallChainBlocks
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateGroupCallChainBlocks`  
 Constructor ID: `0xa477288f`  

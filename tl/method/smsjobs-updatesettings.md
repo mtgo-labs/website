@@ -5,7 +5,7 @@ description: TL method smsjobs.updateSettings
 
 # smsjobs.updateSettings
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x093fa0bf`  
 Returns: [Bool](/tl/types#bool)

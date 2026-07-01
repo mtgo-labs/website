@@ -5,7 +5,7 @@ description: TL constructor inputReportReasonPornography
 
 # InputReportReasonPornography
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputReportReasonPornography`  
 Constructor ID: `0x2e59d922`  

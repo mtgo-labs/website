@@ -5,7 +5,7 @@ description: TL constructor auth.codeTypeFragmentSms
 
 # CodeTypeFragmentSms
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `auth.codeTypeFragmentSms`  
 Constructor ID: `0x06ed998c`  

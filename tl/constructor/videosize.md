@@ -5,7 +5,7 @@ description: TL constructor videoSize
 
 # VideoSize
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `videoSize`  
 Constructor ID: `0xde33b094`  

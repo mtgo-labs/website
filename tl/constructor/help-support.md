@@ -5,7 +5,7 @@ description: TL constructor help.support
 
 # Support
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `help.support`  
 Constructor ID: `0x17c6b5f6`  

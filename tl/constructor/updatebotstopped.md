@@ -5,7 +5,7 @@ description: TL constructor updateBotStopped
 
 # UpdateBotStopped
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `updateBotStopped`  
 Constructor ID: `0xc4870a49`  

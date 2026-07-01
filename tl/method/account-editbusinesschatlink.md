@@ -5,7 +5,7 @@ description: TL method account.editBusinessChatLink
 
 # account.editBusinessChatLink
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x8c3410af`  
 Returns: [BusinessChatLink](/tl/types#businesschatlink)

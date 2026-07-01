@@ -5,7 +5,7 @@ description: TL method channels.editTitle
 
 # channels.editTitle
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x566decd0`  
 Returns: [Updates](/tl/types#updates)

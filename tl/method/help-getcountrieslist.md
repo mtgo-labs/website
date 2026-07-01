@@ -5,7 +5,7 @@ description: TL method help.getCountriesList
 
 # help.getCountriesList
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x735787a8`  
 Returns: [CountriesList](/tl/types#countrieslist)

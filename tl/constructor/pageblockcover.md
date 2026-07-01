@@ -5,7 +5,7 @@ description: TL constructor pageBlockCover
 
 # PageBlockCover
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockCover`  
 Constructor ID: `0x39f23300`  

@@ -5,7 +5,7 @@ description: TL method contacts.getSponsoredPeers
 
 # contacts.getSponsoredPeers
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xb6c8c393`  
 Returns: [SponsoredPeers](/tl/types#sponsoredpeers)

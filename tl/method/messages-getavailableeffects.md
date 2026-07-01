@@ -5,7 +5,7 @@ description: TL method messages.getAvailableEffects
 
 # messages.getAvailableEffects
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xdea20a39`  
 Returns: [AvailableEffects](/tl/types#availableeffects)

@@ -5,7 +5,7 @@ description: TL method smsjobs.getStatus
 
 # smsjobs.getStatus
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x10a698e8`  
 Returns: [Status](/tl/types#status)

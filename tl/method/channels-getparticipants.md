@@ -5,7 +5,7 @@ description: TL method channels.getParticipants
 
 # channels.getParticipants
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x77ced9d0`  
 Returns: [ChannelParticipants](/tl/types#channelparticipants)

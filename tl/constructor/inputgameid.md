@@ -5,7 +5,7 @@ description: TL constructor inputGameID
 
 # InputGameID
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputGameID`  
 Constructor ID: `0x032c3e77`  

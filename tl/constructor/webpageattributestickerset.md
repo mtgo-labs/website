@@ -5,7 +5,7 @@ description: TL constructor webPageAttributeStickerSet
 
 # WebPageAttributeStickerSet
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `webPageAttributeStickerSet`  
 Constructor ID: `0x50cc03d3`  

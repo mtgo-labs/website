@@ -5,7 +5,7 @@ description: TL constructor sendAsPeer
 
 # SendAsPeer
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `sendAsPeer`  
 Constructor ID: `0xb81c7034`  

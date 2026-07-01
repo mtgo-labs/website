@@ -5,7 +5,7 @@ description: TL method updates.getDifference
 
 # updates.getDifference
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x19c2f763`  
 Returns: [Difference](/tl/types#difference)

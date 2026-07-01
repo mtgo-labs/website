@@ -5,7 +5,7 @@ description: TL constructor inputMessagesFilterPoll
 
 # InputMessagesFilterPoll
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMessagesFilterPoll`  
 Constructor ID: `0xfa2bc90a`  

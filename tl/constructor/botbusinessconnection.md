@@ -5,7 +5,7 @@ description: TL constructor botBusinessConnection
 
 # BotBusinessConnection
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `botBusinessConnection`  
 Constructor ID: `0x8f34b2f5`  

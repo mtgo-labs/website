@@ -5,10 +5,10 @@ description: TL method messages.setBotGuestChatResult
 
 # messages.setBotGuestChatResult
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
-Constructor ID: `0x052b08db`  
-Returns: [Bool](/tl/types#bool)
+Constructor ID: `0xb8f106e3`  
+Returns: [InputBotInlineMessageID](/tl/types#inputbotinlinemessageid)
 
 ## Parameters
 

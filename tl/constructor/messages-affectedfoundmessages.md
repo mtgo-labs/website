@@ -5,7 +5,7 @@ description: TL constructor messages.affectedFoundMessages
 
 # AffectedFoundMessages
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messages.affectedFoundMessages`  
 Constructor ID: `0xef8d3e6c`  

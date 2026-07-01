@@ -5,7 +5,7 @@ description: TL method messages.getForumTopicsByID
 
 # messages.getForumTopicsByID
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xaf0a4a08`  
 Returns: [ForumTopics](/tl/types#forumtopics)

@@ -5,7 +5,7 @@ description: TL method phone.getGroupCallChainBlocks
 
 # phone.getGroupCallChainBlocks
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xee9f88a6`  
 Returns: [Updates](/tl/types#updates)

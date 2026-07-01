@@ -5,7 +5,7 @@ description: TL constructor messageReactor
 
 # MessageReactor
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageReactor`  
 Constructor ID: `0x4ba3a95a`  

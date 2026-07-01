@@ -5,7 +5,7 @@ description: TL constructor inputMediaPaidMedia
 
 # InputMediaPaidMedia
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputMediaPaidMedia`  
 Constructor ID: `0xc4103386`  

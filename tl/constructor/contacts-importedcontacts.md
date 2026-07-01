@@ -5,7 +5,7 @@ description: TL constructor contacts.importedContacts
 
 # ImportedContacts
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `contacts.importedContacts`  
 Constructor ID: `0x77d01c3b`  

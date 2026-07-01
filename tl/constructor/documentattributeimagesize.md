@@ -5,7 +5,7 @@ description: TL constructor documentAttributeImageSize
 
 # DocumentAttributeImageSize
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `documentAttributeImageSize`  
 Constructor ID: `0x6c37c15c`  

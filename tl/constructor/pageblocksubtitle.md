@@ -5,7 +5,7 @@ description: TL constructor pageBlockSubtitle
 
 # PageBlockSubtitle
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `pageBlockSubtitle`  
 Constructor ID: `0x8ffa9a1f`  

@@ -5,7 +5,7 @@ description: TL method payments.clearSavedInfo
 
 # payments.clearSavedInfo
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xd83d70c1`  
 Returns: [Bool](/tl/types#bool)

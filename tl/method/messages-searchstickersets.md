@@ -5,7 +5,7 @@ description: TL method messages.searchStickerSets
 
 # messages.searchStickerSets
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x35705b8a`  
 Returns: [FoundStickerSets](/tl/types#foundstickersets)

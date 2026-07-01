@@ -5,7 +5,7 @@ description: TL constructor contacts.blocked
 
 # Blocked
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `contacts.blocked`  
 Constructor ID: `0x0ade1591`  

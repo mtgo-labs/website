@@ -5,10 +5,10 @@ description: TL constructor draftMessage
 
 # DraftMessage
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `draftMessage`  
-Constructor ID: `0x96eaa5eb`  
+Constructor ID: `0x60fe3294`  
 Returns: [DraftMessage](/tl/types#draftmessage)
 
 ## Fields
@@ -25,3 +25,4 @@ Returns: [DraftMessage](/tl/types#draftmessage)
 | `date` | `int32` | | 
 | `effect` | `int64` *(flags.7)* | | 
 | `suggested_post` | `SuggestedPost` *(flags.8)* | | 
+| `rich_message` | `RichMessage` *(flags.9)* | | 

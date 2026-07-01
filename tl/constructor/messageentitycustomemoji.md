@@ -5,7 +5,7 @@ description: TL constructor messageEntityCustomEmoji
 
 # MessageEntityCustomEmoji
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `messageEntityCustomEmoji`  
 Constructor ID: `0xc8cf05f8`  

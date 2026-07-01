@@ -5,7 +5,7 @@ description: TL constructor stories.storyViews
 
 # StoryViews
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stories.storyViews`  
 Constructor ID: `0xde9eed1d`  

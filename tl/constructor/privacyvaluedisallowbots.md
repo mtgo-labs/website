@@ -5,7 +5,7 @@ description: TL constructor privacyValueDisallowBots
 
 # PrivacyValueDisallowBots
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `privacyValueDisallowBots`  
 Constructor ID: `0xf6a5f82f`  

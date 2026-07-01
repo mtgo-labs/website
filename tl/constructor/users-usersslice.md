@@ -5,7 +5,7 @@ description: TL constructor users.usersSlice
 
 # UsersSlice
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `users.usersSlice`  
 Constructor ID: `0x315a4974`  

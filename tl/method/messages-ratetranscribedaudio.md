@@ -5,7 +5,7 @@ description: TL method messages.rateTranscribedAudio
 
 # messages.rateTranscribedAudio
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x7f1d072f`  
 Returns: [Bool](/tl/types#bool)

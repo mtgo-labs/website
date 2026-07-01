@@ -5,7 +5,7 @@ description: TL constructor inputFileStoryDocument
 
 # InputFileStoryDocument
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `inputFileStoryDocument`  
 Constructor ID: `0x62dc8b48`  

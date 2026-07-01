@@ -5,7 +5,7 @@ description: TL method account.deletePasskey
 
 # account.deletePasskey
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0xf5b5563f`  
 Returns: [Bool](/tl/types#bool)

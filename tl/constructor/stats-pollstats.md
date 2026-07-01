@@ -5,7 +5,7 @@ description: TL constructor stats.pollStats
 
 # PollStats
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 TL name: `stats.pollStats`  
 Constructor ID: `0x2999beed`  

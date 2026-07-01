@@ -5,7 +5,7 @@ description: TL method aicompose.createTone
 
 # aicompose.createTone
 
-<span class="layer-badge">Layer 225</span>
+<span class="layer-badge">Layer 227</span>
 
 Constructor ID: `0x4aa83913`  
 Returns: [AiComposeTone](/tl/types#aicomposetone)
