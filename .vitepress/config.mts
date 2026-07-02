@@ -30,6 +30,8 @@ export default defineConfig({
       { text: "CLI", link: "/cli/" },
       { text: "Bot API", link: "/bot-api/" },
       { text: "IPC", link: "/ipc/" },
+      { text: "Device Manager", link: "/device-manager/" },
+      { text: "Session Converter", link: "/session-converter/" },
       { text: "Plugins", link: "/plugins/" },
       { text: "TL Reference", link: "/tl/types" },
       { text: "Examples", link: "/examples/" },
@@ -247,6 +249,27 @@ export default defineConfig({
             { text: "Protocol Reference", link: "/ipc/protocol" },
             { text: "Update Events", link: "/ipc/updates" },
             { text: "Client Examples", link: "/ipc/examples" },
+          ],
+        },
+      ],
+      "/device-manager/": [
+        {
+          text: "device-manager",
+          items: [
+            { text: "Overview", link: "/device-manager/" },
+            { text: "Device Types & Profiles", link: "/device-manager/profiles" },
+            { text: "API Reference", link: "/device-manager/api" },
+          ],
+        },
+      ],
+      "/session-converter/": [
+        {
+          text: "session-converter",
+          items: [
+            { text: "Overview", link: "/session-converter/" },
+            { text: "Format Reference", link: "/session-converter/formats" },
+            { text: "CLI", link: "/session-converter/cli" },
+            { text: "Go API", link: "/session-converter/api" },
           ],
         },
       ],
