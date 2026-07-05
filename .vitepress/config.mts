@@ -35,6 +35,7 @@ export default defineConfig({
           { text: "IPC", link: "/ipc/" },
           { text: "Device Manager", link: "/device-manager/" },
           { text: "Session Converter", link: "/session-converter/" },
+          { text: "WASM", link: "/wasm/" },
         ],
       },
       { text: "Plugins", link: "/plugins/" },
@@ -275,6 +276,16 @@ export default defineConfig({
             { text: "Format Reference", link: "/session-converter/formats" },
             { text: "CLI", link: "/session-converter/cli" },
             { text: "Go API", link: "/session-converter/api" },
+          ],
+        },
+      ],
+
+      "/wasm/": [
+        {
+          text: "mtgo-wasm",
+          items: [
+            { text: "Overview", link: "/wasm/" },
+            { text: "API Reference", link: "/wasm/api" },
           ],
         },
       ],
