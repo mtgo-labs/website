@@ -1,47 +1,47 @@
 ---
 title: API Reference
-description: "@mtgo-labs/wasm JavaScript API — createClient, connect, invoke, me, and disconnect."
+description: "@mtgo-labs/wasm JavaScript API — full method reference for createClient, connect, convenience methods, and TL namespace proxy."
 ---
 
 # API Reference
 
-The `@mtgo-labs/wasm` bridge exposes a minimal JavaScript API through the global `MTGoWasm` object (created by `load()`).
-
 ## `MTGoWasm.createClient(opts) → client`
 
-Creates a new mtgo client. Does not connect — call `client.connect()` to establish the WebSocket transport and authenticate.
+Creates a new mtgo client. Does not connect — call `client.connect()`.
 
-| Option           | Type       | Required | Description                                      |
-|------------------|------------|----------|--------------------------------------------------|
-| `apiID`          | `number`   | yes\*    | Telegram API ID from my.telegram.org             |
-| `apiHash`        | `string`   | yes\*    | Telegram API hash                                |
-| `botToken`       | `string`   | no       | Bot token — triggers bot auth on connect         |
-| `sessionString`  | `string`   | no       | Pre-authenticated session (Telethon/Pyrogram/etc)|
-| `phoneNumber`    | `string`   | no       | Phone number for interactive user login          |
-| `codeFunc`       | `function` | no       | `async (phone) => code` — OTP provider           |
-| `passwordFunc`   | `function` | no       | `async (hint) => password` — 2FA password        |
-
-\* `apiID`/`apiHash` optional only when `sessionString` carries them.
+| Option | Type | Description |
+|---|---|---|
+| `apiID` | `number` | Telegram API ID from my.telegram.org |
+| `apiHash` | `string` | Telegram API hash |
+| `botToken` | `string` | Bot token — triggers bot auth on connect |
+| `sessionString` | `string` | Pre-authenticated session (Telethon/Pyrogram/GramJS/etc) |
+| `phoneNumber` | `string` | Phone for interactive user login |
+| `codeFunc` | `(phone: string) => string \| Promise<string>` | OTP provider |
+| `passwordFunc` | `(hint: string) => string \| Promise<string>` | 2FA password |
 
 ## `client.connect() → Promise<void>`
 
-Establishes the WebSocket transport, performs the DH key exchange, and authenticates (bot login or session restore).
-
-## `client.invoke(method, params) → Promise<object>`
-
-Invokes a Telegram TL method by name. `method` is the TL function name (e.g. `"messages.sendMessage"`). `params` is a plain JS object using snake_case keys matching the TL schema. Returns the parsed response.
-
-```js
-const result = await client.invoke("messages.sendMessage", {
-  peer: { _: "inputPeerSelf" },
-  message: "Hello from the browser!",
-  random_id: Math.floor(Math.random() * 0x7FFFFFFF),
-});
-```
+Establishes the WebSocket transport, DH key exchange, and authenticates (bot, session, or interactive login).
 
 ## `client.me() → object | null`
 
-Returns the authenticated user (`{ id, username, first_name, last_name, is_bot }`), or `null` if not connected.
+Returns the cached authenticated user, or `null` if not connected. Synchronous, no RPC.
+
+```js
+tg.me() // { id, username, first_name, last_name, is_bot }
+```
+
+## `client.invoke(method, params) → Promise<object>`
+
+Invokes a Telegram TL method by name with snake_case params.
+
+```js
+await tg.invoke("messages.sendMessage", {
+  peer: { _: "inputPeerSelf" },
+  message: "Hello!",
+  random_id: Date.now(),
+});
+```
 
 ## `client.disconnect() → Promise<void>`
 
@@ -49,11 +49,11 @@ Closes the transport and releases the session.
 
 ## `load(opts) → Promise<MTGoWasmAPI>`
 
-Loads and instantiates the WASM binary. Available from two entry points:
+Loads the WASM binary. Two entry points:
 
 ::: code-group
 
-```js [Bundler (Vite / SvelteKit)]
+```js [Bundler]
 import { load } from "@mtgo-labs/wasm";
 import wasmUrl from "@mtgo-labs/wasm/mtgo-wasm.wasm?url";
 import wasmExecUrl from "@mtgo-labs/wasm/wasm_exec.js?url";
@@ -61,20 +61,85 @@ import wasmExecUrl from "@mtgo-labs/wasm/wasm_exec.js?url";
 const mtgo = await load({ wasmUrl, wasmExecUrl });
 ```
 
-```js [Plain browser]
+```js [Browser]
 import { load } from "@mtgo-labs/wasm/browser";
-
 const mtgo = await load("/mtgo-wasm.wasm", "/wasm_exec.js");
 ```
 
 :::
 
-| Option         | Type     | Bundler | Browser | Description                                      |
-|----------------|----------|---------|---------|--------------------------------------------------|
-| `wasmUrl`      | `string` | yes     | —       | URL to the `.wasm` file (use `?url` in Vite)     |
-| `wasmExecUrl`  | `string` | no      | —       | URL to `wasm_exec.js` (skip if loaded via `<script>`) |
-| `wasmPath`     | `string` | —       | 1st arg | URL/path to `mtgo-wasm.wasm`                     |
-| `execPath`     | `string` | —       | 2nd arg | URL/path to `wasm_exec.js` (skip if already loaded) |
+| Option | Type | Description |
+|---|---|---|
+| `wasmUrl` | `string` | URL to the `.wasm` file |
+| `wasmExecUrl` | `string` | URL to `wasm_exec.js` (omit if loaded via `<script>`) |
+
+## Convenience methods
+
+### Auth
+
+- **`getMe()`** — full user info via RPC (`users.getUsers` with `inputUserSelf`)
+- **`logOut()`** — log out (`auth.logOut`)
+
+### Profile
+
+- **`setUsername({ username })`** — change your username (`account.updateUsername`)
+- **`setBio({ about })`** — change your bio (`account.updateProfile`)
+- **`updateProfile({ first_name?, last_name?, about? })`** — update profile (`account.updateProfile`)
+- **`checkUsername({ username })`** — check username availability (`account.checkUsername`)
+
+### Messages
+
+- **`sendMessage({ peer, message, ... })`** — send a message (auto-generates `random_id`)
+- **`editMessage({ ... })`** — edit a message (`messages.editMessage`)
+- **`deleteMessages({ id: [1,2,3] })`** — delete messages (`messages.deleteMessages`)
+- **`forwardMessages({ ... })`** — forward messages (`messages.forwardMessages`)
+- **`getHistory({ peer, ... })`** — get chat history (`messages.getHistory`)
+- **`getDialogs({ ... })`** — get dialog list (`messages.getDialogs`)
+- **`searchMessages({ ... })`** — search messages (`messages.search`)
+- **`sendReaction({ ... })`** — send a reaction (`messages.sendReaction`)
+- **`readHistory({ peer, ... })`** — mark as read (`messages.readHistory`)
+- **`pinMessage({ ... })`** — pin a message (`messages.updatePinnedMessage`)
+- **`unpinMessage({ ... })`** — unpin a message (`messages.updatePinnedMessage`)
+
+### Chats & channels
+
+- **`getChat({ id: [123] })`** — get chats by ID (`messages.getChats`)
+- **`getFullChat({ channel })`** — get full channel info (`channels.getFullChannel`)
+- **`joinChat({ channel })`** — join a channel (`channels.joinChannel`)
+- **`leaveChat({ channel })`** — leave a channel (`channels.leaveChannel`)
+- **`createChannel({ ... })`** — create a channel (`channels.createChannel`)
+- **`createGroup({ users, title })`** — create a group (`messages.createChat`)
+- **`getChatMembers({ channel })`** — get members (`channels.getParticipants`)
+- **`inviteToChat({ ... })`** — invite to channel/group (`channels.inviteToChannel`)
+
+### Peer resolution
+
+- **`resolveUsername({ username })`** — resolve @username to peer (`contacts.resolveUsername`)
+- **`resolvePhone({ phone })`** — resolve phone to user (`contacts.resolvePhone`)
+
+### Users
+
+- **`getUsers({ id })`** — get users by ID (`users.getUsers`)
+- **`getFullUser({ id })`** — get full user info (`users.getFullUser`)
+
+### Bots
+
+- **`answerCallbackQuery({ ... })`** — answer callback query (`messages.setBotCallbackAnswer`)
+- **`answerInlineQuery({ ... })`** — answer inline query (`messages.setInlineBotResults`)
+- **`getMyCommands({ ... })`** — get bot commands (`bots.getBotCommands`)
+- **`setMyCommands({ ... })`** — set bot commands (`bots.setBotCommands`)
+
+## TL namespace proxy
+
+Any property not listed above is treated as a TL namespace — all Telegram TL methods are accessible:
+
+```js
+await tg.account.updateProfile({ first_name: "John" })
+await tg.messages.sendMessage({ peer: { _: "inputPeerSelf" }, message: "hi" })
+await tg.users.getUsers({ id: [{ _: "inputUserSelf" }] })
+```
+
+Params use snake_case keys matching the TL schema. Each call returns a Promise.
 
 ## Building from source
 
@@ -84,4 +149,4 @@ cd wasm
 GOOS=js GOARCH=wasm go build -o mtgo-wasm.wasm .
 ```
 
-Requires Go 1.22+ (for `math/rand/v2`) and the mtgo version that ships `Config.WSDialer` + `telegram.NewWSDialer`.
+Requires Go 1.22+.
