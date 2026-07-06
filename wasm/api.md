@@ -1,13 +1,13 @@
 ---
 title: API Reference
-description: mtgo-wasm JavaScript API — createClient, connect, invoke, me, and disconnect.
+description: "@mtgo-labs/wasm JavaScript API — createClient, connect, invoke, me, and disconnect."
 ---
 
 # API Reference
 
-The mtgo-wasm bridge exposes a minimal JavaScript API through the global `MtgoWasm` object (created by `load()`).
+The `@mtgo-labs/wasm` bridge exposes a minimal JavaScript API through the global `MTGoWasm` object (created by `load()`).
 
-## `MtgoWasm.createClient(opts) → client`
+## `MTGoWasm.createClient(opts) → client`
 
 Creates a new mtgo client. Does not connect — call `client.connect()` to establish the WebSocket transport and authenticate.
 
@@ -47,9 +47,40 @@ Returns the authenticated user (`{ id, username, first_name, last_name, is_bot }
 
 Closes the transport and releases the session.
 
-## Building
+## `load(opts) → Promise<MTGoWasmAPI>`
+
+Loads and instantiates the WASM binary. Available from two entry points:
+
+::: code-group
+
+```js [Bundler (Vite / SvelteKit)]
+import { load } from "@mtgo-labs/wasm";
+import wasmUrl from "@mtgo-labs/wasm/mtgo-wasm.wasm?url";
+import wasmExecUrl from "@mtgo-labs/wasm/wasm_exec.js?url";
+
+const mtgo = await load({ wasmUrl, wasmExecUrl });
+```
+
+```js [Plain browser]
+import { load } from "@mtgo-labs/wasm/browser";
+
+const mtgo = await load("/mtgo-wasm.wasm", "/wasm_exec.js");
+```
+
+:::
+
+| Option         | Type     | Bundler | Browser | Description                                      |
+|----------------|----------|---------|---------|--------------------------------------------------|
+| `wasmUrl`      | `string` | yes     | —       | URL to the `.wasm` file (use `?url` in Vite)     |
+| `wasmExecUrl`  | `string` | no      | —       | URL to `wasm_exec.js` (skip if loaded via `<script>`) |
+| `wasmPath`     | `string` | —       | 1st arg | URL/path to `mtgo-wasm.wasm`                     |
+| `execPath`     | `string` | —       | 2nd arg | URL/path to `wasm_exec.js` (skip if already loaded) |
+
+## Building from source
 
 ```bash
+git clone https://github.com/mtgo-labs/wasm.git
+cd wasm
 GOOS=js GOARCH=wasm go build -o mtgo-wasm.wasm .
 ```
 

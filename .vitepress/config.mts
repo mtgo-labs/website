@@ -282,7 +282,7 @@ export default defineConfig({
 
       "/wasm/": [
         {
-          text: "mtgo-wasm",
+          text: "@mtgo-labs/wasm",
           items: [
             { text: "Overview", link: "/wasm/" },
             { text: "API Reference", link: "/wasm/api" },
