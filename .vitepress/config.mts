@@ -325,6 +325,7 @@ export default defineConfig({
             { text: "Middleware Bot", link: "/examples/middleware-bot" },
             { text: "WebApp Validation", link: "/examples/webapp-bot" },
             { text: "SQLite Storage", link: "/examples/sqlite-storage" },
+            { text: "ntgcalls Voice/Video Bot", link: "/examples/ntgcalls-bot" },
           ],
         },
       ],
